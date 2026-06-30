@@ -1,0 +1,473 @@
+canonical_identifier: bkk:krp/KR5d0036/bkk/v1/markers/1
+seq: 1
+markers:
+  front:
+  - {type: variant, offset: 0, length: 1, content: 敘, CK-KZ: 重刋道藏輯要眞}
+  - {type: page-break, offset: 0, content: '', id: KR5d0036_CK-KZ_02p001a, image: JY237/CK-KZ_JY237_02p001a.png}
+  - {type: variant, offset: 0, length: 2, content: 敘誥, CK-KZ-jye: 重刋道藏輯要貞白眞人華陽隱居陶弘景著神嶽排霄起飛峯鬱千尋寥籠靈谷虛瓊林蔚蕭森丨此一字被墨濃黵不復可識正中抽一腳出下似是羊字其人名權生標美秀弱冠流淸音棲情莊慧津超形象魏林揚彩朱門中内有邁俗心我與夫子族源冑同淵池宏宗分上業於今各異枝蘭金因好著三益方覺彌靜尋欣斯會雅綜彌齡祀誰云幽鑒難得之方寸裏翹想籠樊外俱爲山巖士無令騰虛翰中隨驚風起遷化雖由人蕃羊未易擬所期豈朝華歲暮於吾子愕綠華}
+  - {type: variant, offset: 0, length: 1, content: 敘, HFL: 眞}
+  - {type: page-break, offset: 0, content: '', id: KR5d0036_HFL_001-001a, image: hfl/0637/0637-008.png}
+  - {type: variant, offset: 0, length: 1, content: 敘, WYG: 欽定四庫全書眞}
+  - {type: page-break, offset: 0, content: '', id: KR5d0036_WYG_001-1a, image: WYG1059/WYG1059-0314c.png}
+  - {type: variant, offset: 0, length: 1, content: 敘, YP-C: 重刋道藏輯要眞}
+  - {type: page-break, offset: 0, content: '', id: KR5d0036_YP-C_20ziji-01-0002a, image: JY237/20ziji-01-0002a.png}
+  - {type: variant, offset: 0, length: 1, content: 敘, ZTDZ: 眞}
+  - {type: page-break, offset: 0, content: '', id: KR5d0036_SJB_001-200491a, image: sjb/20/200491a.png}
+  - {type: variant, offset: 0, length: 1, content: 敘, krp: 眞}
+  body:
+  - {type: xml-element, offset: 1, content: '', id: KR5d0036_tls_001-1a}
+  - {type: 'tls:seg', offset: 1, content: '', id: KR5d0036_tls_001-1a.1}
+  - {type: variant, offset: 2, length: 61, content: 者告也書有湯誥洛誥諸篇孔安國云誥以大義告乎天下者是也經有緯緯者相經緯也其事皆足以輔翼乎經故言緯也真誥之作其緯於經者乎其目自, CK-KZ: 貞白眞人華陽隱居陶弘景著}
+  - {type: variant, offset: 2, length: 13, content: 者告也書有湯誥洛誥諸篇孔安, HFL: 卷之一金闕右卿司命蓬萊都水監梁}
+  - {type: variant, offset: 2, length: 61, content: 者告也書有湯誥洛誥諸篇孔安國云誥以大義告乎天下者是也經有緯緯者相經緯也其事皆足以輔翼乎經故言緯也真誥之作其緯於經者乎其目自, WYG: 卷一梁陶𢎞景撰}
+  - {type: variant, offset: 2, length: 61, content: 者告也書有湯誥洛誥諸篇孔安國云誥以大義告乎天下者是也經有緯緯者相經緯也其事皆足以輔翼乎經故言緯也真誥之作其緯於經者乎其目自, YP-C: 貞白眞人華陽隱居陶弘景著}
+  - {type: variant, offset: 2, length: 13, content: 者告也書有湯誥洛誥諸篇孔安, ZTDZ: 卷之一金闕右卿司命蓬萊都水監梁}
+  - {type: variant, offset: 2, length: 13, content: 者告也書有湯誥洛誥諸篇孔安, krp: 卷之一金闕右卿司命蓬萊都水監梁}
+  - {type: variant, offset: 3, length: 1, content: 告, CK-KZ-jye: 自云是南山人不知是何山}
+  - {type: punctuation, offset: 5, content: ，, id: KR5d0036_tls_001-bkkpn1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR5d0036_tls_001-1a.2}
+  - {type: punctuation, offset: 5, content: 《, id: KR5d0036_tls_001-bkkpn2}
+  - {type: variant, offset: 5, length: 13, content: 書有湯誥洛誥諸篇孔安國云誥, CK-KZ-jye: 女子年可二十上下靑衣顏色絶整}
+  - {type: punctuation, offset: 6, content: 》, id: KR5d0036_tls_001-bkkpn3}
+  - {type: punctuation, offset: 7, content: 《, id: KR5d0036_tls_001-bkkpn4}
+  - {type: punctuation, offset: 9, content: 》, id: KR5d0036_tls_001-bkkpn5}
+  - {type: punctuation, offset: 9, content: 《, id: KR5d0036_tls_001-bkkpn6}
+  - {type: punctuation, offset: 11, content: 》, id: KR5d0036_tls_001-bkkpn7}
+  - {type: punctuation, offset: 13, content: ，, id: KR5d0036_tls_001-bkkpn8}
+  - {type: 'tls:seg', offset: 13, content: '', id: KR5d0036_tls_001-1a.3}
+  - {type: variant, offset: 16, length: 47, content: 云誥以大義告乎天下者是也經有緯緯者相經緯也其事皆足以輔翼乎經故言緯也真誥之作其緯於經者乎其目自, HFL: 師貞白眞人華陽隱居陶弘景造}
+  - {type: variant, offset: 16, length: 47, content: 云誥以大義告乎天下者是也經有緯緯者相經緯也其事皆足以輔翼乎經故言緯也真誥之作其緯於經者乎其目自, ZTDZ: 師貞白眞人華陽隱居陶弘景造}
+  - {type: variant, offset: 16, length: 47, content: 云誥以大義告乎天下者是也經有緯緯者相經緯也其事皆足以輔翼乎經故言緯也真誥之作其緯於經者乎其目自, krp: 師貞白眞人華陽隱居陶弘景造}
+  - {type: punctuation, offset: 17, content: ：, id: KR5d0036_tls_001-bkkpn9}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR5d0036_tls_001-1a.4}
+  - {type: punctuation, offset: 17, content: 「, id: KR5d0036_tls_001-bkkpn10}
+  - {type: variant, offset: 19, length: 347, content: 大義告乎天下者是也經有緯緯者相經緯也其事皆足以輔翼乎經故言緯也真誥之作其緯於經者乎其目自運象至於翼真檢者凡七蓋有象乎緯能通乎緯必知誥矣陶君之意亦謂卦六十四道之玄也道德五千言玄之道也其餘賾玄之奧鉤玄之微能與易老貫者各形乎言各見乎事雖然事與言非玄矣其書所載往往出乎緯之所以輔經者予少耽黃老說搜索道家者流幾千家殫精日月無能深鑿其鍵嘗接江西道士吳靜極言玄事靜曰誤矣餘驚拜曰願學道靜曰讀易乎讀易足矣後乃以易悟所得者易也陶君固甚知道凡有啟於後學者其或自此始歟太乙宮高士玉京外臣易如剛告予以茅山刊真誥欲敘其略昔者沈約遺陶君書深言先生糠比流俗超然獨覽名書絳簡至理精微唯欲下風問道未知厥路若有屬於誥者矣然陶君銘茅山曲林館迺云祈生翊命各謂知道參差經術跌宕辭藻是數語者全為誥設此翁一銘猶足為山中無窮清風況書乎嘉定十六, CK-KZ-jye: 升平三}
+  - {type: punctuation, offset: 28, content: 。, id: KR5d0036_tls_001-bkkpn11}
+  - {type: punctuation, offset: 28, content: 」, id: KR5d0036_tls_001-bkkpn12}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR5d0036_tls_001-1a.5}
+  - {type: punctuation, offset: 31, content: ，, id: KR5d0036_tls_001-bkkpn13}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR5d0036_tls_001-1a.6}
+  - {type: punctuation, offset: 37, content: 。, id: KR5d0036_tls_001-bkkpn14}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR5d0036_tls_001-1a.7}
+  - {type: punctuation, offset: 46, content: ，, id: KR5d0036_tls_001-bkkpn15}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR5d0036_tls_001-1a.8}
+  - {type: punctuation, offset: 50, content: 。, id: KR5d0036_tls_001-bkkpn16}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR5d0036_tls_001-1a.9}
+  - {type: punctuation, offset: 50, content: 《, id: KR5d0036_tls_001-bkkpn17}
+  - {type: punctuation, offset: 52, content: 》, id: KR5d0036_tls_001-bkkpn18}
+  - {type: punctuation, offset: 54, content: ，, id: KR5d0036_tls_001-bkkpn19}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR5d0036_tls_001-1a.10}
+  - {type: punctuation, offset: 60, content: ？, id: KR5d0036_tls_001-bkkpn20}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR5d0036_tls_001-1a.11}
+  - {type: punctuation, offset: 63, content: 《, id: KR5d0036_tls_001-bkkpn21}
+  - {type: punctuation, offset: 65, content: 》, id: KR5d0036_tls_001-bkkpn22}
+  - {type: variant, offset: 65, length: 1, content: 至, CK-KZ: 篇第一愕綠華詩神嶽排霄起飛峯鬱千尋寥籠靈谷虛瓊林蔚蕭森丨此一字被墨濃黵不復可識正中抽一腳出下似是羊字其人名權生標美秀弱冠流淸音棲情莊慧津超形象魏林揚彩朱門中内有邁俗心我與夫子族源冑同淵池宏宗分上業}
+  - {type: variant, offset: 65, length: 1, content: 至, HFL: 篇第一愕緑華詩神嶽排霄起飛峯鬱千尋寥籠靈谷虚瓊林蔚蕭森此一字被墨濃黵不復可識正中抽一脚出下似是羊字其人名權生標美秀弱冠流清音棲情莊慧津超形象魏林揚彩朱門中内有邁俗心我與夫子族源冑同淵池宏宗分上業}
+  - {type: variant, offset: 65, length: 1, content: 至, WYG: 篇第一萼緑華詩神嶽排霄起飛峯鬱千尋寥籠靈谷虚瓊林蔚蕭森丨此一字被墨濃黵不復可識正中抽一脚出下似是羊字其人名權生標美秀弱冠流清音棲情㽵慧津超形象魏林揚彩朱門中内有邁俗心我與夫子族源胄同淵池宏宗分上業}
+  - {type: variant, offset: 65, length: 1, content: 至, YP-C: 篇第一愕綠華詩神嶽排霄起飛峯鬱千尋寥籠靈谷虛瓊林蔚蕭森此一字被墨濃黵不復可識正中抽一腳出下似是羊字其人名權生標美秀弱冠流清音棲情莊慧津超形象魏林揚彩朱門中内有邁俗心我與夫子族源冑同淵池宏宗分上業}
+  - {type: variant, offset: 65, length: 1, content: 至, ZTDZ: 篇第一愕緑華詩神嶽排霄起飛峯鬱千尋寥籠靈谷虚瓊林蔚蕭森此一字被墨濃黵不復可識正中抽一脚出下似是羊字其人名權生標美秀弱冠流清音棲情莊慧津超形象魏林揚彩朱門中内有邁俗心我與夫子族源冑同淵池宏宗分上業}
+  - {type: variant, offset: 65, length: 1, content: 至, krp: 篇第一愕緑華詩神嶽排霄起飛峯鬱千尋寥籠靈谷虚瓊林蔚蕭森此一字被墨濃黵不復可識正中抽一脚出下似是羊字其人名權生標美秀弱冠流清音棲情莊慧津超形象魏林揚彩朱門中内有邁俗心我與夫子族源冑同淵池宏宗分上業}
+  - {type: punctuation, offset: 67, content: 《, id: KR5d0036_tls_001-bkkpn23}
+  - {type: variant, offset: 67, length: 3, content: 翼真檢, CK-KZ: 今各異枝蘭金因好著三益方覺彌靜尋欣斯會雅綜彌齡祀誰云幽鑒難得之方寸裏翹想籠樊外俱爲山巖士無令騰虛翰中隨驚風起遷化雖由人蕃羊未易擬所期豈朝華歲暮於吾子愕綠華}
+  - {type: page-break, offset: 67, content: '', id: KR5d0036_CK-KZ_02p001b, image: JY237/CK-KZ_JY237_02p001b.png}
+  - {type: variant, offset: 67, length: 3, content: 翼真檢, HFL: 今各異枝蘭金因好著三益方覺彌靜尋欣斯會雅綜彌齡祀誰云幽鑒難得之方寸裏翹想籠樊外俱爲山巖士無令騰虚翰中隨驚風起遷化雖由人蕃羊未易擬所期豈朝華歲暮於吾子愕緑華}
+  - {type: page-break, offset: 67, content: '', id: KR5d0036_HFL_001-001b, image: hfl/0637/0637-009.png}
+  - {type: variant, offset: 67, length: 21, content: 翼真檢者凡七蓋有象乎緯能通乎緯必知誥矣陶君, WYG: 今各異枝蘭金因好著三益方覺彌靜尋欣斯㑹雅綜彌齡祀誰云幽鑒難得}
+  - {type: page-break, offset: 67, content: '', id: KR5d0036_WYG_001-1b, image: WYG1059/WYG1059-0314d.png}
+  - {type: variant, offset: 67, length: 3, content: 翼真檢, YP-C: 今各異枝蘭金因好著三益方覺彌靜尋欣斯會雅綜彌齡祀誰云幽鑒難得之方寸裏翹想籠樊外俱爲山巖士無令騰虛翰中隨驚風起遷化雖由人蕃羊未易擬所期豈朝華歲暮於吾子愕綠華}
+  - {type: page-break, offset: 67, content: '', id: KR5d0036_YP-C_20ziji-01-0002b, image: JY237/20ziji-01-0002b.png}
+  - {type: variant, offset: 67, length: 3, content: 翼真檢, ZTDZ: 今各異枝蘭金因好著三益方覺彌靜尋欣斯會雅綜彌齡祀誰云幽鑒難得之方寸裏翹想籠樊外俱爲山巖士無令騰虚翰中隨驚風起遷化雖由人蕃羊未易擬所期豈朝華歲暮於吾子愕緑華}
+  - {type: variant, offset: 67, length: 3, content: 翼真檢, krp: 今各異枝蘭金因好著三益方覺彌靜尋欣斯會雅綜彌齡祀誰云幽鑒難得之方寸裏翹想籠樊外俱爲山巖士無令騰虚翰中隨驚風起遷化雖由人蕃羊未易擬所期豈朝華歲暮於吾子愕緑華}
+  - {type: punctuation, offset: 70, content: 》, id: KR5d0036_tls_001-bkkpn24}
+  - {type: variant, offset: 71, length: 12, content: 凡七蓋有象乎緯能通乎緯必, CK-KZ: 自云是南山人不}
+  - {type: variant, offset: 71, length: 12, content: 凡七蓋有象乎緯能通乎緯必, HFL: 自云是南山人不}
+  - {type: variant, offset: 71, length: 12, content: 凡七蓋有象乎緯能通乎緯必, YP-C: 自云是南山人不}
+  - {type: variant, offset: 71, length: 12, content: 凡七蓋有象乎緯能通乎緯必, ZTDZ: 自云是南山人不}
+  - {type: variant, offset: 71, length: 12, content: 凡七蓋有象乎緯能通乎緯必, krp: 自云是南山人不}
+  - {type: punctuation, offset: 73, content: ，, id: KR5d0036_tls_001-bkkpn25}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR5d0036_tls_001-1a.12}
+  - {type: punctuation, offset: 78, content: 。, id: KR5d0036_tls_001-bkkpn26}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR5d0036_tls_001-1a.13}
+  - {type: punctuation, offset: 82, content: ，, id: KR5d0036_tls_001-bkkpn27}
+  - {type: 'tls:seg', offset: 82, content: '', id: KR5d0036_tls_001-1a.14}
+  - {type: variant, offset: 84, length: 10, content: 誥矣陶君之意亦謂卦六, CK-KZ: 是何山也女子年可二}
+  - {type: variant, offset: 84, length: 10, content: 誥矣陶君之意亦謂卦六, HFL: 是何山也女子年可二}
+  - {type: variant, offset: 84, length: 10, content: 誥矣陶君之意亦謂卦六, YP-C: 是何山也女子年可二}
+  - {type: variant, offset: 84, length: 10, content: 誥矣陶君之意亦謂卦六, ZTDZ: 是何山也女子年可二}
+  - {type: variant, offset: 84, length: 10, content: 誥矣陶君之意亦謂卦六, krp: 是何山也女子年可二}
+  - {type: punctuation, offset: 86, content: ！, id: KR5d0036_tls_001-bkkpn28}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR5d0036_tls_001-1a.15}
+  - {type: variant, offset: 89, length: 160, content: 意亦謂卦六十四道之玄也道德五千言玄之道也其餘賾玄之奧鉤玄之微能與易老貫者各形乎言各見乎事雖然事與言非玄矣其書所載往往出乎緯之所以輔經者予少耽黃老說搜索道家者流幾千家殫精日月無能深鑿其鍵嘗接江西道士吳靜極言玄事靜曰誤矣餘驚拜曰願學道靜曰讀易乎讀易足矣後乃以易悟所得者易也陶君固甚知道凡有啟於後學者其或自此始歟太乙宮高士玉京, WYG: 方寸裏翹想籠樊}
+  - {type: punctuation, offset: 90, content: ，, id: KR5d0036_tls_001-bkkpn29}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR5d0036_tls_001-1a.16}
+  - {type: variant, offset: 95, length: 57, content: 四道之玄也道德五千言玄之道也其餘賾玄之奧鉤玄之微能與易老貫者各形乎言各見乎事雖然事與言非玄矣其書所載往往出乎緯之所, CK-KZ: 上下靑衣顏色絶整}
+  - {type: variant, offset: 95, length: 57, content: 四道之玄也道德五千言玄之道也其餘賾玄之奧鉤玄之微能與易老貫者各形乎言各見乎事雖然事與言非玄矣其書所載往往出乎緯之所, HFL: 上下青衣顔色絶整}
+  - {type: variant, offset: 95, length: 57, content: 四道之玄也道德五千言玄之道也其餘賾玄之奧鉤玄之微能與易老貫者各形乎言各見乎事雖然事與言非玄矣其書所載往往出乎緯之所, YP-C: 上下青衣顏色絶整}
+  - {type: variant, offset: 95, length: 57, content: 四道之玄也道德五千言玄之道也其餘賾玄之奧鉤玄之微能與易老貫者各形乎言各見乎事雖然事與言非玄矣其書所載往往出乎緯之所, ZTDZ: 上下青衣顔色絶整}
+  - {type: variant, offset: 95, length: 57, content: 四道之玄也道德五千言玄之道也其餘賾玄之奧鉤玄之微能與易老貫者各形乎言各見乎事雖然事與言非玄矣其書所載往往出乎緯之所, krp: 上下青衣顔色絶整}
+  - {type: punctuation, offset: 96, content: ，, id: KR5d0036_tls_001-bkkpn30}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR5d0036_tls_001-1a.17}
+  - {type: punctuation, offset: 100, content: 。, id: KR5d0036_tls_001-bkkpn31}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR5d0036_tls_001-1a.18}
+  - {type: punctuation, offset: 100, content: 《, id: KR5d0036_tls_001-bkkpn32}
+  - {type: punctuation, offset: 102, content: 》, id: KR5d0036_tls_001-bkkpn33}
+  - {type: punctuation, offset: 105, content: ，, id: KR5d0036_tls_001-bkkpn34}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR5d0036_tls_001-1a.19}
+  - {type: punctuation, offset: 109, content: 。, id: KR5d0036_tls_001-bkkpn35}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR5d0036_tls_001-1a.20}
+  - {type: punctuation, offset: 115, content: ，, id: KR5d0036_tls_001-bkkpn36}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR5d0036_tls_001-1a.21}
+  - {type: punctuation, offset: 119, content: ，, id: KR5d0036_tls_001-bkkpn37}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR5d0036_tls_001-1a.22}
+  - {type: punctuation, offset: 121, content: 《, id: KR5d0036_tls_001-bkkpn38}
+  - {type: punctuation, offset: 122, content: 》, id: KR5d0036_tls_001-bkkpn39}
+  - {type: punctuation, offset: 122, content: 、, id: KR5d0036_tls_001-bkkpn40}
+  - {type: punctuation, offset: 125, content: ，, id: KR5d0036_tls_001-bkkpn41}
+  - {type: 'tls:seg', offset: 125, content: '', id: KR5d0036_tls_001-1a.23}
+  - {type: punctuation, offset: 129, content: ，, id: KR5d0036_tls_001-bkkpn42}
+  - {type: 'tls:seg', offset: 129, content: '', id: KR5d0036_tls_001-1a.24}
+  - {type: punctuation, offset: 133, content: 。, id: KR5d0036_tls_001-bkkpn43}
+  - {type: 'tls:seg', offset: 133, content: '', id: KR5d0036_tls_001-1a.25}
+  - {type: punctuation, offset: 135, content: ，, id: KR5d0036_tls_001-bkkpn44}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR5d0036_tls_001-1a.26}
+  - {type: punctuation, offset: 141, content: 。, id: KR5d0036_tls_001-bkkpn45}
+  - {type: 'tls:seg', offset: 141, content: '', id: KR5d0036_tls_001-1a.27}
+  - {type: punctuation, offset: 145, content: ，, id: KR5d0036_tls_001-bkkpn46}
+  - {type: 'tls:seg', offset: 145, content: '', id: KR5d0036_tls_001-1a.28}
+  - {type: variant, offset: 153, length: 213, content: 輔經者予少耽黃老說搜索道家者流幾千家殫精日月無能深鑿其鍵嘗接江西道士吳靜極言玄事靜曰誤矣餘驚拜曰願學道靜曰讀易乎讀易足矣後乃以易悟所得者易也陶君固甚知道凡有啟於後學者其或自此始歟太乙宮高士玉京外臣易如剛告予以茅山刊真誥欲敘其略昔者沈約遺陶君書深言先生糠比流俗超然獨覽名書絳簡至理精微唯欲下風問道未知厥路若有屬於誥者矣然陶君銘茅山曲林館迺云祈生翊命各謂知道參差經術跌宕辭藻是數語者全為誥設此翁一銘猶足為山中無窮清風況書乎嘉定十六, CK-KZ: 升平三}
+  - {type: variant, offset: 153, length: 213, content: 輔經者予少耽黃老說搜索道家者流幾千家殫精日月無能深鑿其鍵嘗接江西道士吳靜極言玄事靜曰誤矣餘驚拜曰願學道靜曰讀易乎讀易足矣後乃以易悟所得者易也陶君固甚知道凡有啟於後學者其或自此始歟太乙宮高士玉京外臣易如剛告予以茅山刊真誥欲敘其略昔者沈約遺陶君書深言先生糠比流俗超然獨覽名書絳簡至理精微唯欲下風問道未知厥路若有屬於誥者矣然陶君銘茅山曲林館迺云祈生翊命各謂知道參差經術跌宕辭藻是數語者全為誥設此翁一銘猶足為山中無窮清風況書乎嘉定十六, HFL: 升平三}
+  - {type: variant, offset: 153, length: 213, content: 輔經者予少耽黃老說搜索道家者流幾千家殫精日月無能深鑿其鍵嘗接江西道士吳靜極言玄事靜曰誤矣餘驚拜曰願學道靜曰讀易乎讀易足矣後乃以易悟所得者易也陶君固甚知道凡有啟於後學者其或自此始歟太乙宮高士玉京外臣易如剛告予以茅山刊真誥欲敘其略昔者沈約遺陶君書深言先生糠比流俗超然獨覽名書絳簡至理精微唯欲下風問道未知厥路若有屬於誥者矣然陶君銘茅山曲林館迺云祈生翊命各謂知道參差經術跌宕辭藻是數語者全為誥設此翁一銘猶足為山中無窮清風況書乎嘉定十六, YP-C: 升平三}
+  - {type: variant, offset: 153, length: 213, content: 輔經者予少耽黃老說搜索道家者流幾千家殫精日月無能深鑿其鍵嘗接江西道士吳靜極言玄事靜曰誤矣餘驚拜曰願學道靜曰讀易乎讀易足矣後乃以易悟所得者易也陶君固甚知道凡有啟於後學者其或自此始歟太乙宮高士玉京外臣易如剛告予以茅山刊真誥欲敘其略昔者沈約遺陶君書深言先生糠比流俗超然獨覽名書絳簡至理精微唯欲下風問道未知厥路若有屬於誥者矣然陶君銘茅山曲林館迺云祈生翊命各謂知道參差經術跌宕辭藻是數語者全為誥設此翁一銘猶足為山中無窮清風況書乎嘉定十六, ZTDZ: 升平三}
+  - {type: variant, offset: 153, length: 213, content: 輔經者予少耽黃老說搜索道家者流幾千家殫精日月無能深鑿其鍵嘗接江西道士吳靜極言玄事靜曰誤矣餘驚拜曰願學道靜曰讀易乎讀易足矣後乃以易悟所得者易也陶君固甚知道凡有啟於後學者其或自此始歟太乙宮高士玉京外臣易如剛告予以茅山刊真誥欲敘其略昔者沈約遺陶君書深言先生糠比流俗超然獨覽名書絳簡至理精微唯欲下風問道未知厥路若有屬於誥者矣然陶君銘茅山曲林館迺云祈生翊命各謂知道參差經術跌宕辭藻是數語者全為誥設此翁一銘猶足為山中無窮清風況書乎嘉定十六, krp: 升平三}
+  - {type: punctuation, offset: 156, content: 。, id: KR5d0036_tls_001-bkkpn47}
+  - {type: xml-element, offset: 156, content: '', id: KR5d0036_tls_001-1a_end}
+  - {type: xml-element, offset: 156, content: '', id: KR5d0036_tls_001-2a}
+  - {type: 'tls:seg', offset: 156, content: '', id: KR5d0036_tls_001-2a.1}
+  - {type: substitution, offset: 156, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
+  - {type: punctuation, offset: 162, content: ，, id: KR5d0036_tls_001-bkkpn48}
+  - {type: 'tls:seg', offset: 162, content: '', id: KR5d0036_tls_001-2a.2}
+  - {type: punctuation, offset: 171, content: ，, id: KR5d0036_tls_001-bkkpn49}
+  - {type: 'tls:seg', offset: 171, content: '', id: KR5d0036_tls_001-2a.3}
+  - {type: punctuation, offset: 175, content: ，, id: KR5d0036_tls_001-bkkpn50}
+  - {type: 'tls:seg', offset: 175, content: '', id: KR5d0036_tls_001-2a.4}
+  - {type: punctuation, offset: 181, content: 。, id: KR5d0036_tls_001-bkkpn51}
+  - {type: 'tls:seg', offset: 181, content: '', id: KR5d0036_tls_001-2a.5}
+  - {type: punctuation, offset: 189, content: ，, id: KR5d0036_tls_001-bkkpn52}
+  - {type: 'tls:seg', offset: 189, content: '', id: KR5d0036_tls_001-2a.6}
+  - {type: punctuation, offset: 193, content: 。, id: KR5d0036_tls_001-bkkpn53}
+  - {type: 'tls:seg', offset: 193, content: '', id: KR5d0036_tls_001-2a.7}
+  - {type: punctuation, offset: 195, content: ：, id: KR5d0036_tls_001-bkkpn54}
+  - {type: 'tls:seg', offset: 195, content: '', id: KR5d0036_tls_001-2a.8}
+  - {type: punctuation, offset: 195, content: 「, id: KR5d0036_tls_001-bkkpn55}
+  - {type: punctuation, offset: 197, content: ！, id: KR5d0036_tls_001-bkkpn56}
+  - {type: punctuation, offset: 197, content: 」, id: KR5d0036_tls_001-bkkpn57}
+  - {type: 'tls:seg', offset: 197, content: '', id: KR5d0036_tls_001-2a.9}
+  - {type: punctuation, offset: 201, content: ：, id: KR5d0036_tls_001-bkkpn58}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR5d0036_tls_001-2a.10}
+  - {type: punctuation, offset: 201, content: 「, id: KR5d0036_tls_001-bkkpn59}
+  - {type: punctuation, offset: 204, content: 。, id: KR5d0036_tls_001-bkkpn60}
+  - {type: punctuation, offset: 204, content: 」, id: KR5d0036_tls_001-bkkpn61}
+  - {type: 'tls:seg', offset: 204, content: '', id: KR5d0036_tls_001-2a.11}
+  - {type: punctuation, offset: 206, content: ：, id: KR5d0036_tls_001-bkkpn62}
+  - {type: 'tls:seg', offset: 206, content: '', id: KR5d0036_tls_001-2a.12}
+  - {type: punctuation, offset: 206, content: 「, id: KR5d0036_tls_001-bkkpn63}
+  - {type: punctuation, offset: 207, content: 《, id: KR5d0036_tls_001-bkkpn64}
+  - {type: punctuation, offset: 208, content: 》, id: KR5d0036_tls_001-bkkpn65}
+  - {type: punctuation, offset: 209, content: ？, id: KR5d0036_tls_001-bkkpn66}
+  - {type: 'tls:seg', offset: 209, content: '', id: KR5d0036_tls_001-2a.13}
+  - {type: punctuation, offset: 210, content: 《, id: KR5d0036_tls_001-bkkpn67}
+  - {type: punctuation, offset: 211, content: 》, id: KR5d0036_tls_001-bkkpn68}
+  - {type: punctuation, offset: 213, content: ！, id: KR5d0036_tls_001-bkkpn69}
+  - {type: punctuation, offset: 213, content: 」, id: KR5d0036_tls_001-bkkpn70}
+  - {type: 'tls:seg', offset: 213, content: '', id: KR5d0036_tls_001-2a.14}
+  - {type: punctuation, offset: 216, content: 《, id: KR5d0036_tls_001-bkkpn71}
+  - {type: punctuation, offset: 217, content: 》, id: KR5d0036_tls_001-bkkpn72}
+  - {type: punctuation, offset: 218, content: ，, id: KR5d0036_tls_001-bkkpn73}
+  - {type: 'tls:seg', offset: 218, content: '', id: KR5d0036_tls_001-2a.15}
+  - {type: punctuation, offset: 221, content: 《, id: KR5d0036_tls_001-bkkpn74}
+  - {type: punctuation, offset: 222, content: 》, id: KR5d0036_tls_001-bkkpn75}
+  - {type: punctuation, offset: 223, content: 。, id: KR5d0036_tls_001-bkkpn76}
+  - {type: 'tls:seg', offset: 223, content: '', id: KR5d0036_tls_001-2a.16}
+  - {type: punctuation, offset: 229, content: ，, id: KR5d0036_tls_001-bkkpn77}
+  - {type: 'tls:seg', offset: 229, content: '', id: KR5d0036_tls_001-2a.17}
+  - {type: substitution, offset: 231, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
+  - {type: punctuation, offset: 236, content: ，, id: KR5d0036_tls_001-bkkpn78}
+  - {type: 'tls:seg', offset: 236, content: '', id: KR5d0036_tls_001-2a.18}
+  - {type: punctuation, offset: 242, content: ？, id: KR5d0036_tls_001-bkkpn79}
+  - {type: 'tls:seg', offset: 242, content: '', id: KR5d0036_tls_001-2a.19}
+  - {type: variant, offset: 250, length: 102, content: 臣易如剛告予以茅山刊真誥欲敘其略昔者沈約遺陶君書深言先生糠比流俗超然獨覽名書絳簡至理精微唯欲下風問道未知厥路若有屬於誥者矣然陶君銘茅山曲林館迺云祈生翊命各謂知道參差經術跌宕辭藻是數語者全為誥設此翁一銘猶足, WYG: 俱}
+  - {type: punctuation, offset: 254, content: ，, id: KR5d0036_tls_001-bkkpn80}
+  - {type: 'tls:seg', offset: 254, content: '', id: KR5d0036_tls_001-2a.20}
+  - {type: substitution, offset: 255, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
+  - {type: punctuation, offset: 260, content: 《, id: KR5d0036_tls_001-bkkpn81}
+  - {type: punctuation, offset: 262, content: 》, id: KR5d0036_tls_001-bkkpn82}
+  - {type: punctuation, offset: 262, content: ，, id: KR5d0036_tls_001-bkkpn83}
+  - {type: 'tls:seg', offset: 262, content: '', id: KR5d0036_tls_001-2a.21}
+  - {type: punctuation, offset: 266, content: 。, id: KR5d0036_tls_001-bkkpn84}
+  - {type: 'tls:seg', offset: 266, content: '', id: KR5d0036_tls_001-2a.22}
+  - {type: punctuation, offset: 274, content: ，, id: KR5d0036_tls_001-bkkpn85}
+  - {type: 'tls:seg', offset: 274, content: '', id: KR5d0036_tls_001-2a.23}
+  - {type: punctuation, offset: 282, content: ，, id: KR5d0036_tls_001-bkkpn86}
+  - {type: 'tls:seg', offset: 282, content: '', id: KR5d0036_tls_001-2a.24}
+  - {type: punctuation, offset: 286, content: ，, id: KR5d0036_tls_001-bkkpn87}
+  - {type: 'tls:seg', offset: 286, content: '', id: KR5d0036_tls_001-2a.25}
+  - {type: punctuation, offset: 290, content: ，, id: KR5d0036_tls_001-bkkpn88}
+  - {type: 'tls:seg', offset: 290, content: '', id: KR5d0036_tls_001-2a.26}
+  - {type: punctuation, offset: 294, content: 。, id: KR5d0036_tls_001-bkkpn89}
+  - {type: 'tls:seg', offset: 294, content: '', id: KR5d0036_tls_001-2a.27}
+  - {type: punctuation, offset: 300, content: ，, id: KR5d0036_tls_001-bkkpn90}
+  - {type: 'tls:seg', offset: 300, content: '', id: KR5d0036_tls_001-2a.28}
+  - {type: punctuation, offset: 304, content: ，, id: KR5d0036_tls_001-bkkpn91}
+  - {type: 'tls:seg', offset: 304, content: '', id: KR5d0036_tls_001-2a.29}
+  - {type: punctuation, offset: 308, content: 《, id: KR5d0036_tls_001-bkkpn92}
+  - {type: punctuation, offset: 309, content: 》, id: KR5d0036_tls_001-bkkpn93}
+  - {type: punctuation, offset: 311, content: ！, id: KR5d0036_tls_001-bkkpn94}
+  - {type: 'tls:seg', offset: 311, content: '', id: KR5d0036_tls_001-2a.30}
+  - {type: punctuation, offset: 315, content: 《, id: KR5d0036_tls_001-bkkpn95}
+  - {type: substitution, offset: 320, original: 迺, replacement: 乃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0004}}
+  - {type: punctuation, offset: 322, content: ：, id: KR5d0036_tls_001-bkkpn96}
+  - {type: 'tls:seg', offset: 322, content: '', id: KR5d0036_tls_001-2a.31}
+  - {type: punctuation, offset: 322, content: 「, id: KR5d0036_tls_001-bkkpn97}
+  - {type: punctuation, offset: 326, content: ，, id: KR5d0036_tls_001-bkkpn98}
+  - {type: 'tls:seg', offset: 326, content: '', id: KR5d0036_tls_001-2a.32}
+  - {type: punctuation, offset: 330, content: 。, id: KR5d0036_tls_001-bkkpn99}
+  - {type: 'tls:seg', offset: 330, content: '', id: KR5d0036_tls_001-2a.33}
+  - {type: punctuation, offset: 334, content: ，, id: KR5d0036_tls_001-bkkpn100}
+  - {type: 'tls:seg', offset: 334, content: '', id: KR5d0036_tls_001-2a.34}
+  - {type: punctuation, offset: 338, content: 。, id: KR5d0036_tls_001-bkkpn101}
+  - {type: punctuation, offset: 338, content: 」, id: KR5d0036_tls_001-bkkpn102}
+  - {type: 'tls:seg', offset: 338, content: '', id: KR5d0036_tls_001-2a.35}
+  - {type: punctuation, offset: 342, content: ，, id: KR5d0036_tls_001-bkkpn103}
+  - {type: 'tls:seg', offset: 342, content: '', id: KR5d0036_tls_001-2a.36}
+  - {type: punctuation, offset: 344, content: 《, id: KR5d0036_tls_001-bkkpn104}
+  - {type: punctuation, offset: 345, content: 》, id: KR5d0036_tls_001-bkkpn105}
+  - {type: punctuation, offset: 346, content: 。, id: KR5d0036_tls_001-bkkpn106}
+  - {type: 'tls:seg', offset: 346, content: '', id: KR5d0036_tls_001-2a.37}
+  - {type: punctuation, offset: 349, content: 《, id: KR5d0036_tls_001-bkkpn107}
+  - {type: punctuation, offset: 350, content: 》, id: KR5d0036_tls_001-bkkpn108}
+  - {type: punctuation, offset: 350, content: ，, id: KR5d0036_tls_001-bkkpn109}
+  - {type: 'tls:seg', offset: 350, content: '', id: KR5d0036_tls_001-2a.38}
+  - {type: variant, offset: 354, length: 0, content: '', WYG: 巖士無令騰虚翰}
+  - {type: variant, offset: 355, length: 3, content: 無窮清, WYG: 隨驚}
+  - {type: punctuation, offset: 359, content: ，, id: KR5d0036_tls_001-bkkpn110}
+  - {type: 'tls:seg', offset: 359, content: '', id: KR5d0036_tls_001-2a.39}
+  - {type: variant, offset: 359, length: 5, content: 況書乎嘉定, WYG: 起遷化雖由人蕃羊未易擬所期豈朝華歲暮於吾子萼緑華者自云是南山人不知是何山也女子年可二}
+  - {type: punctuation, offset: 362, content: ？, id: KR5d0036_tls_001-bkkpn111}
+  - {type: xml-element, offset: 362, content: '', id: KR5d0036_tls_001-2a_end}
+  - {type: xml-element, offset: 362, content: '', id: KR5d0036_tls_001-3a}
+  - {type: 'tls:seg', offset: 362, content: '', id: KR5d0036_tls_001-3a.1}
+  - {type: variant, offset: 365, length: 1, content: 六, WYG: 上下青衣顔色絶整以升平三}
+  - {type: variant, offset: 370, length: 1, content: 冬, CK-KZ: 十日夜降厶厶剪缺此兩字卽應是羊權字自此往來一月之中輙六過來耳云本姓厶又剪除此一字應是楊字贈此此一字本是權字後人黵作此字詩一篇並致火澣布手巾一枚金玉條脫各一枚條脫乃太而異精好神女語見此本是草作權字後人黵作見字而乙上之君愼勿泄我泄我則彼此獲罪訪問此人云是九嶷山中得道女羅郁也宿命時曾爲師母毒殺乳婦玄州以先罪未滅故令謫降於臭濁以償其過與權此權亦草作故似前體而不被黵耳尸解藥今在湘東山本懸此中一寸此女已九百歲矣尋此應是降羊權權字道輿忱之少子後爲晉簡文黃門郎卽羊欣祖故欣亦修道服食也此乃爲楊君所書者當以其同姓亦可楊權相問因答其事而疏說之耳按升平三年是己未歲在乙丑前六年眾眞並未降事右三條楊君草書於紙上南嶽夫人與弟子言書識如左弟子卽楊君自稱也此眾眞似是集洞宮時所以司命最在端當爲主人故也夫人向楊說次第位號如此非降楊時也東嶽上眞卿司命君東宮九微眞人金闕上相靑童大君蓬萊右仙公賈寶安鄭人自此後皆是稱諸眞人之字非其人名也氏族亦見世道書傳中也淸虛小有天王王子登案靑童高尊乃可不敢稱諱字此靑虛是南嶽之師尙稱字獨不顯茅司命字亦爲難詳也桐柏眞人右弼王領五嶽司侍帝晨王子喬靑蓋眞人侍帝晨郭世幹衞人戎山眞人太極右仙公范伯華幽人少室眞人北臺郎劉千夀沛人嶓冢眞人左禁郎王道甯常山人大梁眞人魏顯仁長樂人岷山眞人陰友宗陸渾眞人太極監西郭幼度九嶷山侯張上貴楚人岱宗神侯領羅酆右禁司鮑元節東海人華山仙伯秦叔隱馮翊人葛衍眞人周季通陽洛眞人領西歸傳淳于太玄西域人潛山眞伯趙祖陽涿郡人勾曲眞人定錄右禁郎茅季偉鬱絕眞人裴玄人白水仙都朱交甫三官保命司茅思和太和眞人山世遠右二十三眞人坐西起南向東行此於禮乃是南向以西方爲上而後女眞東向則應起南今反北者當是以側近高眞故也太和靈嬪上眞左夫人北海六微玄淸夫人北漢七靈右夫人太極中華右夫人紫微左宮王夫人滄浪雲林右英夫人案右英是紫微姊今反在後當位業有升降耳上眞司命南岳夫人此卽魏夫人也自說故不稱姓八靈道母西嶽蔣夫人案有數號者並以多爲高西王母稱九靈則八靈宜在七靈前而今返在後者亦所未詳又受讀黃庭事云北嶽蔣夫人與今不同上眞東宮衞夫人方丈臺昭靈李夫人紫淸上宮九華安妃朱陵北絕臺上嬪管妃北嶽上眞山夫人西漢夫人長陵杜夫人右十五女眞東向坐北起南行說此事時雖不記月日不知在何年旣是眾眞名位故出以居前按眾眞位號前云以爲高者猶今世之徽號也六月二十一日夜定錄問云許長史欲云何尋道登答懃修眞誠之意定錄又言昔有趙叔臺王世卿亦言篤學而竟不如人意遂爲北明公府所引此是乙丑年六月也自此前唯有六月十五日定錄授是答長史書論茅山中事此前又已有一授不記何月日並在第四卷中自餘無有先此者北明公府酆都宮中官屬也昔扉廓天津採華赤邱是時聲穎靈袂蒙塵華喬此卽應是說初降華僑事字少倚人發煥秀山高說延霄自謂玄響所振無往不豁旣濯以靈波實望與物榮菴旣未能暢業駢羅遊岫逐逸然後知悟言之際應玄}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_CK-KZ_02p002a, image: JY237/CK-KZ_JY237_02p002a.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_CK-KZ_02p002b, image: JY237/CK-KZ_JY237_02p002b.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_CK-KZ_02p003a, image: JY237/CK-KZ_JY237_02p003a.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_CK-KZ_02p003b, image: JY237/CK-KZ_JY237_02p003b.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_CK-KZ_02p004a, image: JY237/CK-KZ_JY237_02p004a.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_CK-KZ_02p004b, image: JY237/CK-KZ_JY237_02p004b.png}
+  - {type: variant, offset: 370, length: 1, content: 冬, CK-KZ-jye: 十日夜降厶厶剪缺此兩字卽應是羊權字自此往來一月之中輙六過來耳云本姓厶又剪除此一字應是楊字贈此此一字本是權字後人黵作此字詩一篇並致火澣布手巾一枚金玉條脫各一枚條脫乃太而異精好神女語見此本是草作權字後人黵作見字而乙上之君愼勿泄我泄我則彼此獲罪訪問此人云是九嶷山中得道女羅郁也宿命時曾爲師母毒殺乳婦玄州以先罪未滅故令謫降於臭濁以償其過與權此權亦草作故似前體而不被黵耳尸解藥今在湘東山本懸此中一寸此女已九百歲矣尋此應是降羊權權字道輿忱之少子後爲晉簡文黃門郎卽羊欣祖故欣亦修道服食也此乃爲楊君所書者當以其同姓亦可楊權相問因答其事而疏說之耳按升平三年是己未歲在乙丑前六年眾眞並未降事右三條楊君草書於紙上南嶽夫人與弟子言書識如左弟子卽楊君自稱也此眾眞似是集洞宮時所以司命最在端當爲主人故也夫人向楊說次第位號如此非降楊時也東嶽上眞卿司命君東宮九微眞人金闕上相靑童大君蓬萊右仙公賈寶安鄭人自此後皆是稱諸眞人之字非其人名也氏族亦見世道書傳中也淸虛小有天王王子登案靑童高尊乃可不敢稱諱字此靑虛是南嶽之師尙稱字獨不顯茅司命字亦爲難詳也桐柏眞人右弼王領五嶽司侍帝晨王子喬靑蓋眞人侍帝晨郭世幹衞人戎山眞人太極右仙公范伯華幽人少室眞人北臺郎劉千夀沛人嶓冢眞人左禁郎王道甯常山人大梁眞人魏顯仁長樂人岷山眞人陰友宗陸渾眞人太極監西郭幼度九嶷山侯張上貴楚人岱宗神侯領羅酆右禁司鮑元節東海人華山仙伯秦叔隱馮翊人葛衍眞人周季通陽洛眞人領西歸傳淳于太玄西域人潛山眞伯趙祖陽涿郡人勾曲眞人定錄右禁郎茅季偉鬱絕眞人裴玄人白水仙都朱交甫三官保命司茅思和太和眞人山世遠右二十三眞人坐西起南向東行此於禮乃是南向以西方爲上而後女眞東向則應起南今反北者當是以側近高眞故也太和靈嬪上眞左夫人北海六微玄淸夫人北漢七靈右夫人太極中華右夫人紫微左宮王夫人滄浪雲林右英夫人案右英是紫微姊今反在後當位業有升降耳上眞司命南岳夫人此卽魏夫人也自說故不稱姓八靈道母西嶽蔣夫人案有數號者並以多爲高西王母稱九靈則八靈宜在七靈前而今返在後者亦所未詳又受讀黃庭事云北嶽蔣夫人與今不同上眞東宮衞夫人方丈臺昭靈李夫人紫淸上宮九華安妃朱陵北絕臺上嬪管妃北嶽上眞山夫人西漢夫人長陵杜夫人右十五女眞東向坐北起南行說此事時雖不記月日不知在何年旣是眾眞名位故出以居前按眾眞位號前云以爲高者猶今世之徽號也六月二十一日夜定錄問云許長史欲云何尋道登答懃修眞誠之意定錄又言昔有趙叔臺王世卿亦言篤學而竟不如人意遂爲北明公府所引此是乙丑年六月也自此前唯有六月十五日定錄授是答長史書論茅山中事此前又已有一授不記何月日並在第四卷中自餘無有先此者北明公府酆都宮中官屬也昔扉廓天津採華赤邱是時聲穎靈袂蒙塵華喬此卽應是說初降華僑事字少倚人發煥秀山高說延霄自謂玄響所振無往不豁旣濯以靈波實望與物榮菴旣未能暢業駢羅遊岫逐逸然後知悟言之際應玄}
+  - {type: variant, offset: 370, length: 1, content: 冬, HFL: 十日夜降剪缺此兩字即應是羊權字自此徃來一月之中輒六過來耳云本姓又剪除此一字應是愕字贈此一字本是權字後人黵作此字詩一篇并致火澣布手巾一枚金玉條脫各一枚條脫乃太而異精好神女語此本是草作權字後人黵作見字而乙上之君愼勿泄我泄我則彼此獲罪訪問此人云是九嶷山中得道女羅郁也宿命時曾爲師母毒殺乳婦玄州以先罪未滅故今謫降於臭濁以償其過與此權亦草作故似前體而不被黵耳尸解藥今在湘東山本懸此中一寸此女已九百歲矣尋此應是降羊權權字道輿忱之少子後爲晋簡文黄門郎即羊欣祖故欣亦修道服食也此乃爲楊君所書者當以其同姓亦可楊權相問因答其事而疏說之耳按升平三年是己未歲在乙丑前六年衆眞並未降事右三條楊君草書於紙上南嶽夫人與弟子言書識如左弟子即楊君自稱也此衆眞似是集洞宫時所以司命最在端當爲主人故也夫人向楊說次第位號如此非降楊時也東嶽上眞卿司命君東宫九微眞人金闕上相青童大君蓬萊右仙公賈寳安鄭人自此後皆是稱諸眞人之字非其人名也氏族亦見世道書傳中也清虚小有天王王子登案青童高尊乃可不敢稱諱字此青虚是南嶽之師尚稱字獨不顯茅司命字亦爲難詳也桐柏眞人右弼王領五嶽司侍帝晨王子喬青蓋眞人侍帝晨郭世幹衛人戎山眞人太極右仙公范伯華幽人少室眞人北臺郎劉千壽沛人嶓冢眞人左禁郎王道寧常山人大梁眞人魏顯仁長樂人岷山眞人隂友宗陸渾眞人太極監西郭幼度九嶷山侯張上貴楚人岱宗神侯領羅酆右禁司鮑元節東海人華山仙伯秦叔隱馮翊人葛衍眞人周季通陽洛眞人領西歸傅淳于太玄西域人潜山眞伯趙祖陽涿郡人勾曲眞人定録右禁郎茅季偉鬱絶眞人裴玄人白水仙都朱交甫三官保命司茅思和太和眞人山世遠右二十三眞人坐西起南向東行此於禮乃是南向以西方爲上而後女眞東向則應起南今反北者當是以側近高眞故也太和靈嬪上眞左夫人北海六微玄清夫人北漢七靈右夫人太極中華右夫人紫微左宫王夫人滄浪雲林右英夫人案右英是紫微姊今反在後當位業有升降耳上眞司命南岳夫人此即魏夫人也自說故不稱姓八靈道母西嶽蔣夫人案有數號者並以多爲高西王母稱九靈則八靈宜在七靈前而今返在後者亦所未詳又受讀黄庭事云北嶽蔣夫人與今不同上眞東宫衛夫人方丈臺昭靈李夫人紫清上宫九華安妃朱陵北絶臺上嬪管妃北嶽上眞山夫人西漢夫人長陵杜夫人右十五女眞東向坐北起南行說此事時雖不記月日不知在何年既是衆眞名位故出以居前後衆眞位號前云以爲高者猶今世之徽號也六月二十一日夜定録問云許長史欲云何尋道登答懃修眞誠之意定録又言昔有趙叔臺王世卿亦言篤學而竟不如人意遂爲北明公府所引此是乙丑年六月也自此前唯有六月十五日定録授是答長史書論茅山中事此前又已有一授不記何月日並在第四卷中自餘無有先此者北明公府酆都宫中官屬也昔扉廓天津採華赤丘是時聲穎靈袂蒙塵華此即應是說初降華僑事字少倚人發焕秀山高說延霄自謂玄響所振無徃不豁既濯以靈波實望與物榮菴既未能暢業駢羅遊岫逐逸然後知悟言之際應玄}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_HFL_001-002a, image: hfl/0637/0637-010.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_HFL_001-002b, image: hfl/0637/0637-011.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_HFL_001-003a, image: hfl/0637/0637-012.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_HFL_001-003b, image: hfl/0637/0637-013.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_HFL_001-004a, image: hfl/0637/0637-014.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_HFL_001-004b, image: hfl/0637/0637-015.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_HFL_001-005a, image: hfl/0637/0637-016.png}
+  - {type: variant, offset: 370, length: 1, content: 冬, WYG: 十日夜降厶厶翦缺此兩字即應是羊權字自此往來一月之中輒六過來耳云本姓厶又翦除此一字應是楊字贈此此一字本是權字後人黵作此字詩一篇并致火澣布手巾一枚金玉條脫各一枚條脫乃太而異精好神女語見此本是草作權字後人黵作見字而乙上之君慎勿泄我泄我則彼此獲罪訪問此人云是九嶷山中得道女羅郁也宿命時曾為師母毒殺乳婦𤣥州以先罪未滅故今謫降於濁以償其過與權此權亦草作故似前體而不黵耳尸解藥今在湘東山本懸此中一寸此女已九百歲矣尋此應是降羊權權字道輿忱之少子後為晉簡文黄門郎即羊欣祖故欣亦修道服食也此乃為楊君所書者當以其同姓亦可楊權相問因答其事而疏説之耳按升平三年是己未歲在乙丑前六年衆真並未降事右三條楊君草書於紙上南嶽夫人與弟子言書識如左弟子即楊君自稱也此衆眞似是集洞宫時所以司命最在端當為主人故也夫人向楊説次第位號如此非降楊時也東嶽上眞卿司命君東宫九㣲眞人金闕上相青童大君蓬萊右仙公賈寳安鄭人自此後皆是稱諸眞人之字非其人名也氏族亦見世道書傳中也清虚小有天王王子登按青童高尊乃可不敢稱諱字此清虚是南嶽之師尚稱字獨不顯茅司命字亦為難詳也桐柏眞人右弼王領五嶽司侍帝晨王子喬青蓋眞人侍帝晨郭世幹衛人戎山眞人太極右仙公范伯華幽人少室眞人北臺郎劉千夀沛人嶓冡眞人左禁郎王道寧常山人大梁眞人魏顯仁長樂人岷山眞人陰友宗陸渾眞人太極監西郭幼度九嶷山侯張上貴楚人岱宗神侯領羅酆右禁司鮑元節東海人華山仙伯秦叔隱馮翊人葛衍眞人周季通陽洛眞人領西歸傳淳于太𤣥西域人潛山眞伯趙祖陽涿郡人勾曲眞人定録右禁郎茅季偉鬱絶眞人裴𤣥人白水仙都朱交甫三官保命司茅思和太和眞人山世逺右二十三眞人坐西起南向東行此於禮乃是南向以西方為上而後女眞東向則應起南今反北者當是以側近高眞故也太和靈嬪上眞左夫人北海六㣲𤣥清夫人北漢七靈右夫人太極中華右夫人紫微左宫王夫人滄浪雲林右英夫人按右英是紫㣲姊今反在後當位業有升降耳上眞司命南嶽夫人此即魏夫人也自説故不稱姓八靈道母西嶽蔣夫人按有數號者並以多為高西王母稱九靈則八靈宜在七靈前而今反在後者亦所未詳又受讀黃庭事云北嶽蔣夫人與今不同上眞東宫衛夫人方丈臺昭靈李夫人紫清上宫九華安妃朱陵北絶臺上嬪管妃北嶽上眞山夫人西漢夫人長陵杜夫人右十五女眞東向坐北起南行説此事時雖不記月日不知在何年既是衆眞名位故出以居前按衆眞位號前云以為高者猶今世之徽號也六月二十一日夜定録問云許長史欲云何尋道登答懃修眞誠之意定録又言昔有趙叔臺王世卿亦言篤學而竟不如人意遂為北明公府所引此是乙丑年六月也自此前唯有六月十五日定録授是答長史書論茅山中事此前又已有一授不記何月日並在第四卷中自餘無有先此者北明公府酆都宫中官屬也昔扉廓天津採華赤丘是時聲穎靈袂蒙塵華喬此即應是説初降華僑事字少倚人發煥秀山高説延霄自謂𤣥響所振無往不豁既濯以靈波實望與物榮菴既未能暢業駢羅遊岫逐逸然後知悟言之際應𤣥}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_WYG_001-2a, image: WYG1059/WYG1059-0315a.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_WYG_001-2b, image: WYG1059/WYG1059-0315b.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_WYG_001-3a, image: WYG1059/WYG1059-0315c.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_WYG_001-3b, image: WYG1059/WYG1059-0315d.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_WYG_001-4a, image: WYG1059/WYG1059-0316a.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_WYG_001-4b, image: WYG1059/WYG1059-0316b.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_WYG_001-5a, image: WYG1059/WYG1059-0316c.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_WYG_001-5b, image: WYG1059/WYG1059-0316d.png}
+  - {type: variant, offset: 370, length: 1, content: 冬, YP-C: 十日夜降厶厶剪缺此兩字卽應是羊權字自此往來一月之中輙六過來耳云本姓厶又剪除此一字應是楊字贈此此一字本是權字後人黵作此字詩一篇並致火澣布手巾一枚金玉條脫各一枚條脫乃太而異精好神女語見此本是草作權字後人黵作見字而乙上之君愼勿泄我泄我則彼此獲罪訪問此人云是九嶷山中得道女羅郁也宿命時曾爲師母毒殺乳婦玄州以先罪未滅故令謫降於臭濁以償其過與權此權亦草作故似前體而不被黵耳尸解藥今在湘東山本懸此中一寸此女已九百歲矣尋此應是降羊權權字道輿忱之少子後爲晉簡文黃門郎卽羊欣祖故欣亦修道服食也此乃爲楊君所書者當以其同姓亦可楊權相問因答其事而疏說之耳按升平三年是己未歲在乙丑前六年眾眞並未降事右三條楊君草書於紙上南嶽夫人與弟子言書識如左弟子卽楊君自稱也此眾眞似是集洞宮時所以司命最在端當爲主人故也夫人向楊說次第位號如此非降楊時也東嶽上眞卿司命君東宮九微眞人金闕上相青童大君蓬萊右仙公賈寶安鄭人自此後皆是稱諸眞人之字非其人名也氏族亦見世道書傳中也清虛小有天王王子登案青童高尊乃可不敢稱諱字此青虛是南嶽之師尚稱字獨不顯茅司命字亦爲難詳也桐柏眞人右弼王領五嶽司侍帝晨王子喬青蓋眞人侍帝晨郭世幹衛人戎山眞人太極右仙公范伯華幽人少室眞人北臺郎劉千壽沛人嶓冢眞人左禁郎王道甯常山人大梁眞人魏顯仁長樂人岷山眞人陰友宗陸渾眞人太極監西郭幼度九嶷山侯張上貴楚人岱宗神侯領羅酆右禁司鮑元節東海人華山仙伯秦叔隱馮翊人葛衍眞人周季通陽洛眞人領西歸傳淳于太玄西域人潛山眞伯趙祖陽涿郡人勾曲眞人定錄右禁郎茅季偉鬱絕眞人裴玄人白水仙都朱交甫三官保命司茅思和太和眞人山世遠右二十三眞人坐西起南向東行此於禮乃是南向以西方爲上而後女眞東向則應起南今反北者當是以側近高眞故也太和靈嬪上眞左夫人北海六微玄清夫人北漢七靈右夫人太極中華右夫人紫微左宮王夫人滄浪雲林右英夫人案右英是紫微姊今反在後當位業有升降耳上眞司命南岳夫人此卽魏夫人也自說故不稱姓八靈道母西嶽蔣夫人案有數號者並以多爲高西王母稱九靈則八靈宜在七靈前而今返在後者亦所未詳又受讀黃庭事云北嶽蔣夫人與今不同上眞東宮衛夫人方丈臺昭靈李夫人紫清上宮九華安妃朱陵北絕臺上嬪管妃北嶽上眞山夫人西漢夫人長陵杜夫人右十五女眞東向坐北起南行說此事時雖不記月日不知在何年旣是眾眞名位故出以居前按眾眞位號前云以爲高者猶今世之徽號也六月二十一日夜定錄問云許長史欲云何尋道登答懃修眞誠之意定錄又言昔有趙叔臺王世卿亦言篤學而竟不如人意遂爲北明公府所引此是乙丑年六月也自此前唯有六月十五日定錄授是答長史書論茅山中事此前又已有一授不記何月日並在第四卷中自餘無有先此者北明公府酆都宮中官屬也昔扉廓天津採華赤邱是時聲穎靈袂蒙塵華喬此卽應是說初降華僑事字少倚人發煥秀山高說延霄自謂玄響所振無往不豁旣濯以靈波實望與物榮菴旣未能暢業駢羅遊岫逐逸然後知悟言之際應玄}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_YP-C_20ziji-01-0003a, image: JY237/20ziji-01-0003a.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_YP-C_20ziji-01-0003b, image: JY237/20ziji-01-0003b.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_YP-C_20ziji-01-0004a, image: JY237/20ziji-01-0004a.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_YP-C_20ziji-01-0004b, image: JY237/20ziji-01-0004b.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_YP-C_20ziji-01-0005a, image: JY237/20ziji-01-0005a.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_YP-C_20ziji-01-0005b, image: JY237/20ziji-01-0005b.png}
+  - {type: variant, offset: 370, length: 1, content: 冬, ZTDZ: 十日夜降剪缺此兩字即應是羊權字自此徃來一月之中輒六過來耳云本姓又剪除此一字應是愕字贈此一字本是權字後人黵作此字詩一篇并致火澣布手巾一枚金玉條脫各一枚條脫乃太而異精好神女語此本是草作權字後人黵作見字而乙上之君愼勿泄我泄我則彼此獲罪訪問此人云是九嶷山中得道女羅郁也宿命時曾爲師母毒殺乳婦玄州以先罪未滅故今謫降於臭濁以償其過與此權亦草作故似前體而不被黵耳尸解藥今在湘東山本懸此中一寸此女已九百歲矣尋此應是降羊權權字道輿忱之少子後爲晋簡文黄門郎即羊欣祖故欣亦修道服食也此乃爲楊君所書者當以其同姓亦可楊權相問因答其事而疏說之耳按升平三年是己未歲在乙丑前六年衆眞並未降事右三條楊君草書於紙上南嶽夫人與弟子言書識如左弟子即楊君自稱也此衆眞似是集洞宫時所以司命最在端當爲主人故也夫人向楊說次第位號如此非降楊時也東嶽上眞卿司命君東宫九微眞人金闕上相青童大君蓬萊右仙公賈寳安鄭人自此後皆是稱諸眞人之字非其人名也氏族亦見世道書傳中也清虚小有天王王子登案青童高尊乃可不敢稱諱字此青虚是南嶽之師尚稱字獨不顯茅司命字亦爲難詳也桐柏眞人右弼王領五嶽司侍帝晨王子喬青蓋眞人侍帝晨郭世幹衛人戎山眞人太極右仙公范伯華幽人少室眞人北臺郎劉千壽沛人嶓冢眞人左禁郎王道寧常山人大梁眞人魏顯仁長樂人岷山眞人隂友宗陸渾眞人太極監西郭幼度九嶷山侯張上貴楚人岱宗神侯領羅酆右禁司鮑元節東海人華山仙伯秦叔隱馮翊人葛衍眞人周季通陽洛眞人領西歸傅淳于太玄西域人潜山眞伯趙祖陽涿郡人勾曲眞人定録右禁郎茅季偉鬱絶眞人裴玄人白水仙都朱交甫三官保命司茅思和太和眞人山世遠右二十三眞人坐西起南向東行此於禮乃是南向以西方爲上而後女眞東向則應起南今反北者當是以側近高眞故也太和靈嬪上眞左夫人北海六微玄清夫人北漢七靈右夫人太極中華右夫人紫微左宫王夫人滄浪雲林右英夫人案右英是紫微姊今反在後當位業有升降耳上眞司命南岳夫人此即魏夫人也自說故不稱姓八靈道母西嶽蔣夫人案有數號者並以多爲高西王母稱九靈則八靈宜在七靈前而今返在後者亦所未詳又受讀黄庭事云北嶽蔣夫人與今不同上眞東宫衛夫人方丈臺昭靈李夫人紫清上宫九華安妃朱陵北絶臺上嬪管妃北嶽上眞山夫人西漢夫人長陵杜夫人右十五女眞東向坐北起南行說此事時雖不記月日不知在何年既是衆眞名位故出以居前後衆眞位號前云以爲高者猶今世之徽號也六月二十一日夜定録問云許長史欲云何尋道登答懃修眞誠之意定録又言昔有趙叔臺王世卿亦言篤學而竟不如人意遂爲北明公府所引此是乙丑年六月也自此前唯有六月十五日定録授是答長史書論茅山中事此前又已有一授不記何月日並在第四卷中自餘無有先此者北明公府酆都宫中官屬也昔扉廓天津採華赤丘是時聲穎靈袂蒙塵華此即應是說初降華僑事字少倚人發焕秀山高說延霄自謂玄響所振無徃不豁既濯以靈波實望與物榮菴既未能暢業駢羅遊岫逐逸然後知悟言之際應玄}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_SJB_001-200491b, image: sjb/20/200491b.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_SJB_001-200491c, image: sjb/20/200491c.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_SJB_001-200492a, image: sjb/20/200492a.png}
+  - {type: page-break, offset: 370, content: '', id: KR5d0036_SJB_001-200492b, image: sjb/20/200492b.png}
+  - {type: variant, offset: 370, length: 1, content: 冬, krp: 十日夜降剪缺此兩字即應是羊權字自此徃來一月之中輒六過來耳云本姓又剪除此一字應是愕字贈此一字本是權字後人黵作此字詩一篇并致火澣布手巾一枚金玉條脫各一枚條脫乃太而異精好神女語此本是草作權字後人黵作見字而乙上之君愼勿泄我泄我則彼此獲罪訪問此人云是九嶷山中得道女羅郁也宿命時曾爲師母毒殺乳婦玄州以先罪未滅故今謫降於臭濁以償其過與此權亦草作故似前體而不被黵耳尸解藥今在湘東山本懸此中一寸此女已九百歲矣尋此應是降羊權權字道輿忱之少子後爲晋簡文黄門郎即羊欣祖故欣亦修道服食也此乃爲楊君所書者當以其同姓亦可楊權相問因答其事而疏說之耳按升平三年是己未歲在乙丑前六年衆眞並未降事右三條楊君草書於紙上南嶽夫人與弟子言書識如左弟子即楊君自稱也此衆眞似是集洞宫時所以司命最在端當爲主人故也夫人向楊說次第位號如此非降楊時也東嶽上眞卿司命君東宫九微眞人金闕上相青童大君蓬萊右仙公賈寳安鄭人自此後皆是稱諸眞人之字非其人名也氏族亦見世道書傳中也清虚小有天王王子登案青童高尊乃可不敢稱諱字此青虚是南嶽之師尚稱字獨不顯茅司命字亦爲難詳也桐柏眞人右弼王領五嶽司侍帝晨王子喬青蓋眞人侍帝晨郭世幹衛人戎山眞人太極右仙公范伯華幽人少室眞人北臺郎劉千壽沛人嶓冢眞人左禁郎王道寧常山人大梁眞人魏顯仁長樂人岷山眞人隂友宗陸渾眞人太極監西郭幼度九嶷山侯張上貴楚人岱宗神侯領羅酆右禁司鮑元節東海人華山仙伯秦叔隱馮翊人葛衍眞人周季通陽洛眞人領西歸傅淳于太玄西域人潜山眞伯趙祖陽涿郡人勾曲眞人定録右禁郎茅季偉鬱絶眞人裴玄人白水仙都朱交甫三官保命司茅思和太和眞人山世遠右二十三眞人坐西起南向東行此於禮乃是南向以西方爲上而後女眞東向則應起南今反北者當是以側近高眞故也太和靈嬪上眞左夫人北海六微玄清夫人北漢七靈右夫人太極中華右夫人紫微左宫王夫人滄浪雲林右英夫人案右英是紫微姊今反在後當位業有升降耳上眞司命南岳夫人此即魏夫人也自說故不稱姓八靈道母西嶽蔣夫人案有數號者並以多爲高西王母稱九靈則八靈宜在七靈前而今返在後者亦所未詳又受讀黄庭事云北嶽蔣夫人與今不同上眞東宫衛夫人方丈臺昭靈李夫人紫清上宫九華安妃朱陵北絶臺上嬪管妃北嶽上眞山夫人西漢夫人長陵杜夫人右十五女眞東向坐北起南行說此事時雖不記月日不知在何年既是衆眞名位故出以居前後衆眞位號前云以爲高者猶今世之徽號也六月二十一日夜定録問云許長史欲云何尋道登答懃修眞誠之意定録又言昔有趙叔臺王世卿亦言篤學而竟不如人意遂爲北明公府所引此是乙丑年六月也自此前唯有六月十五日定録授是答長史書論茅山中事此前又已有一授不記何月日並在第四卷中自餘無有先此者北明公府酆都宫中官屬也昔扉廓天津採華赤丘是時聲穎靈袂蒙塵華此即應是說初降華僑事字少倚人發焕秀山高說延霄自謂玄響所振無徃不豁既濯以靈波實望與物榮菴既未能暢業駢羅遊岫逐逸然後知悟言之際應玄}
+  - {type: variant, offset: 372, length: 0, content: '', CK-KZ: 少於是佛音弗駕而旋偃靜葛臺夫玄刃無親流鑒遁眞若以雲壁一往想齊獨邁俯自啓灑動應潛逸始乃吾等並有欣慨耳往見況意相知篤末書云伏覽聖記事跡淵妙金策素著靑錄玄定遂跨塵俗逍遥紫陽何蕭蕭之淸遠眇眇之眞貴哉若能者矣請借來喻又云得道之階錯厲精神靖躬信宿洗誠求矜如斯而言道已邇也然夤夜之間宜篤經營乃後得手結天維足浮靈綱心遊太空目擊洞房不待久}
+  - {type: page-break, offset: 372, content: '', id: KR5d0036_CK-KZ_02p005a, image: JY237/CK-KZ_JY237_02p005a.png}
+  - {type: variant, offset: 372, length: 0, content: '', CK-KZ-jye: 少於是佛音弗駕而旋偃靜葛臺夫玄刃無親流鑒遁眞若以雲壁一往想齊獨邁俯自啓灑動應潛逸始乃吾等並有欣慨耳往見況意相知篤末書云伏覽聖記事跡淵妙金策素著靑錄玄定遂跨塵俗逍遥紫陽何蕭蕭之淸遠眇眇之眞貴哉若能者矣請借來喻又云得道之階錯厲精神靖躬信宿洗誠求矜如斯而言道已邇也然夤夜之間宜篤經營乃後得手結天維足浮靈綱心遊太空目擊洞房不待久}
+  - {type: variant, offset: 372, length: 0, content: '', HFL: 少於是佛音弗駕而旋偃靜葛臺夫玄刃無親流鑒遁眞若以雲壁一徃想齊獨邁俯自啓灑動應潜逸始乃吾等並有欣慨耳徃見況意相知篤末書云伏覽聖記事跡淵妙金策素著青録玄定遂跨塵俗逍遥紫陽何蕭蕭之清遠眇眇之眞貴哉若能者矣請借來喻又云得道之階錯厲精神靖躬信宿洗誠求矜如斯而言道已邇也然夤夜之間宜篤經營乃後得手結天維足浮靈綱心遊太空目擊洞房不待久}
+  - {type: page-break, offset: 372, content: '', id: KR5d0036_HFL_001-005b, image: hfl/0637/0637-017.png}
+  - {type: variant, offset: 372, length: 0, content: '', WYG: 少於是佛音弗駕而旋偃靜葛臺夫𤣥刃無親流鑒遁眞若以雲壁一往想齊獨邁俯自啓灑動應潛逸始乃吾等並有欣慨耳往見況意相知篤末書云伏覽聖記事跡淵妙金䇿素著青録𤣥定遂跨塵俗逍遥紫陽何蕭蕭之清逺眇眇之眞貴哉若能者矣請借來喻又云得道之階錯厲精神靖躬信宿洗誠求矜如斯而言道已邇也然夤夜之間宜篤經營乃後得手結天維足浮靈網心遊太空目擊洞房不待久}
+  - {type: page-break, offset: 372, content: '', id: KR5d0036_WYG_001-6a, image: WYG1059/WYG1059-0317a.png}
+  - {type: variant, offset: 372, length: 0, content: '', YP-C: 少於是佛音弗駕而旋偃靜葛臺夫玄刃無親流鑒遁眞若以雲壁一往想齊獨邁俯自啓灑動應潛逸始乃吾等並有欣慨耳往見況意相知篤末書云伏覽聖記事跡淵妙金策素著青錄玄定遂跨塵俗逍遥紫陽何蕭蕭之清遠眇眇之眞貴哉若能者矣請借來喻又云得道之階錯厲精神靖躬信宿洗誠求矜如斯而言道已邇也然夤夜之間宜篤經營乃後得手結天維足浮靈綱心遊太空目擊洞房不待久}
+  - {type: page-break, offset: 372, content: '', id: KR5d0036_YP-C_20ziji-01-0006a, image: JY237/20ziji-01-0006a.png}
+  - {type: variant, offset: 372, length: 0, content: '', ZTDZ: 少於是佛音弗駕而旋偃靜葛臺夫玄刃無親流鑒遁眞若以雲壁一徃想齊獨邁俯自啓灑動應潜逸始乃吾等並有欣慨耳徃見況意相知篤末書云伏覽聖記事跡淵妙金策素著青録玄定遂跨塵俗逍遥紫陽何蕭蕭之清遠眇眇之眞貴哉若能者矣請借來喻又云得道之階錯厲精神靖躬信宿洗誠求矜如斯而言道已邇也然夤夜之間宜篤經營乃後得手結天維足浮靈綱心遊太空目擊洞房不待久}
+  - {type: variant, offset: 372, length: 0, content: '', krp: 少於是佛音弗駕而旋偃靜葛臺夫玄刃無親流鑒遁眞若以雲壁一徃想齊獨邁俯自啓灑動應潜逸始乃吾等並有欣慨耳徃見況意相知篤末書云伏覽聖記事跡淵妙金策素著青録玄定遂跨塵俗逍遥紫陽何蕭蕭之清遠眇眇之眞貴哉若能者矣請借來喻又云得道之階錯厲精神靖躬信宿洗誠求矜如斯而言道已邇也然夤夜之間宜篤經營乃後得手結天維足浮靈綱心遊太空目擊洞房不待久}
+  - {type: punctuation, offset: 373, content: ，, id: KR5d0036_tls_001-bkkpn112}
+  - {type: 'tls:seg', offset: 373, content: '', id: KR5d0036_tls_001-3a.2}
+  - {type: variant, offset: 373, length: 0, content: '', CK-KZ: 也若五情愆波三魂越𠫤於是三眞舞劍黃闕捷關耳可不力之可不力之六月二十二日夜鷄鳴喻書此紫陽旨也右二條有長史寫淸靈眞人說寶神經云云鈔此修行事出在第三卷中不復兩載紫微夫人喻書如左云云事亦在第三卷興甯三年歲在乙丑六月二十三日夜喻書此其夕先共道諸人多有耳目不聰明者欲啓乞此法卽夜有降者卽乃見喻也此楊君自記也長史年出六十耳目欲衰故有咨請楊不欲指斥託云諸人又告云道士有耳重者云云事亦在第三卷右一條淸靈眞人言眞人告云櫛頭理髮欲得過多事亦在第三卷右一條紫微夫人言其夜初降者適入戸未坐自言今夕波聲如雷弟子請問其故答云向見東海中大波耳弟子者楊君自稱也右南嶽夫人言又告云汝憎血否答曰實憎之云血在路上若汝憎之當𨚗得行又答曰當避之耳又云避之佳故不如目不見乃佳右南嶽夫人言自此後諸眞共語耳又云寶神經是裴淸靈錦囊中書侍者常所帶者也裴昔從紫微夫人授此書也吾亦有俱如此寫西宮中定本問西宮所在答云是玄圃北壇西瑶之上臺也天眞珍文盡藏於此中右南嶽夫人言裴眞人又言此書與隱書同輩事要而卽可得用也一名七玄隱書右二十三日授訖此南嶽夫人見告云紫微左夫人王諱淸娥字愈意阿母第二十女也鎭羽野玄壟山主教當得成眞人者右一條先此一夕所授此一條卽是二十二日夜與紫陽所喻同夕當復大應有事後云聲氣下亦是此夕楊後又追憶此一事更疏在二十二日例中故云先此一夕也右從淸靈來凡十二條有長史寫六月二十四日夜紫微王夫人來降因下地請問眞靈旣身降於塵濁之人而手足猶未嘗自有所書故當是卑高迹邈未可見乎敢諮於此願誨蒙昧夫人因令復坐卽見授令書此以答曰此楊君自述事也例多如此夫沈景虛玄無塗可尋言發空中無物可縱流浪乘忽化遁不滯者也此二行皆浮沈冥淪儵遷灼寂是故放蕩無津遂任鼓風柂存乎虛舟而行耳故實中之空空中之有有中之無象矣至於書迹之示則揮形紙札文理昺注麤好外著玄翰挺煥而範質用顯默藻斯坦形傳塵濁苟騫露有骸之物而得與世進退上玷逸眞之詠下虧有隔之禁亦我等所不行靈法所不許也今請陳爲書之本始也造文之旣肇矣乃是五色初萌文章畫定之時秀人民之交別陰陽之分則有三元八會羣方飛天之書又有八龍雲篆明光之章也其後逮二皇之世演八會之文爲龍鳳之章拘省雲篆之迹以爲順形梵書分破二道壤眞從易配別本支乃爲六十四種之書也遂播之于三十六天十方上下也各各取其篇類異而用之音典雖均蔚跡隔異矣校而論之八會之書是書之至眞建文章之祖也雲篆明光是其根宗所起有書而始也今三元八會之書皇上太極高眞淸仙之所用也雲篆明光之章今所見神靈符書之字是也爾乃見華季之世生造亂眞共作巧末趣徑下書皆流尸濁文淫僻之字舍本效假是囂穢死迹耳夫眞仙之人曷爲棄本領之文迹手畫淫亂之下字耶夫得爲眞人者事事皆盡得眞也奚獨於凡末之麤術淫浮之弊作而當守之而不改玩之而不遷乎夫人在世先有能書善爲事者得眞仙之日外書之變亦忽然隨身而自反矣眞事皆邇者不復廢今已得之濁書方又受學於上文而後重知眞書者也鬼道亦然但書字有小乖違耳且以靈筆眞手初不敢下交於肉人雖時當有得道之人而身未超世者亦故不敢下手陳書墨以顯示於字迹也至乃符文神藻所求所佩者自復始來而作耳所以爾者世人固不能了其端緒又使吾等不有隱諱耳冥中自相參解矣內外自相關矣又四極明科高上禁重亦自不聽我等復爲世間常書也我旣下手子固不解亦將何趣兩爲煩濫耶此亦當闇其可否殆不足嫌想少暢豁於胸懷盡不自書之流分矣上眞司命南嶽夫人授令書如左若夫仰擲雲輪總轡太空手維霄綱足陟玉庭身升帝闕披寶歙靑上論九玄之逸度下紀萬椿之大生遂竦景電肅千霞煥明眞言玄浪高談玉淸激朱脣之流徽運日氣之零零爰乃吐烽卻煙彈金奏瓊鸞音蒨粲鳳唱嘉聲耳若但應景下旋迴靈塵埃參輦弊宇敖彿}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_CK-KZ_02p005b, image: JY237/CK-KZ_JY237_02p005b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_CK-KZ_02p006a, image: JY237/CK-KZ_JY237_02p006a.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_CK-KZ_02p006b, image: JY237/CK-KZ_JY237_02p006b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_CK-KZ_02p007a, image: JY237/CK-KZ_JY237_02p007a.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_CK-KZ_02p007b, image: JY237/CK-KZ_JY237_02p007b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_CK-KZ_02p008a, image: JY237/CK-KZ_JY237_02p008a.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_CK-KZ_02p008b, image: JY237/CK-KZ_JY237_02p008b.png}
+  - {type: variant, offset: 373, length: 0, content: '', CK-KZ-jye: 也若五情愆波三魂越𠫤於是三眞舞劍黃闕捷關耳可不力之可不力之六月二十二日夜鷄鳴喻書此紫陽旨也右二條有長史寫淸靈眞人說寶神經云云鈔此修行事出在第三卷中不復兩載紫微夫人喻書如左云云事亦在第三卷興甯三年歲在乙丑六月二十三日夜喻書此其夕先共道諸人多有耳目不聰明者欲啓乞此法卽夜有降者卽乃見喻也此楊君自記也長史年出六十耳目欲衰故有咨請楊不欲指斥託云諸人又告云道士有耳重者云云事亦在第三卷右一條淸靈眞人言眞人告云櫛頭理髮欲得過多事亦在第三卷右一條紫微夫人言其夜初降者適入戸未坐自言今夕波聲如雷弟子請問其故答云向見東海中大波耳弟子者楊君自稱也右南嶽夫人言又告云汝憎血否答曰實憎之云血在路上若汝憎之當𨚗得行又答曰當避之耳又云避之佳故不如目不見乃佳右南嶽夫人言自此後諸眞共語耳又云寶神經是裴淸靈錦囊中書侍者常所帶者也裴昔從紫微夫人授此書也吾亦有俱如此寫西宮中定本問西宮所在答云是玄圃北壇西瑶之上臺也天眞珍文盡藏於此中右南嶽夫人言裴眞人又言此書與隱書同輩事要而卽可得用也一名七玄隱書右二十三日授訖此南嶽夫人見告云紫微左夫人王諱淸娥字愈意阿母第二十女也鎭羽野玄壟山主教當得成眞人者右一條先此一夕所授此一條卽是二十二日夜與紫陽所喻同夕當復大應有事後云聲氣下亦是此夕楊後又追憶此一事更疏在二十二日例中故云先此一夕也右從淸靈來凡十二條有長史寫六月二十四日夜紫微王夫人來降因下地請問眞靈旣身降於塵濁之人而手足猶未嘗自有所書故當是卑高迹邈未可見乎敢諮於此願誨蒙昧夫人因令復坐卽見授令書此以答曰此楊君自述事也例多如此夫沈景虛玄無塗可尋言發空中無物可縱流浪乘忽化遁不滯者也此二行皆浮沈冥淪儵遷灼寂是故放蕩無津遂任鼓風柂存乎虛舟而行耳故實中之空空中之有有中之無象矣至於書迹之示則揮形紙札文理昺注麤好外著玄翰挺煥而範質用顯默藻斯坦形傳塵濁苟騫露有骸之物而得與世進退上玷逸眞之詠下虧有隔之禁亦我等所不行靈法所不許也今請陳爲書之本始也造文之旣肇矣乃是五色初萌文章畫定之時秀人民之交別陰陽之分則有三元八會羣方飛天之書又有八龍雲篆明光之章也其後逮二皇之世演八會之文爲龍鳳之章拘省雲篆之迹以爲順形梵書分破二道壤眞從易配別本支乃爲六十四種之書也遂播之于三十六天十方上下也各各取其篇類異而用之音典雖均蔚跡隔異矣校而論之八會之書是書之至眞建文章之祖也雲篆明光是其根宗所起有書而始也今三元八會之書皇上太極高眞淸仙之所用也雲篆明光之章今所見神靈符書之字是也爾乃見華季之世生造亂眞共作巧末趣徑下書皆流尸濁文淫僻之字舍本效假是囂穢死迹耳夫眞仙之人曷爲棄本領之文迹手畫淫亂之下字耶夫得爲眞人者事事皆盡得眞也奚獨於凡末之麤術淫浮之弊作而當守之而不改玩之而不遷乎夫人在世先有能書善爲事者得眞仙之日外書之變亦忽然隨身而自反矣眞事皆邇者不復廢今已得之濁書方又受學於上文而後重知眞書者也鬼道亦然但書字有小乖違耳且以靈筆眞手初不敢下交於肉人雖時當有得道之人而身未超世者亦故不敢下手陳書墨以顯示於字迹也至乃符文神藻所求所佩者自復始來而作耳所以爾者世人固不能了其端緒又使吾等不有隱諱耳冥中自相參解矣內外自相關矣又四極明科高上禁重亦自不聽我等復爲世間常書也我旣下手子固不解亦將何趣兩爲煩濫耶此亦當闇其可否殆不足嫌想少暢豁於胸懷盡不自書之流分矣上眞司命南嶽夫人授令書如左若夫仰擲雲輪總轡太空手維霄綱足陟玉庭身升帝闕披寶歙靑上論九玄之逸度下紀萬椿之大生遂竦景電肅千霞煥明眞言玄浪高談玉淸激朱脣之流徽運日氣之零零爰乃吐烽卻煙彈金奏瓊鸞音蒨粲鳳唱嘉聲耳若但應景下旋迴靈塵埃參輦弊宇敖彿}
+  - {type: variant, offset: 373, length: 0, content: '', HFL: 也若五情愆波三魂越𠫤於是三眞舞劒黄闕捷關耳可不力之可不力之六月二十二日夜鷄鳴喻書此紫陽㫖也右二條有長史寫清靈眞人說寳神經云云抄此修行事出在第三卷中不復兩載紫微夫人喻書如左云云事亦在第三卷興寧三年歲在乙丑六月二十三日夜喻書此其夕先共道諸人多有耳目不聦明者欲啓乞此法即夜有降者即乃見喻也此楊君自記也長史年出六十耳目欲衰故有咨請楊不欲指斥託云諸人又告云道士有耳重者云云事亦在第三卷右一條清靈眞人言眞人告云櫛頭理髮欲得過多事亦在第三卷右一條紫微夫人言其夜初降者適入户未坐自言今夕波聲如雷弟子請問其故答云向見東海中大波耳弟子者楊君自稱也右南嶽夫人言又告云汝憎血否答曰實憎之云血在路上若汝憎之當那得行又答曰當避之耳又云避之佳故不如目不見乃佳右南嶽夫人言自此後諸眞共語耳又云寳神經是裴清靈錦囊中書侍者常所帶者也裴昔從紫微夫人授此書也吾亦有俱如此寫西宫中定本問西宫所在答云是玄圃北壇西瑶之上臺也天眞珍文盡藏於此中右南嶽夫人言裴眞人又言此書與隱書同輩事要而即可得用也一名七玄隱書右二十三日授訖此南嶽夫人見告云紫微左夫人王諱清娥字愈意阿母第二十女也鎮羽野玄壟山主教當得成眞人者右一條先此一夕所授此一條即是二十二日夜與紫陽所喻同夕當復大應有事後云聲氣下亦是此夕楊後又追億此一事更黵在二十二日例中故云先此一夕也右從清靈來凡十二條有長史寫六月二十四日夜紫微王夫人來降因下地請問眞靈既身降於塵濁之人而手足猶未嘗自有所書故當是卑高迹邈未可見乎敢諮於此願誨蒙昧夫人因令復坐即見授今書此以答曰此楊君自述事也例多如此夫沈景虚玄無塗可尋言發空中無物可縱流浪乘忽化遁不滯者也此二行皆浮沈㝠淪儵遷灼寂是故放蕩無津遂任鼓風柂存乎虚舟而行耳故實中之空空中之有有中之無象矣至於書迹之示則揮形紙札文理昺注麤好外著玄翰挺焕而範質用顯默藻斯坦形傳塵濁苟騫露有骸之物而得與世進退上玷逸眞之詠下虧有隔之禁亦我等所不行靈法所不許也今請陳爲書之本始也造文之既肇矣乃是五色初萌文章畫定之時秀人民之交别隂陽之分則有三元八會羣方飛天之書又有八龍雲篆眀光之章也其後逮二皇之世演八會之文爲龍鳳之章拘省雲篆之迹以爲順形梵書分破二道壤眞從易配别本支乃爲六十四種之書也遂播之于三十六天十方上下也各各取其篇類異而用之音典雖均蔚跡隔異矣校而論之八會之書是書之至眞建文章之祖也雲篆明光是其根宗所起有書而始也今三元八會之書皇上太極高眞清仙之所用也雲篆明光之章今所見神靈符書之字是也爾乃見華季之世生造亂眞共作巧末趣徑下書皆流尸濁文淫僻之字舍本效假是囂穢死迹耳夫眞仙之人曷爲棄本領之文迹手畫淫亂之下字耶夫得爲眞人者事事皆盡得眞也奚獨於凡末之麤術淫浮之弊作而當守之而不改玩之而不遷乎夫人在世先有能書善爲事者得眞仙之日外書之變亦忽然隨身而自反矣眞事皆邇者不復廢今已得之濁書方又受學於上文而後重知眞書者也鬼道亦然但書字有小乖違耳且以靈筆眞手初不敢下交於肉人雖時當有得道之人而身未超世者亦故不敢下手陳書墨以顯示於字迹也至乃符文神藻所求所佩者自復始來而作耳所以爾者世人固不能了其端緒又使吾等不有隱諱耳㝠中自相參解矣内外自相關矣又四極眀科高上禁重亦自不聽我等復爲世間常書也我既下手子固不解亦將何趣兩爲煩濫耶此亦當闇其可否殆不足嫌想少暢豁於胷懷盡不自書之流分矣上眞司命南嶽夫人授今書如左若夫仰擲雲輪緫轡太空手維霄綱足陟玉庭身升帝闕披寳歙青上論九玄之逸度下紀萬椿之大生遂竦景電肅千霞焕明眞言玄浪高談玉清激朱脣之流微運日氣之零零爰乃吐烽却煙彈金奏瓊鸞音蒨粲鳳唱嘉聲耳若但應景下旋迴靈塵埃參輦弊宇敖彿}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_HFL_001-006a, image: hfl/0637/0637-018.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_HFL_001-006b, image: hfl/0637/0637-019.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_HFL_001-007a, image: hfl/0637/0637-020.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_HFL_001-007b, image: hfl/0637/0637-021.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_HFL_001-008a, image: hfl/0637/0637-022.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_HFL_001-008b, image: hfl/0637/0637-023.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_HFL_001-009a, image: hfl/0637/0637-024.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_HFL_001-009b, image: hfl/0637/0637-025.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_HFL_001-010a, image: hfl/0637/0637-026.png}
+  - {type: variant, offset: 373, length: 0, content: '', WYG: 也若五情愆波三魂越於是三眞舞劎黃闕揵關耳可不力之可不力之六月二十二日夜雞鳴喻書此紫陽㫖也右二條有長史寫清靈眞人説寳神經云云抄此修行事出在第三卷中不復兩載紫㣲夫人喻書如左云云事亦在第三卷興寧三年歲在乙丑六月二十三日夜喻書此其夕先共道諸人多有耳目不聰明者欲啓乞此法即夜有降者即乃見喻也此楊君自記也長史年出六十耳目欲衰故有咨請楊不欲指斥託云諸人又告云道士有耳重者云云事亦在第三卷右一條清靈眞人言眞人告云櫛頭理髪欲得過多事亦在第三卷右一條紫㣲夫人言其夜初降者適入户未坐自言今夕波聲如雷弟子請問其故答云向見東海中大波耳弟子者楊君自稱也右南嶽夫人言又告云汝憎血否答曰實憎之云血在路上若汝憎之當那得行又答曰當避之耳又云避之佳故不如目不見乃佳右南嶽夫人言自此後諸眞共語耳又云寳神經是裴清靈錦嚢中書侍者常所帶者也裴昔從紫㣲夫人授此書也吾亦有俱如此寫西宫中定本問西宫所在答云是𤣥圃北壇西瑤之上臺也天眞珍文盡藏於此中右南嶽夫人言裴眞人又言此書與隱書同輩事要而即可得用也一名七𤣥隱書右二十三日授訖此南嶽夫人見告云紫㣲左夫人王諱清娥字愈意阿母第二十女也鎭羽野𤣥壟山主教當得成眞人者右一條先此一夕所授此一條即是二十二日夜與紫陽所喻同夕當復大應有事後云聲氣下亦是此夕楊後又追憶此一事更疏在二十二日例中故云先此一夕也右從清靈來凡十二條有長史寫六月二十四日夜紫㣲王夫人來降因下地請問眞靈既身降於塵濁之人而手足猶未嘗自有所書故當是卑高迹邈未可見乎敢諮於此願誨蒙昧夫人因令復坐即見授令書此以答曰此楊君自述事也例多如此夫汎景虚𤣥無塗可尋言發空中無物可縱流浪乗忽化遁不滯者也此二行皆浮沈冥淪儵遷灼寂是故放蕩無津遂任鼓風柁存乎虚舟而行耳故實中之空空中之有有中之無象矣至於書迹之示則揮形紙札文理昺注麤好外著𤣥翰挺煥而範質用顯黙藻斯坦形傳塵濁茍騫露有骸之物而得與世進退上玷逸眞之詠下虧有隔之禁亦我等所不行靈法所不許也今請陳為書之本始也造文之既肇矣乃是五色初萌文章畫定之時秀人民之交别陰陽之分則有三元八㑹羣方飛天之書又有八龍雲明光之章也其後逮二皇之世演八㑹之文為龍鳯之章拘省雲篆之迹以為順形梵書分破二道壊眞從易配别本支乃為六十四種之書也遂播之於三十六天十方上下也各各取其篇𩔖異而用之音典雖均蔚跡隔異矣校而論之八㑹之書是書之至眞建文章之祖也雲篆明光是其根宗所起有書而始也今三元八㑹之書皇上太極高眞清仙之所用也雲篆明光之章今所見神靈符書之字是也爾乃見華季之世生造亂眞共作巧末徑下書皆流尸濁文淫僻之字舍本效假是囂穢死迹耳夫眞仙之人曷為棄本領之文迹手畫淫亂之下字耶夫得為眞人者事事皆盡得眞也奚獨於凡末之麤術淫浮之弊作而當守之而不改玩之而不遷乎夫人在世先有能書善為事者得眞仙之日外書之變亦忽然隨身而自反矣眞事皆邇者不復廢今已得之濁書方又受學於上文而後重知眞書者也鬼道亦然但書字有小乖違耳且以靈筆眞手初不敢下交於肉人雖時當有得道之人而身未超世者亦故不敢下手陳書墨以顯示於字迹也至乃符文神藻所求所佩者自復始來而作耳所以爾者世人固不能了其端緒又使吾等不有隱諱耳冥中自相參解矣内外自相關矣又四極明科高上禁重亦自不聽我等復為世間常書也我既下手子固不解亦將何趣兩為煩濫耶此亦當闇其可否殆不足嫌想少暢豁於胷懐盡不自書之流分矣上眞司命南嶽夫人授令書如左若夫仰擲雲輪總轡太空手維霄網足陟玉庭身升帝闕披寳歙青上論九𤣥之逸度下紀萬椿之大生遂竦景電肅千霞煥明眞言𤣥浪高譚玉清激朱脣之流徽運日氣之零零爰乃吐烽却煙彈金奏瓊鸞音蒨粲鳯唱嘉聲耳若但應景下旋靈塵埃參輦弊宇敖拂}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-6b, image: WYG1059/WYG1059-0317b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-7a, image: WYG1059/WYG1059-0317c.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-7b, image: WYG1059/WYG1059-0317d.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-8a, image: WYG1059/WYG1059-0318a.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-8b, image: WYG1059/WYG1059-0318b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-9a, image: WYG1059/WYG1059-0318c.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-9b, image: WYG1059/WYG1059-0318d.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-10a, image: WYG1059/WYG1059-0319a.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-10b, image: WYG1059/WYG1059-0319b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_WYG_001-11a, image: WYG1059/WYG1059-0319c.png}
+  - {type: variant, offset: 373, length: 0, content: '', YP-C: 也若五情愆波三魂越𠫤於是三眞舞劍黃闕捷關耳可不力之可不力之六月二十二日夜鷄鳴喻書此紫陽旨也右二條有長史寫清靈眞人說寶神經云云抄此修行事出在第三卷中不復兩載紫微夫人喻書如左云云事亦在第三卷興甯三年歲在乙丑六月二十三日夜喻書此其夕先共道諸人多有耳目不聰明者欲啓乞此法卽夜有降者卽乃見喻也此楊君自記也長史年出六十耳目欲衰故有咨請楊不欲指斥託云諸人又告云道士有耳重者云云事亦在第三卷右一條清靈眞人言眞人告云櫛頭理髮欲得過多事亦在第三卷右一條紫微夫人言其夜初降者適入戸未坐自言今夕波聲如雷弟子請問其故答云向見東海中大波耳弟子者楊君自稱也右南嶽夫人言又告云汝憎血否答曰實憎之云血在路上若汝憎之當那得行又答曰當避之耳又云避之佳故不如目不見乃佳右南嶽夫人言自此後諸眞共語耳又云寶神經是裴清靈錦囊中書侍者常所帶者也裴昔從紫微夫人授此書也吾亦有俱如此寫西宮中定本問西宮所在答云是玄圃北壇西瑶之上臺也天眞珍文盡藏於此中右南嶽夫人言裴眞人又言此書與隱書同輩事要而卽可得用也一名七玄隱書右二十三日授訖此南嶽夫人見告云紫微左夫人王諱清娥字愈意阿母第二十女也鎮羽野玄壟山主教當得成眞人者右一條先此一夕所授此一條卽是二十二日夜與紫陽所喻同夕當復大應有事後云聲氣下亦是此夕楊後又追憶此一事更疏在二十二日例中故云先此一夕也右從清靈來凡十二條有長史寫六月二十四日夜紫微王夫人來降因下地請問眞靈旣身降於塵濁之人而手足猶未嘗自有所書故當是卑高迹邈未可見乎敢諮於此願誨蒙昧夫人因令復坐卽見授令書此以答曰此楊君自述事也例多如此夫沈景虛玄無塗可尋言發空中無物可縱流浪乘忽化遁不滯者也此二行皆浮沈冥淪儵遷灼寂是故放蕩無津遂任鼓風柂存乎虛舟而行耳故實中之空空中之有有中之無象矣至於書迹之示則揮形紙札文理昺注麤好外著玄翰挺煥而範質用顯默藻斯坦形傳塵濁苟騫露有骸之物而得與世進退上玷逸眞之詠下虧有隔之禁亦我等所不行靈法所不許也今請陳爲書之本始也造文之旣肇矣乃是五色初萌文章畫定之時秀人民之交別陰陽之分則有三元八會羣方飛天之書又有八龍雲篆明光之章也其後逮二皇之世演八會之文爲龍鳳之章拘省雲篆之迹以爲順形梵書分破二道壤眞從易配別本支乃爲六十四種之書也遂播之于三十六天十方上下也各各取其篇類異而用之音典雖均蔚跡隔異矣校而論之八會之書是書之至眞建文章之祖也雲篆明光是其根宗所起有書而始也今三元八會之書皇上太極高眞清仙之所用也雲篆明光之章今所見神靈符書之字是也爾乃見華季之世生造亂眞共作巧末趣徑下書皆流尸濁文淫僻之字舍本效假是囂穢死迹耳夫眞仙之人曷爲棄本領之文迹手畫淫亂之下字耶夫得爲眞人者事事皆盡得眞也奚獨於凡末之麤術淫浮之弊作而當守之而不改玩之而不遷乎夫人在世先有能書善爲事者得眞仙之日外書之變亦忽然隨身而自反矣眞事皆邇者不復廢今已得之濁書方又受學於上文而後重知眞書者也鬼道亦然但書字有小乖違耳且以靈筆眞手初不敢下交於肉人雖時當有得道之人而身未超世者亦故不敢下手陳書墨以顯示於字迹也至乃符文神藻所求所佩者自復始來而作耳所以爾者世人固不能了其端緒又使吾等不有隱諱耳冥中自相參解矣內外自相關矣又四極明科高上禁重亦自不聽我等復爲世間常書也我旣下手子固不解亦將何趣兩爲煩濫耶此亦當闇其可否殆不足嫌想少暢豁於胸懷盡不自書之流分矣上眞司命南嶽夫人授令書如左若夫仰擲雲輪總轡太空手維霄綱足陟玉庭身升帝闕披寶歙青上論九玄之逸度下紀萬椿之大生遂竦景電肅千霞煥明眞言玄浪高談玉清激朱脣之流徽運日氣之零零爰乃吐烽卻煙彈金奏瓊鸞音蒨粲鳳唱嘉聲耳若但應景下旋迴靈塵埃參輦弊宇敖彿}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_YP-C_20ziji-01-0006b, image: JY237/20ziji-01-0006b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_YP-C_20ziji-01-0007a, image: JY237/20ziji-01-0007a.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_YP-C_20ziji-01-0007b, image: JY237/20ziji-01-0007b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_YP-C_20ziji-01-0008a, image: JY237/20ziji-01-0008a.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_YP-C_20ziji-01-0008b, image: JY237/20ziji-01-0008b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_YP-C_20ziji-01-0009a, image: JY237/20ziji-01-0009a.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_YP-C_20ziji-01-0009b, image: JY237/20ziji-01-0009b.png}
+  - {type: variant, offset: 373, length: 0, content: '', ZTDZ: 也若五情愆波三魂越𠫤於是三眞舞劒黄闕捷關耳可不力之可不力之六月二十二日夜鷄鳴喻書此紫陽㫖也右二條有長史寫清靈眞人說寳神經云云抄此修行事出在第三卷中不復兩載紫微夫人喻書如左云云事亦在第三卷興寧三年歲在乙丑六月二十三日夜喻書此其夕先共道諸人多有耳目不聦明者欲啓乞此法即夜有降者即乃見喻也此楊君自記也長史年出六十耳目欲衰故有咨請楊不欲指斥託云諸人又告云道士有耳重者云云事亦在第三卷右一條清靈眞人言眞人告云櫛頭理髮欲得過多事亦在第三卷右一條紫微夫人言其夜初降者適入户未坐自言今夕波聲如雷弟子請問其故答云向見東海中大波耳弟子者楊君自稱也右南嶽夫人言又告云汝憎血否答曰實憎之云血在路上若汝憎之當那得行又答曰當避之耳又云避之佳故不如目不見乃佳右南嶽夫人言自此後諸眞共語耳又云寳神經是裴清靈錦囊中書侍者常所帶者也裴昔從紫微夫人授此書也吾亦有俱如此寫西宫中定本問西宫所在答云是玄圃北壇西瑶之上臺也天眞珍文盡藏於此中右南嶽夫人言裴眞人又言此書與隱書同輩事要而即可得用也一名七玄隱書右二十三日授訖此南嶽夫人見告云紫微左夫人王諱清娥字愈意阿母第二十女也鎮羽野玄壟山主教當得成眞人者右一條先此一夕所授此一條即是二十二日夜與紫陽所喻同夕當復大應有事後云聲氣下亦是此夕楊後又追億此一事更黵在二十二日例中故云先此一夕也右從清靈來凡十二條有長史寫六月二十四日夜紫微王夫人來降因下地請問眞靈既身降於塵濁之人而手足猶未嘗自有所書故當是卑高迹邈未可見乎敢諮於此願誨蒙昧夫人因令復坐即見授今書此以答曰此楊君自述事也例多如此夫沈景虚玄無塗可尋言發空中無物可縱流浪乘忽化遁不滯者也此二行皆浮沈㝠淪儵遷灼寂是故放蕩無津遂任鼓風柂存乎虚舟而行耳故實中之空空中之有有中之無象矣至於書迹之示則揮形紙札文理昺注麤好外著玄翰挺焕而範質用顯默藻斯坦形傳塵濁苟騫露有骸之物而得與世進退上玷逸眞之詠下虧有隔之禁亦我等所不行靈法所不許也今請陳爲書之本始也造文之既肇矣乃是五色初萌文章畫定之時秀人民之交别隂陽之分則有三元八會羣方飛天之書又有八龍雲篆眀光之章也其後逮二皇之世演八會之文爲龍鳳之章拘省雲篆之迹以爲順形梵書分破二道壤眞從易配别本支乃爲六十四種之書也遂播之于三十六天十方上下也各各取其篇類異而用之音典雖均蔚跡隔異矣校而論之八會之書是書之至眞建文章之祖也雲篆明光是其根宗所起有書而始也今三元八會之書皇上太極高眞清仙之所用也雲篆明光之章今所見神靈符書之字是也爾乃見華季之世生造亂眞共作巧末趣徑下書皆流尸濁文淫僻之字舍本效假是囂穢死迹耳夫眞仙之人曷爲棄本領之文迹手畫淫亂之下字耶夫得爲眞人者事事皆盡得眞也奚獨於凡末之麤術淫浮之弊作而當守之而不改玩之而不遷乎夫人在世先有能書善爲事者得眞仙之日外書之變亦忽然隨身而自反矣眞事皆邇者不復廢今已得之濁書方又受學於上文而後重知眞書者也鬼道亦然但書字有小乖違耳且以靈筆眞手初不敢下交於肉人雖時當有得道之人而身未超世者亦故不敢下手陳書墨以顯示於字迹也至乃符文神藻所求所佩者自復始來而作耳所以爾者世人固不能了其端緒又使吾等不有隱諱耳㝠中自相參解矣内外自相關矣又四極眀科高上禁重亦自不聽我等復爲世間常書也我既下手子固不解亦將何趣兩爲煩濫耶此亦當闇其可否殆不足嫌想少暢豁於胷懷盡不自書之流分矣上眞司命南嶽夫人授今書如左若夫仰擲雲輪緫轡太空手維霄綱足陟玉庭身升帝闕披寳歙青上論九玄之逸度下紀萬椿之大生遂竦景電肅千霞焕明眞言玄浪高談玉清激朱脣之流微運日氣之零零爰乃吐烽却煙彈金奏瓊鸞音蒨粲鳳唱嘉聲耳若但應景下旋迴靈塵埃參輦弊宇敖彿}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_SJB_001-200492c, image: sjb/20/200492c.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_SJB_001-200493a, image: sjb/20/200493a.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_SJB_001-200493b, image: sjb/20/200493b.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_SJB_001-200493c, image: sjb/20/200493c.png}
+  - {type: page-break, offset: 373, content: '', id: KR5d0036_SJB_001-200494a, image: sjb/20/200494a.png}
+  - {type: variant, offset: 373, length: 0, content: '', krp: 也若五情愆波三魂越𠫤於是三眞舞劒黄闕捷關耳可不力之可不力之六月二十二日夜鷄鳴喻書此紫陽㫖也右二條有長史寫清靈眞人說寳神經云云抄此修行事出在第三卷中不復兩載紫微夫人喻書如左云云事亦在第三卷興寧三年歲在乙丑六月二十三日夜喻書此其夕先共道諸人多有耳目不聦明者欲啓乞此法即夜有降者即乃見喻也此楊君自記也長史年出六十耳目欲衰故有咨請楊不欲指斥託云諸人又告云道士有耳重者云云事亦在第三卷右一條清靈眞人言眞人告云櫛頭理髮欲得過多事亦在第三卷右一條紫微夫人言其夜初降者適入户未坐自言今夕波聲如雷弟子請問其故答云向見東海中大波耳弟子者楊君自稱也右南嶽夫人言又告云汝憎血否答曰實憎之云血在路上若汝憎之當那得行又答曰當避之耳又云避之佳故不如目不見乃佳右南嶽夫人言自此後諸眞共語耳又云寳神經是裴清靈錦囊中書侍者常所帶者也裴昔從紫微夫人授此書也吾亦有俱如此寫西宫中定本問西宫所在答云是玄圃北壇西瑶之上臺也天眞珍文盡藏於此中右南嶽夫人言裴眞人又言此書與隱書同輩事要而即可得用也一名七玄隱書右二十三日授訖此南嶽夫人見告云紫微左夫人王諱清娥字愈意阿母第二十女也鎮羽野玄壟山主教當得成眞人者右一條先此一夕所授此一條即是二十二日夜與紫陽所喻同夕當復大應有事後云聲氣下亦是此夕楊後又追億此一事更黵在二十二日例中故云先此一夕也右從清靈來凡十二條有長史寫六月二十四日夜紫微王夫人來降因下地請問眞靈既身降於塵濁之人而手足猶未嘗自有所書故當是卑高迹邈未可見乎敢諮於此願誨蒙昧夫人因令復坐即見授今書此以答曰此楊君自述事也例多如此夫沈景虚玄無塗可尋言發空中無物可縱流浪乘忽化遁不滯者也此二行皆浮沈㝠淪儵遷灼寂是故放蕩無津遂任鼓風柂存乎虚舟而行耳故實中之空空中之有有中之無象矣至於書迹之示則揮形紙札文理昺注麤好外著玄翰挺焕而範質用顯默藻斯坦形傳塵濁苟騫露有骸之物而得與世進退上玷逸眞之詠下虧有隔之禁亦我等所不行靈法所不許也今請陳爲書之本始也造文之既肇矣乃是五色初萌文章畫定之時秀人民之交别隂陽之分則有三元八會羣方飛天之書又有八龍雲篆眀光之章也其後逮二皇之世演八會之文爲龍鳳之章拘省雲篆之迹以爲順形梵書分破二道壤眞從易配别本支乃爲六十四種之書也遂播之于三十六天十方上下也各各取其篇類異而用之音典雖均蔚跡隔異矣校而論之八會之書是書之至眞建文章之祖也雲篆明光是其根宗所起有書而始也今三元八會之書皇上太極高眞清仙之所用也雲篆明光之章今所見神靈符書之字是也爾乃見華季之世生造亂眞共作巧末趣徑下書皆流尸濁文淫僻之字舍本效假是囂穢死迹耳夫眞仙之人曷爲棄本領之文迹手畫淫亂之下字耶夫得爲眞人者事事皆盡得眞也奚獨於凡末之麤術淫浮之弊作而當守之而不改玩之而不遷乎夫人在世先有能書善爲事者得眞仙之日外書之變亦忽然隨身而自反矣眞事皆邇者不復廢今已得之濁書方又受學於上文而後重知眞書者也鬼道亦然但書字有小乖違耳且以靈筆眞手初不敢下交於肉人雖時當有得道之人而身未超世者亦故不敢下手陳書墨以顯示於字迹也至乃符文神藻所求所佩者自復始來而作耳所以爾者世人固不能了其端緒又使吾等不有隱諱耳㝠中自相參解矣内外自相關矣又四極眀科高上禁重亦自不聽我等復爲世間常書也我既下手子固不解亦將何趣兩爲煩濫耶此亦當闇其可否殆不足嫌想少暢豁於胷懷盡不自書之流分矣上眞司命南嶽夫人授今書如左若夫仰擲雲輪緫轡太空手維霄綱足陟玉庭身升帝闕披寳歙青上論九玄之逸度下紀萬椿之大生遂竦景電肅千霞焕明眞言玄浪高談玉清激朱脣之流微運日氣之零零爰乃吐烽却煙彈金奏瓊鸞音蒨粲鳳唱嘉聲耳若但應景下旋迴靈塵埃參輦弊宇敖彿}
+  - {type: variant, offset: 374, length: 0, content: '', CK-KZ: 市來成眞才訓我弟子則玉振落響琳鐘內抑周目五濁契闊愆室神勞臭腥填鼻歛氣遂閉蘭音於中華之元退案金聲之劣劣而發耳夫神者言微於邇萬里必接奇韻雖觸金音鑒無滯故眞理之旣分聞遐則道高邈璞不肆瑩而致有卑微之聰也今子乃有心覺之至將致嫌似之思外觀流俗之對内有遲疑之悟乎不運事宜亦已邁也望所營者道研咏者妙耳道妙旣得高下之音必坦然矣此非所謀吾子加之至慮}
+  - {type: variant, offset: 374, length: 0, content: '', CK-KZ-jye: 市來成眞才訓我弟子則玉振落響琳鐘內抑周目五濁契闊愆室神勞臭腥填鼻歛氣遂閉蘭音於中華之元退案金聲之劣劣而發耳夫神者言微於邇萬里必接奇韻雖觸金音鑒無滯故眞理之旣分聞遐則道高邈璞不肆瑩而致有卑微之聰也今子乃有心覺之至將致嫌似之思外觀流俗之對内有遲疑之悟乎不運事宜亦已邁也望所營者道研咏者妙耳道妙旣得高下之音必坦然矣此非所謀吾子加之至慮}
+  - {type: variant, offset: 374, length: 0, content: '', HFL: 巿來成眞才訓我弟子則玉振落響琳鐘内抑周目五濁契闊愆室神勞臭腥填鼻歛氣遂閉蘭音於中華之元退案金聲之劣劣而發耳夫神者言微於邇萬里必接竒韻雖觸鑒無滯故眞理之既分聞遐則道高邈璞不肆瑩而致有卑微之聦也今子乃有心覺之至將致嫌似之思外觀流俗之對内有遲疑之悟乎不運事宜亦已邁也望所營者道研咏者妙耳道妙既得高下之音必坦然矣此非所謀吾子加之至慮}
+  - {type: page-break, offset: 374, content: '', id: KR5d0036_HFL_001-010b, image: hfl/0637/0637-027.png}
+  - {type: variant, offset: 374, length: 0, content: '', WYG: 市來成眞才訓我弟子則玉振落響琳鐘内抑周目五濁契濶愆室神勞臭腥塡鼻斂氣遂閉蘭音於中華之元退案金聲之劣劣而發耳夫神者言㣲於邇萬里必接竒韻雖觸鑒無滯故眞理之既分聞遐則道高邈璞不肆瑩而致有卑㣲之聰也今子乃有心覺之至將致嫌似之思外觀流俗之對内有遲疑之悟乎不運事宜亦已邁也望所營者道研咏者妙耳道妙既得高下之音必坦然矣此非所謀吾子加之至慮}
+  - {type: page-break, offset: 374, content: '', id: KR5d0036_WYG_001-11b, image: WYG1059/WYG1059-0319d.png}
+  - {type: variant, offset: 374, length: 0, content: '', YP-C: 市來成眞才訓我弟子則玉振落響琳鐘內抑周目五濁契闊愆室神勞臭腥填鼻歛氣遂閉蘭音於中華之元退案金聲之劣劣而發耳夫神者言微於邇萬里必接奇韻雖觸金音鑒無滯故眞理之旣分聞遐則道高邈璞不肆瑩而致有卑微之聰也今子乃有心覺之至將致嫌似之思外觀流俗之對内有遲疑之悟乎不運事宜亦已邁也望所營者道研咏者妙耳道妙旣得高下之音必坦然矣此非所謀吾子加之至慮}
+  - {type: variant, offset: 374, length: 0, content: '', ZTDZ: 巿來成眞才訓我弟子則玉振落響琳鐘内抑周目五濁契闊愆室神勞臭腥填鼻歛氣遂閉蘭音於中華之元退案金聲之劣劣而發耳夫神者言微於邇萬里必接竒韻雖觸鑒無滯故眞理之既分聞遐則道高邈璞不肆瑩而致有卑微之聦也今子乃有心覺之至將致嫌似之思外觀流俗之對内有遲疑之悟乎不運事宜亦已邁也望所營者道研咏者妙耳道妙既得高下之音必坦然矣此非所謀吾子加之至慮}
+  - {type: variant, offset: 374, length: 0, content: '', krp: 巿來成眞才訓我弟子則玉振落響琳鐘内抑周目五濁契闊愆室神勞臭腥填鼻歛氣遂閉蘭音於中華之元退案金聲之劣劣而發耳夫神者言微於邇萬里必接竒韻雖觸鑒無滯故眞理之既分聞遐則道高邈璞不肆瑩而致有卑微之聦也今子乃有心覺之至將致嫌似之思外觀流俗之對内有遲疑之悟乎不運事宜亦已邁也望所營者道研咏者妙耳道妙既得高下之音必坦然矣此非所謀吾子加之至慮}
+  - {type: variant, offset: 375, length: 0, content: '', CK-KZ: 蕩斯念宜愼之耳右三條有楊書六月二十四日夜南嶽夫人見授令書此先是二十二日夕有在別室共論講道紫微南嶽二夫人聲氣語音殊下不解其趣今故授書此以答所共講者之疑心也初來見授時色氣猶不平授畢可爾弟子唯覺色有不平都無他可道此一條亦是楊君自記論南嶽夫人其夕語弟子言我明日當詣王屋山淸虛宮令汝知之所至也其夕又言海東桐柏山西頭適崩二百許丈紫微王夫人云世人之思慮何得事事眞審耶可不事有答其心也南嶽夫人言戲之耳欲建竪之也瑩實之也興甯三年歲在乙丑六月二十五日夜此是安妃降事之端記錄别爲一卷故更起年歲號首也紫微王夫人見降又與一神女俱來神女着雲錦䙱上丹下靑文彩光鮮腰中有綠繡帶帶係十餘小鈴鈴靑色黃色更相參差左帶玉佩佩亦如世間佩但幾小耳衣服儵儵有光照朗室內如日中映視雲母形也雲髮鬃此應是鬒字鬒黑髮貌也鬢整頓絕倫作髻乃在頂中又垂餘髮至腰許指着金環白珠約臂視之年可十三四許左右又有兩侍女其一侍女着朱衣帶靑章囊手中又持一錦囊囊長尺一二寸許以盛書書當有十許卷也以白玉檢檢囊口見刻檢上字云玉淸神虎內眞紫元丹章其一侍女着靑衣捧白箱以絳帶束絡之白箱似象牙箱形也二侍女年可堪十七八許整飾非常神女及侍者顏容瑩朗鮮徹如玉五香馥芬如燒香嬰氣者也香嬰者嬰香也出外國初來入戸在紫微夫人後行夫人旣入戸之始仍見告曰今日有貴客來相議論好也於是某卽起立夫人曰可不須起但當共坐自相向作禮耳夫人坐南向某其夕先坐承床下西向神女因見就同床坐東向各以左手作禮作禮畢紫微夫人曰此是太虛上眞元君金臺李夫人之少女也太虛元君昔遣詣龜山學上淸道道成受太上書署爲紫淸上宮九華眞妃者也於是賜姓安名鬱嬪字靈簫紫微夫人又問某世上曾見有此人不某答曰靈尊高秀無以爲喻夫人因}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_CK-KZ_02p009a, image: JY237/CK-KZ_JY237_02p009a.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_CK-KZ_02p009b, image: JY237/CK-KZ_JY237_02p009b.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_CK-KZ_02p010a, image: JY237/CK-KZ_JY237_02p010a.png}
+  - {type: variant, offset: 375, length: 0, content: '', CK-KZ-jye: 蕩斯念宜愼之耳右三條有楊書六月二十四日夜南嶽夫人見授令書此先是二十二日夕有在別室共論講道紫微南嶽二夫人聲氣語音殊下不解其趣今故授書此以答所共講者之疑心也初來見授時色氣猶不平授畢可爾弟子唯覺色有不平都無他可道此一條亦是楊君自記論南嶽夫人其夕語弟子言我明日當詣王屋山淸虛宮令汝知之所至也其夕又言海東桐柏山西頭適崩二百許丈紫微王夫人云世人之思慮何得事事眞審耶可不事有答其心也南嶽夫人言戲之耳欲建竪之也瑩實之也興甯三年歲在乙丑六月二十五日夜此是安妃降事之端記錄别爲一卷故更起年歲號首也紫微王夫人見降又與一神女俱來神女着雲錦䙱上丹下靑文彩光鮮腰中有綠繡帶帶係十餘小鈴鈴靑色黃色更相參差左帶玉佩佩亦如世間佩但幾小耳衣服儵儵有光照朗室內如日中映視雲母形也雲髮鬃此應是鬒字鬒黑髮貌也鬢整頓絕倫作髻乃在頂中又垂餘髮至腰許指着金環白珠約臂視之年可十三四許左右又有兩侍女其一侍女着朱衣帶靑章囊手中又持一錦囊囊長尺一二寸許以盛書書當有十許卷也以白玉檢檢囊口見刻檢上字云玉淸神虎內眞紫元丹章其一侍女着靑衣捧白箱以絳帶束絡之白箱似象牙箱形也二侍女年可堪十七八許整飾非常神女及侍者顏容瑩朗鮮徹如玉五香馥芬如燒香嬰氣者也香嬰者嬰香也出外國初來入戸在紫微夫人後行夫人旣入戸之始仍見告曰今日有貴客來相議論好也於是某卽起立夫人曰可不須起但當共坐自相向作禮耳夫人坐南向某其夕先坐承床下西向神女因見就同床坐東向各以左手作禮作禮畢紫微夫人曰此是太虛上眞元君金臺李夫人之少女也太虛元君昔遣詣龜山學上淸道道成受太上書署爲紫淸上宮九華眞妃者也於是賜姓安名鬱嬪字靈簫紫微夫人又問某世上曾見有此人不某答曰靈尊高秀無以爲喻夫人因}
+  - {type: variant, offset: 375, length: 0, content: '', HFL: 蕩斯念宜愼之耳右三條有楊書六月二十四日夜南嶽夫人見授令書此先是二十二日夕有在别室共論講道紫微南嶽二夫人聲氣語音殊下不解其趣今故授書此以答所共講者之疑心也初來見授時色氣猶不平授畢可爾弟子唯覺色有不平都無他可道此一條亦是楊君自記論南嶽夫人其夕語弟子言我明日當詣王屋山清虚宫令汝知之所至也其夕又言海東桐柏山西頭適崩二百許丈紫微王夫人云世人之思慮何得事事眞審耶可不事有答其心也南嶽夫人言戲之耳欲建堅之也瑩實之也興寧三年歲在乙丑六月二十五日夜此是安妃降事之端記録别爲一卷故更起年歲號首也紫微王夫人見降又與一神女俱來神女着雲錦䙱上丹下青文彩光鮮腰中有緑繡帶帶繫十餘小鈴鈴青色黄色更相參差左帶玉佩佩亦如世間佩但幾小耳衣服儵儵有光照朗室内如日中映視雲母形也雲髮鬃此應是鬒字鬒黑髮貌也鬢整頓絶倫作髻乃在頂中又垂餘髮至腰許指着金環白珠約臂視之年可十三四許左右又有兩侍女其一侍女着朱衣帶青章囊手中又持一錦囊囊長尺一二寸許以盛書書當有十許卷也以白玉檢檢囊口見刻檢上字云玉清神虎内眞紫元丹章其一侍女着青衣捧白箱以絳帶束絡之白箱似象牙箱形也二侍女年可堪十七八許整飾非常神女及侍者顔容瑩朗鮮徹如玉五香馥芬如燒香嬰氣者也香嬰者嬰香也出外國初來入户在紫微夫人後行夫人既入户之始仍見告曰今日有貴客來相諧論好也於是某即起立夫人曰可不須起但當共坐自相向作禮耳夫人坐南向某其夕先坐承床下西向神女因見就同床坐東向各以左手作禮作禮畢紫微夫人曰此是太虚上眞元君金臺李夫人之少女也太虚元君昔遣詣龜山學上清道道成受太上書署爲紫清上宫九華眞妃者也於是賜姓安名鬱嬪字靈簫紫微夫人又問某世上曾見有此人不某答曰靈尊高秀無以爲喻夫人因}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_HFL_001-011a, image: hfl/0637/0637-028.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_HFL_001-011b, image: hfl/0637/0637-029.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_HFL_001-012a, image: hfl/0637/0637-030.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_HFL_001-012b, image: hfl/0637/0637-031.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_HFL_001-013a, image: hfl/0637/0637-032.png}
+  - {type: variant, offset: 375, length: 0, content: '', WYG: 蕩斯念宜愼之耳右三條有楊書六月二十四日夜南嶽夫人見授令書此先是二十二日夕有在别室共論講道紫㣲南嶽二夫人聲氣語音殊下不解其趣今故授書此以答所共講者之疑心也初來見授時色氣猶不平授畢可爾弟子唯覺色有不平都無他可道此一條亦是楊君自記論南嶽夫人其夕語弟子言我明日當詣王屋山清虚宫令汝知之所至也其夕又言海東桐栢山西頭適崩二百許丈紫㣲王夫人云世人之思慮何得事事眞審耶可不事有答其心也南嶽夫人言戲之耳欲建豎之也瑩實之也興寧三年歲在乙丑六月二十五日夜此是安妃降事之端記録别為一卷故更起年歲號首也紫微王夫人見降又與一神女俱來神女著雲錦䙱上丹下青文彩光鮮腰中有緑繡帶帶係十餘小鈴鈴青色黃色更相參差左帶玉佩佩亦如世間佩但幾小耳衣服儵儵有光照朗室内如日中映視雲母形也雲髮鬃此應是鬒字鬒黒髪貌也整頓絶倫作髻乃在頂中又垂餘髪至腰許指著金環白珠約臂視之年可十三四許左右又有兩侍女其一侍女著朱衣帶青章囊手中又持一錦囊囊長尺一二寸許以盛書書當有十許卷也以白玉檢檢囊口見刻檢上字云玉清神虎内眞紫元丹章其一侍女著青衣捧白箱以絳帶束絡之白箱似象牙箱形也二侍女年可堪十七八許整飾非常神女及侍者顔容瑩朗鮮徹如玉五香馥芬如燒香嬰氣者也香嬰者嬰香也出外國初來入户在紫㣲夫人後行夫人既入户之始仍見告曰今日有貴客來相詣論好也於是某即起立夫人曰可不須起但當共坐自相向作禮耳夫人坐南向某其夕先坐承牀下西向神女因見就同牀坐東向各以左手作禮作禮畢紫㣲夫人曰此是太虚上眞元君金臺李夫人之少女也太虚元君昔遣詣龜山學上清道道成受太上書署為紫清上宫九華眞妃者也於是賜姓安名鬱嬪字靈簫紫㣲夫人又問某世上曾見有此人不某答曰靈尊高秀無以為喻夫人因}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_WYG_001-12a, image: WYG1059/WYG1059-0320a.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_WYG_001-12b, image: WYG1059/WYG1059-0320b.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_WYG_001-13a, image: WYG1059/WYG1059-0320c.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_WYG_001-13b, image: WYG1059/WYG1059-0320d.png}
+  - {type: variant, offset: 375, length: 0, content: '', YP-C: 蕩斯念宜愼之耳右三條有楊書六月二十四日夜南嶽夫人見授令書此先是二十二日夕有在別室共論講道紫微南嶽二夫人聲氣語音殊下不解其趣今故授書此以答所共講者之疑心也初來見授時色氣猶不平授畢可爾弟子唯覺色有不平都無他可道此一條亦是楊君自記論南嶽夫人其夕語弟子言我明日當詣王屋山清虛宮令汝知之所至也其夕又言海東桐柏山西頭適崩二百許丈紫微王夫人云世人之思慮何得事事眞審耶可不事有答其心也南嶽夫人言戲之耳欲建竪之也瑩實之也興甯三年歲在乙丑六月二十五日夜此是安妃降事之端記錄别爲一卷故更起年歲號首也紫微王夫人見降又與一神女俱來神女着雲錦䙱上丹下青文彩光鮮腰中有綠繡帶帶係十餘小鈴鈴青色黃色更相參差左帶玉佩佩亦如世間佩但幾小耳衣服儵儵有光照朗室內如日中映視雲母形也雲髮鬃此應是鬒字鬒黑髮貌也鬢整頓絕倫作髻乃在頂中又垂餘髮至腰許指着金環白珠約臂視之年可十三四許左右又有兩侍女其一侍女着朱衣帶青章囊手中又持一錦囊囊長尺一二寸許以盛書書當有十許卷也以白玉檢檢囊口見刻檢上字云玉清神虎內眞紫元丹章其一侍女着青衣捧白箱以絳帶束絡之白箱似象牙箱形也二侍女年可堪十七八許整飾非常神女及侍者顔容瑩朗鮮徹如玉五香馥芬如燒香嬰氣者也香嬰者嬰香也出外國初來入戸在紫微夫人後行夫人旣入戸之始仍見告曰今日有貴客來相議論好也於是某卽起立夫人曰可不須起但當共坐自相向作禮耳夫人坐南向某其夕先坐承床下西向神女因見就同床坐東向各以左手作禮作禮畢紫微夫人曰此是太虛上眞元君金臺李夫人之少女也太虛元君昔遣詣龜山學上清道道成受太上書署爲紫清上宮九華眞妃者也於是賜姓安名鬱嬪字靈簫紫微夫人又問某世上曾見有此人不某答曰靈尊高秀無以爲喻夫人因}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_YP-C_20ziji-01-0010a, image: JY237/20ziji-01-0010a.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_YP-C_20ziji-01-0010b, image: JY237/20ziji-01-0010b.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_YP-C_20ziji-01-0011a, image: JY237/20ziji-01-0011a.png}
+  - {type: variant, offset: 375, length: 0, content: '', ZTDZ: 蕩斯念宜愼之耳右三條有楊書六月二十四日夜南嶽夫人見授令書此先是二十二日夕有在别室共論講道紫微南嶽二夫人聲氣語音殊下不解其趣今故授書此以答所共講者之疑心也初來見授時色氣猶不平授畢可爾弟子唯覺色有不平都無他可道此一條亦是楊君自記論南嶽夫人其夕語弟子言我明日當詣王屋山清虚宫令汝知之所至也其夕又言海東桐柏山西頭適崩二百許丈紫微王夫人云世人之思慮何得事事眞審耶可不事有答其心也南嶽夫人言戲之耳欲建堅之也瑩實之也興寧三年歲在乙丑六月二十五日夜此是安妃降事之端記録别爲一卷故更起年歲號首也紫微王夫人見降又與一神女俱來神女着雲錦䙱上丹下青文彩光鮮腰中有緑繡帶帶繫十餘小鈴鈴青色黄色更相參差左帶玉佩佩亦如世間佩但幾小耳衣服儵儵有光照朗室内如日中映視雲母形也雲髮鬃此應是鬒字鬒黑髮貌也鬢整頓絶倫作髻乃在頂中又垂餘髮至腰許指着金環白珠約臂視之年可十三四許左右又有兩侍女其一侍女着朱衣帶青章囊手中又持一錦囊囊長尺一二寸許以盛書書當有十許卷也以白玉檢檢囊口見刻檢上字云玉清神虎内眞紫元丹章其一侍女着青衣捧白箱以絳帶束絡之白箱似象牙箱形也二侍女年可堪十七八許整飾非常神女及侍者顔容瑩朗鮮徹如玉五香馥芬如燒香嬰氣者也香嬰者嬰香也出外國初來入户在紫微夫人後行夫人既入户之始仍見告曰今日有貴客來相諧論好也於是某即起立夫人曰可不須起但當共坐自相向作禮耳夫人坐南向某其夕先坐承床下西向神女因見就同床坐東向各以左手作禮作禮畢紫微夫人曰此是太虚上眞元君金臺李夫人之少女也太虚元君昔遣詣龜山學上清道道成受太上書署爲紫清上宫九華眞妃者也於是賜姓安名鬱嬪字靈簫紫微夫人又問某世上曾見有此人不某答曰靈尊高秀無以爲喻夫人因}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_SJB_001-200494b, image: sjb/20/200494b.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_SJB_001-200494c, image: sjb/20/200494c.png}
+  - {type: page-break, offset: 375, content: '', id: KR5d0036_SJB_001-200495a, image: sjb/20/200495a.png}
+  - {type: variant, offset: 375, length: 0, content: '', krp: 蕩斯念宜愼之耳右三條有楊書六月二十四日夜南嶽夫人見授令書此先是二十二日夕有在别室共論講道紫微南嶽二夫人聲氣語音殊下不解其趣今故授書此以答所共講者之疑心也初來見授時色氣猶不平授畢可爾弟子唯覺色有不平都無他可道此一條亦是楊君自記論南嶽夫人其夕語弟子言我明日當詣王屋山清虚宫令汝知之所至也其夕又言海東桐柏山西頭適崩二百許丈紫微王夫人云世人之思慮何得事事眞審耶可不事有答其心也南嶽夫人言戲之耳欲建堅之也瑩實之也興寧三年歲在乙丑六月二十五日夜此是安妃降事之端記録别爲一卷故更起年歲號首也紫微王夫人見降又與一神女俱來神女着雲錦䙱上丹下青文彩光鮮腰中有緑繡帶帶繫十餘小鈴鈴青色黄色更相參差左帶玉佩佩亦如世間佩但幾小耳衣服儵儵有光照朗室内如日中映視雲母形也雲髮鬃此應是鬒字鬒黑髮貌也鬢整頓絶倫作髻乃在頂中又垂餘髮至腰許指着金環白珠約臂視之年可十三四許左右又有兩侍女其一侍女着朱衣帶青章囊手中又持一錦囊囊長尺一二寸許以盛書書當有十許卷也以白玉檢檢囊口見刻檢上字云玉清神虎内眞紫元丹章其一侍女着青衣捧白箱以絳帶束絡之白箱似象牙箱形也二侍女年可堪十七八許整飾非常神女及侍者顔容瑩朗鮮徹如玉五香馥芬如燒香嬰氣者也香嬰者嬰香也出外國初來入户在紫微夫人後行夫人既入户之始仍見告曰今日有貴客來相諧論好也於是某即起立夫人曰可不須起但當共坐自相向作禮耳夫人坐南向某其夕先坐承床下西向神女因見就同床坐東向各以左手作禮作禮畢紫微夫人曰此是太虚上眞元君金臺李夫人之少女也太虚元君昔遣詣龜山學上清道道成受太上書署爲紫清上宫九華眞妃者也於是賜姓安名鬱嬪字靈簫紫微夫人又問某世上曾見有此人不某答曰靈尊高秀無以爲喻夫人因}
+  - {type: variant, offset: 376, length: 0, content: '', CK-KZ: 笑於爾如何某不復答紫淸眞妃坐良久都不言妃手中先握三枚棗色如乾棗而形長大內無核亦不作棗味有似於梨味耳妃先以一枚見與次以一枚與紫微}
+  - {type: page-break, offset: 376, content: '', id: KR5d0036_CK-KZ_02p010b, image: JY237/CK-KZ_JY237_02p010b.png}
+  - {type: variant, offset: 376, length: 0, content: '', CK-KZ-jye: 笑於爾如何某不復答紫淸眞妃坐良久都不言妃手中先握三枚棗色如乾棗而形長大內無核亦不作棗味有似於梨味耳妃先以一枚見與次以一枚與紫微}
+  - {type: variant, offset: 376, length: 0, content: '', HFL: 笑於爾如何某不復答紫清眞妃坐良乆都不言妃手中先握三枚棗色如乾棗而形長大内無核亦不作棗味有似於梨味耳妃先以一枚見與次以一枚與紫微}
+  - {type: variant, offset: 376, length: 0, content: '', WYG: 笑於爾如何某不復答紫清眞妃坐良久都不言妃手中先握三枚棗色如乾棗而形長大内無核亦不作棗味有似於梨味耳妃先以一枚見與次以一枚與紫㣲}
+  - {type: page-break, offset: 376, content: '', id: KR5d0036_WYG_001-14a, image: WYG1059/WYG1059-0321a.png}
+  - {type: variant, offset: 376, length: 0, content: '', YP-C: 笑於爾如何某不復答紫清眞妃坐良久都不言妃手中先握三枚棗色如乾棗而形長大內無核亦不作棗味有似於梨味耳妃先以一枚見與次以一枚與紫微}
+  - {type: page-break, offset: 376, content: '', id: KR5d0036_YP-C_20ziji-01-0011b, image: JY237/20ziji-01-0011b.png}
+  - {type: variant, offset: 376, length: 0, content: '', ZTDZ: 笑於爾如何某不復答紫清眞妃坐良乆都不言妃手中先握三枚棗色如乾棗而形長大内無核亦不作棗味有似於梨味耳妃先以一枚見與次以一枚與紫微}
+  - {type: variant, offset: 376, length: 0, content: '', krp: 笑於爾如何某不復答紫清眞妃坐良乆都不言妃手中先握三枚棗色如乾棗而形長大内無核亦不作棗味有似於梨味耳妃先以一枚見與次以一枚與紫微}
+  - {type: variant, offset: 377, length: 0, content: '', CK-KZ: 人自留一枚語令各食之食之畢少久許時眞妃問某年幾是何月生某登答言三十六庚寅歲九月生也眞妃又曰君師南眞夫人司命秉權道高妙備實良德之宗也聞君德音甚久不圖今日得敘因緣歡願於冥運之會依然有松蘿之纏矣某乃稱名答曰沈湎下俗塵染其質高卑雲邈無緣禀敬猥虧靈降欣踊罔極唯蒙啓訓以祛其闇濟某元元宿夜所願也眞妃曰君今語不得有謙飾謙飾之辭殊非事宜又良久眞妃見告曰欲作一紙文相贈便因君以筆運我鄙意當可爾乎某答奉命卽襞紙染筆登口見授作詩如左詩曰雲闕竪空上瓊臺聳鬱羅紫宮乘綠景靈觀藹嵳峩琅軒朱房内上德煥絳霞俯漱雲瓶津仰掇碧柰花濯足玉天池鼓枻牽牛河遂策景雲駕落龍轡玄阿振衣塵滓際褰裳步濁波願爲山澤結剛柔順以和相携雙淸内上眞道不邪紫微會良謀唱納享福多某書訖取視之乃曰今以相贈以宣丹心勿云云也若意中有不相解者自有微訪耳紫微夫人曰我復因爾作一紙文以相曉者以示善事耳某又襞紙染筆夫人見授詩云二象内外泮玄氣果中分冥會不待駕所其貴得眞南嶽鑄明金眇觀傾笈𢁥良德飛霞照遂感靈霄人乘飈儔衾寢齊牢携絳雲悟歎天人際數中自有緣上道誠不邪塵滓非所聞同目咸恒象高唱爲爾因書訖紫微夫人取視視畢曰以此贈爾今日於我爲因緣之主唱意之謀客矣紫微夫人又曰明日南岳夫人當還我當與妃共迎之於雲陶間明日不還者乃復數日事又良久紫微夫人曰我去矣明日當復與眞妃俱來詣爾也覺下牀而失所在也眞妃少留在後而言曰冥情未攄意氣未忘想君俱咏之耳明日當復來乃取某手而執之而自下牀未出戸之間忽然不見六月二十六日夕眾眞來疏如左紫微王夫人紫淸上宮九華眞妃上眞司命南嶽夫人某師凡此前後云某者皆楊君自隱名也紫陽眞人茅中君淸靈眞人茅小君又有一人年甚少整頓非常建芙蓉冠著朱衣以白珠綴衣縫帶劍都未曾見此人來多論金庭山中事與眾眞共言又有不可得解者揖敬紫微紫淸南眞三女眞餘人共言平耳云是桐柏山眞人王子喬也都不與某語又前後初有眞人來見降者時皆自不卽與某共語耳各坐良久紫淸眞妃曰欲復煩明君之手筆書一事以散意忘言可乎某又襞紙待授眞妃乃徐徐微言而授曰我是元君之少女太虛李夫人愛子也昔初學眞於龜臺受玉章於高上荷虎錄於紫皇秉瓊鉞於天帝受書於上眞之妃以遊}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_CK-KZ_02p011a, image: JY237/CK-KZ_JY237_02p011a.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_CK-KZ_02p011b, image: JY237/CK-KZ_JY237_02p011b.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_CK-KZ_02p012a, image: JY237/CK-KZ_JY237_02p012a.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_CK-KZ_02p012b, image: JY237/CK-KZ_JY237_02p012b.png}
+  - {type: variant, offset: 377, length: 0, content: '', CK-KZ-jye: 人自留一枚語令各食之食之畢少久許時眞妃問某年幾是何月生某登答言三十六庚寅歲九月生也眞妃又曰君師南眞夫人司命秉權道高妙備實良德之宗也聞君德音甚久不圖今日得敘因緣歡願於冥運之會依然有松蘿之纏矣某乃稱名答曰沈湎下俗塵染其質高卑雲邈無緣禀敬猥虧靈降欣踊罔極唯蒙啓訓以祛其闇濟某元元宿夜所願也眞妃曰君今語不得有謙飾謙飾之辭殊非事宜又良久眞妃見告曰欲作一紙文相贈便因君以筆運我鄙意當可爾乎某答奉命卽襞紙染筆登口見授作詩如左詩曰雲闕竪空上瓊臺聳鬱羅紫宮乘綠景靈觀藹嵳峩琅軒朱房内上德煥絳霞俯漱雲瓶津仰掇碧柰花濯足玉天池鼓枻牽牛河遂策景雲駕落龍轡玄阿振衣塵滓際褰裳步濁波願爲山澤結剛柔順以和相携雙淸内上眞道不邪紫微會良謀唱納享福多某書訖取視之乃曰今以相贈以宣丹心勿云云也若意中有不相解者自有微訪耳紫微夫人曰我復因爾作一紙文以相曉者以示善事耳某又襞紙染筆夫人見授詩云二象内外泮玄氣果中分冥會不待駕所其貴得眞南嶽鑄明金眇觀傾笈𢁥良德飛霞照遂感靈霄人乘飈儔衾寢齊牢携絳雲悟歎天人際數中自有緣上道誠不邪塵滓非所聞同目咸恒象高唱爲爾因書訖紫微夫人取視視畢曰以此贈爾今日於我爲因緣之主唱意之謀客矣紫微夫人又曰明日南岳夫人當還我當與妃共迎之於雲陶間明日不還者乃復數日事又良久紫微夫人曰我去矣明日當復與眞妃俱來詣爾也覺下牀而失所在也眞妃少留在後而言曰冥情未攄意氣未忘想君俱咏之耳明日當復來乃取某手而執之而自下牀未出戸之間忽然不見六月二十六日夕眾眞來疏如左紫微王夫人紫淸上宮九華眞妃上眞司命南嶽夫人某師凡此前後云某者皆楊君自隱名也紫陽眞人茅中君淸靈眞人茅小君又有一人年甚少整頓非常建芙蓉冠著朱衣以白珠綴衣縫帶劍都未曾見此人來多論金庭山中事與眾眞共言又有不可得解者揖敬紫微紫淸南眞三女眞餘人共言平耳云是桐柏山眞人王子喬也都不與某語又前後初有眞人來見降者時皆自不卽與某共語耳各坐良久紫淸眞妃曰欲復煩明君之手筆書一事以散意忘言可乎某又襞紙待授眞妃乃徐徐微言而授曰我是元君之少女太虛李夫人愛子也昔初學眞於龜臺受玉章於高上荷虎錄於紫皇秉瓊鉞於天帝受書於上眞之妃以遊}
+  - {type: variant, offset: 377, length: 0, content: '', HFL: 人自留一枚語令各食之食之畢少久許時眞妃問某年幾是何月生某登答言三十六庚寅歲九月生也眞妃又曰君師南眞夫人司命秉權道高妙備實良德之宗也聞君德音甚久不圖今日得叙因縁歡願於㝠運之會依然有松蘿之纏矣某乃稱名答曰沈湎下俗塵染其質高卑雲邈無縁禀敬猥虧靈降欣踴罔極唯蒙啓訓以袪其闇濟某元元宿夜所願也眞妃曰君今語不得有謙飾謙飾之辭殊非事宜又良久眞妃見告曰欲作一紙文相贈便因君以筆運我鄙意當可爾乎某答奉命即襞紙染筆登口見授作詩如左詩曰雲闕堅空上瓊臺聳鬱羅紫宫乘緑景靈觀藹嵳峩琅軒朱房内上德焕絳霞俯漱雲瓶津仰掇碧柰花濯足玉天池鼓枻牽牛河遂策景雲駕落龍轡玄阿振衣塵滓際褰裳步濁波願爲山澤結剛柔順以和相携雙清内上眞道不邪紫微會良謀唱納享福多某書訖取視之乃曰今以相贈以宣丹心勿云云也若意中有不相解者自有微訪耳紫微夫人曰我復因爾作一紙文以相曉者以示善事耳某又襞紙染筆夫人見授詩云二象内外泮玄氣果中分㝠會不待駕所其貴得眞南嶽鑄明金眇觀傾笈𢁥良德飛霞照遂感靈霄人乘飈儔衾寢齊牢携絳雲悟歎天人際數中自有縁上道誠不邪塵泮非所聞同目咸恒象高唱爲爾因書訖紫微夫人取視視畢曰以此贈爾今曰於我爲因縁之主唱意之謀客矣紫微夫人又曰明日南岳夫人當還我當與妃共迎之於雲陶間明日不還者乃復數日事又良久紫微夫人曰我去矣明日當復與眞妃俱來詣爾也覺下牀而失所在也眞妃少留在後而言曰㝠情未攄意氣未忘想君俱咏之耳明目當復來乃取某手而執之而自下牀未出户之間忽然不見六月二十六日夕衆眞來䟽如左紫微王夫人紫清上宫九華眞妃上眞司命南嶽夫人某師凡此前後云某者皆楊君自隱名也紫陽眞人茅中君清靈眞人茅小君又有一人年甚少整頓非常建芙蓉冠著朱衣以白珠綴衣縫帶劒都未曾見此人來多論金庭山中事與衆眞共言又有不可得解者揖敬紫微紫清南眞三女眞餘人共言平耳云是桐柏山眞人王子喬也都不與某語又前後初有眞人來見降者時皆自不即與某共語耳各坐良久紫清眞妃曰欲復煩明君之手筆書一事以散意忘言可乎某又襞紙待授眞妃乃徐徐微言而授曰我是元君之少女太虚李夫人愛子也昔初學眞於龜臺受玉章於高上荷虎録於紫皇秉瓊鉞於天帝受書於上眞之妃以遊}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_HFL_001-013b, image: hfl/0637/0637-033.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_HFL_001-014a, image: hfl/0637/0637-034.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_HFL_001-014b, image: hfl/0637/0637-035.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_HFL_001-015a, image: hfl/0637/0637-036.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_HFL_001-015b, image: hfl/0637/0637-037.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_HFL_001-016a, image: hfl/0637/0637-038.png}
+  - {type: variant, offset: 377, length: 0, content: '', WYG: 人自畱一枚語令各食之食之畢少久許時眞妃問某年幾是何月生某登答言三十六庚寅歲九月生也眞妃又曰君師南眞夫人司命秉權道高妙備實良徳之宗也聞君德音甚久不圖今日得叙因緣歡願於冥運之㑹依然有松蘿之纒矣某乃稱名答曰沈湎下俗塵染其質高卑雲邈無緣稟敬猥虧靈降欣踊罔極唯蒙啓訓以袪其闇濟某元元宿夜所願也眞妃曰君今語不得有謙飾謙飾之辭殊非事宜又良久眞妃見告曰欲作一紙文相贈便因君以筆運我鄙意當可爾乎某答奉命即襞紙染筆登口見授作詩如左詩曰雲闕竪空上瓊臺聳鬱羅紫宫乗緑景靈觀藹嵯峨琅軒朱房内上德煥絳霞俯潄雲瓶津仰掇碧柰花濯足玉天池鼓枻牽牛河遂䇿景雲駕落龍轡𤣥阿振衣塵滓際褰裳步濁波願為山澤結剛柔順以和相攜雙清内上眞道不邪紫㣲㑹良謀唱納享福多某書訖取視之乃曰今以相贈以宣丹心勿云云也若意中有不相解者自有㣲訪耳紫㣲夫人曰我復因爾作一紙文以相曉者以示善事耳某又襞紙染筆夫人見授詩云二象内外泮𤣥氣果中分冥㑹不待駕所其貴得真南嶽鑄明金眇觀傾笈良徳飛霞照遂感靈霄人乘飆儔衾寢齊牢攜絳雲悟歎天人際數中自有緣上道誠不邪塵滓非所聞同目咸恒象高唱為爾因書訖紫㣲夫人取視視畢曰以此贈爾今日於我為因緣之主唱意之謀客矣紫㣲夫人又曰明日南嶽夫人當還我當與妃共迎之於雲陶間明日不還者乃復數日事又良久紫㣲夫人曰我去矣明日當復與眞妃俱來詣爾也覺下牀而失所在也眞妃少畱在後而言曰冥情未攄意氣未忘想君俱咏之耳明日當復來乃取某手而執之而自下牀未出户之間忽然不見六月二十六日夕衆眞來疏如左紫㣲王夫人紫清上宫九華眞妃上眞司命南嶽夫人某師凡此前後云某者皆楊君自隱名也紫陽眞人茅中君清靈眞人茅小君又有一人年甚少整頓非常建芙蓉冠著朱衣以白珠綴衣縫帶劒都未曾見此人來多論金庭山中事與衆眞共言又有不可得解者揖敬紫㣲紫清南眞三女眞餘人共言平耳云是桐柏山眞人王子喬也都不與某語又前後初有眞人來見降者時皆自不即與某共語耳各坐良久紫清眞妃曰欲復煩明君之手筆書一事以散意忘言可乎某又襞紙待授眞妃乃徐徐㣲言而授曰我是元君之少女太虚李夫人愛子也昔初學眞於龜臺受玉章於高上荷虎録於紫皇秉瓊鉞於天帝受書於上眞之妃以遊}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_WYG_001-14b, image: WYG1059/WYG1059-0321b.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_WYG_001-15a, image: WYG1059/WYG1059-0321c.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_WYG_001-15b, image: WYG1059/WYG1059-0321d.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_WYG_001-16a, image: WYG1059/WYG1059-0322a.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_WYG_001-16b, image: WYG1059/WYG1059-0322b.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_WYG_001-17a, image: WYG1059/WYG1059-0322c.png}
+  - {type: variant, offset: 377, length: 0, content: '', YP-C: 人自留一枚語令各食之食之畢少久許時眞妃問某年幾是何月生某登答言三十六庚寅歲九月生也眞妃又曰君師南眞夫人司命秉權道高妙備實良德之宗也聞君德音甚久不圖今日得敘因緣歡願於冥運之會依然有松蘿之纏矣某乃稱名答曰沈湎下俗塵染其質高卑雲邈無緣禀敬猥虧靈降欣踊罔極唯蒙啓訓以祛其闇濟某元元宿夜所願也眞妃曰君今語不得有謙飾謙飾之辭殊非事宜又良久眞妃見告曰欲作一紙文相贈便因君以筆運我鄙意當可爾乎某答奉命卽襞紙染筆登口見授作詩如左詩曰雲闕竪空上瓊臺聳鬱羅紫宮乘綠景靈觀藹嵳峩琅軒朱房内上德煥絳霞俯漱雲瓶津仰掇碧柰花濯足玉天池鼓枻牽牛河遂策景雲駕落龍轡玄阿振衣塵滓際褰裳步濁波願爲山澤結剛柔順以和相携雙清内上眞道不邪紫微會良謀唱納享福多某書訖取視之乃曰今以相贈以宣丹心勿云云也若意中有不相解者自有微訪耳紫微夫人曰我復因爾作一紙文以相曉者以示善事耳某又襞紙染筆夫人見授詩云二象内外泮玄氣果中分冥會不待駕所其貴得眞南嶽鑄明金眇觀傾笈𢁥良德飛霞照遂感靈霄人乘飈儔衾寢齊牢携絳雲悟歎天人際數中自有緣上道誠不邪塵滓非所聞同目咸恒象高唱爲爾因書訖紫微夫人取視視畢曰以此贈爾今日於我爲因緣之主唱意之謀客矣紫微夫人又曰明日南岳夫人當還我當與妃共迎之於雲陶間明日不還者乃復數日事又良久紫微夫人曰我去矣明日當復與眞妃俱來詣爾也覺下牀而失所在也眞妃少留在後而言曰冥情未攄意氣未忘想君俱咏之耳明日當復來乃取某手而執之而自下牀未出戸之間忽然不見六月二十六日夕眾眞來疏如左紫微王夫人紫清上宮九華眞妃上眞司命南嶽夫人某師凡此前後云某者皆楊君自隱名也紫陽眞人茅中君清靈眞人茅小君又有一人年甚少整頓非常建芙蓉冠著朱衣以白珠綴衣縫帶劍都未曾見此人來多論金庭山中事與眾眞共言又有不可得解者揖敬紫微紫清南眞三女眞餘人共言平耳云是桐柏山眞人王子喬也都不與某語又前後初有眞人來見降者時皆自不卽與某共語耳各坐良久紫清眞妃曰欲復煩明君之手筆書一事以散意忘言可乎某又襞紙待授眞妃乃徐徐微言而授曰我是元君之少女太虛李夫人愛子也昔初學眞於龜臺受玉章於高上荷虎錄於紫皇秉瓊鉞於天帝受書於上眞之妃以遊}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_YP-C_20ziji-01-0012a, image: JY237/20ziji-01-0012a.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_YP-C_20ziji-01-0012b, image: JY237/20ziji-01-0012b.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_YP-C_20ziji-01-0013a, image: JY237/20ziji-01-0013a.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_YP-C_20ziji-01-0013b, image: JY237/20ziji-01-0013b.png}
+  - {type: variant, offset: 377, length: 0, content: '', ZTDZ: 人自留一枚語令各食之食之畢少久許時眞妃問某年幾是何月生某登答言三十六庚寅歲九月生也眞妃又曰君師南眞夫人司命秉權道高妙備實良德之宗也聞君德音甚久不圖今日得叙因縁歡願於㝠運之會依然有松蘿之纏矣某乃稱名答曰沈湎下俗塵染其質高卑雲邈無縁禀敬猥虧靈降欣踴罔極唯蒙啓訓以袪其闇濟某元元宿夜所願也眞妃曰君今語不得有謙飾謙飾之辭殊非事宜又良久眞妃見告曰欲作一紙文相贈便因君以筆運我鄙意當可爾乎某答奉命即襞紙染筆登口見授作詩如左詩曰雲闕堅空上瓊臺聳鬱羅紫宫乘緑景靈觀藹嵳峩琅軒朱房内上德焕絳霞俯漱雲瓶津仰掇碧柰花濯足玉天池鼓枻牽牛河遂策景雲駕落龍轡玄阿振衣塵滓際褰裳步濁波願爲山澤結剛柔順以和相携雙清内上眞道不邪紫微會良謀唱納享福多某書訖取視之乃曰今以相贈以宣丹心勿云云也若意中有不相解者自有微訪耳紫微夫人曰我復因爾作一紙文以相曉者以示善事耳某又襞紙染筆夫人見授詩云二象内外泮玄氣果中分㝠會不待駕所其貴得眞南嶽鑄明金眇觀傾笈𢁥良德飛霞照遂感靈霄人乘飈儔衾寢齊牢携絳雲悟歎天人際數中自有縁上道誠不邪塵泮非所聞同目咸恒象高唱爲爾因書訖紫微夫人取視視畢曰以此贈爾今曰於我爲因縁之主唱意之謀客矣紫微夫人又曰明日南岳夫人當還我當與妃共迎之於雲陶間明日不還者乃復數日事又良久紫微夫人曰我去矣明日當復與眞妃俱來詣爾也覺下牀而失所在也眞妃少留在後而言曰㝠情未攄意氣未忘想君俱咏之耳明目當復來乃取某手而執之而自下牀未出户之間忽然不見六月二十六日夕衆眞來䟽如左紫微王夫人紫清上宫九華眞妃上眞司命南嶽夫人某師凡此前後云某者皆楊君自隱名也紫陽眞人茅中君清靈眞人茅小君又有一人年甚少整頓非常建芙蓉冠著朱衣以白珠綴衣縫帶劒都未曾見此人來多論金庭山中事與衆眞共言又有不可得解者揖敬紫微紫清南眞三女眞餘人共言平耳云是桐柏山眞人王子喬也都不與某語又前後初有眞人來見降者時皆自不即與某共語耳各坐良久紫清眞妃曰欲復煩明君之手筆書一事以散意忘言可乎某又襞紙待授眞妃乃徐徐微言而授曰我是元君之少女太虚李夫人愛子也昔初學眞於龜臺受玉章於高上荷虎録於紫皇秉瓊鉞於天帝受書於上眞之妃以遊}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_SJB_001-200495b, image: sjb/20/200495b.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_SJB_001-200495c, image: sjb/20/200495c.png}
+  - {type: page-break, offset: 377, content: '', id: KR5d0036_SJB_001-200496a, image: sjb/20/200496a.png}
+  - {type: variant, offset: 377, length: 0, content: '', krp: 人自留一枚語令各食之食之畢少久許時眞妃問某年幾是何月生某登答言三十六庚寅歲九月生也眞妃又曰君師南眞夫人司命秉權道高妙備實良德之宗也聞君德音甚久不圖今日得叙因縁歡願於㝠運之會依然有松蘿之纏矣某乃稱名答曰沈湎下俗塵染其質高卑雲邈無縁禀敬猥虧靈降欣踴罔極唯蒙啓訓以袪其闇濟某元元宿夜所願也眞妃曰君今語不得有謙飾謙飾之辭殊非事宜又良久眞妃見告曰欲作一紙文相贈便因君以筆運我鄙意當可爾乎某答奉命即襞紙染筆登口見授作詩如左詩曰雲闕堅空上瓊臺聳鬱羅紫宫乘緑景靈觀藹嵳峩琅軒朱房内上德焕絳霞俯漱雲瓶津仰掇碧柰花濯足玉天池鼓枻牽牛河遂策景雲駕落龍轡玄阿振衣塵滓際褰裳步濁波願爲山澤結剛柔順以和相携雙清内上眞道不邪紫微會良謀唱納享福多某書訖取視之乃曰今以相贈以宣丹心勿云云也若意中有不相解者自有微訪耳紫微夫人曰我復因爾作一紙文以相曉者以示善事耳某又襞紙染筆夫人見授詩云二象内外泮玄氣果中分㝠會不待駕所其貴得眞南嶽鑄明金眇觀傾笈𢁥良德飛霞照遂感靈霄人乘飈儔衾寢齊牢携絳雲悟歎天人際數中自有縁上道誠不邪塵泮非所聞同目咸恒象高唱爲爾因書訖紫微夫人取視視畢曰以此贈爾今曰於我爲因縁之主唱意之謀客矣紫微夫人又曰明日南岳夫人當還我當與妃共迎之於雲陶間明日不還者乃復數日事又良久紫微夫人曰我去矣明日當復與眞妃俱來詣爾也覺下牀而失所在也眞妃少留在後而言曰㝠情未攄意氣未忘想君俱咏之耳明目當復來乃取某手而執之而自下牀未出户之間忽然不見六月二十六日夕衆眞來䟽如左紫微王夫人紫清上宫九華眞妃上眞司命南嶽夫人某師凡此前後云某者皆楊君自隱名也紫陽眞人茅中君清靈眞人茅小君又有一人年甚少整頓非常建芙蓉冠著朱衣以白珠綴衣縫帶劒都未曾見此人來多論金庭山中事與衆眞共言又有不可得解者揖敬紫微紫清南眞三女眞餘人共言平耳云是桐柏山眞人王子喬也都不與某語又前後初有眞人來見降者時皆自不即與某共語耳各坐良久紫清眞妃曰欲復煩明君之手筆書一事以散意忘言可乎某又襞紙待授眞妃乃徐徐微言而授曰我是元君之少女太虚李夫人愛子也昔初學眞於龜臺受玉章於高上荷虎録於紫皇秉瓊鉞於天帝受書於上眞之妃以遊}
+  - {type: variant, offset: 378, length: 1, content: 秘, CK-KZ: 玉淸也常數自手扉九羅足躡玄房霄形靈虛仰歠日根入宴七闕出轡雲輪攝三辰而俱升散景霞以飛軒也非不能採擇上室訪搜紫童求玉宮之良儔偶高靈而爲雙接玄引奇友于帝郎矣直是我推機任會應度厯數俯景塵沬參龍下邁招冥求之雄追得匹之黨耳自因宿命相與乃有墨會定名素契玉鄕齊理二慶㩦鴈而行匏爵分味醮衾結裳顧儔中饋內藏眞方也推此而往已定分冥簡靑}
+  - {type: page-break, offset: 378, content: '', id: KR5d0036_CK-KZ_02p013a, image: JY237/CK-KZ_JY237_02p013a.png}
+  - {type: variant, offset: 378, length: 1, content: 秘, CK-KZ-jye: 玉淸也常數自手扉九羅足躡玄房霄形靈虛仰歠日根入宴七闕出轡雲輪攝三辰而俱升散景霞以飛軒也非不能採擇上室訪搜紫童求玉宮之良儔偶高靈而爲雙接玄引奇友于帝郎矣直是我推機任會應度厯數俯景塵沬參龍下邁招冥求之雄追得匹之黨耳自因宿命相與乃有墨會定名素契玉鄕齊理二慶㩦鴈而行匏爵分味醮衾結裳顧儔中饋內藏眞方也推此而往已定分冥簡靑}
+  - {type: variant, offset: 378, length: 1, content: 秘, HFL: 玉清也常數自手扉九羅足躡玄房霄形靈虚仰歠日根入宴七闕出轡雲輪攝三辰而俱升散景霞以飛軒也非不能採擇上室訪搜紫童求王宫之良儔偶高靈而爲雙接玄引竒友于帝郎矣直是我推機任會應度歷數俯景塵沫參龍下邁招冥求之雄追得匹之黨耳自因宿命相與乃有墨會定名素契玉郷齊理二慶携鴈而行匏爵分味醮衾結裳顧儔中饋内藏眞方也推此而徃已定分冥簡青}
+  - {type: page-break, offset: 378, content: '', id: KR5d0036_HFL_001-016b, image: hfl/0637/0637-039.png}
+  - {type: variant, offset: 378, length: 1, content: 秘, WYG: 玉清也常數自手扉九羅足躡𤣥房霄形靈虚仰歠日根入宴七闕出轡雲輪攝三辰而俱升散景霞以飛軒也非不能採擇上室訪捜紫童求王宫之良儔偶高靈而為雙接𤣥引竒友干帝郎矣直是我推機任㑹應度厯數俯景塵沫參龍下邁招冥求之雄追得匹之黨耳自因宿命相與乃有墨㑹定名素契玉鄉齊理二慶攜鴈而行匏爵分味醮衾結裳顧儔中饋内藏眞方也推此而往已定分冥簡青}
+  - {type: page-break, offset: 378, content: '', id: KR5d0036_WYG_001-17b, image: WYG1059/WYG1059-0322d.png}
+  - {type: variant, offset: 378, length: 1, content: 秘, YP-C: 玉清也常數自手扉九羅足躡玄房霄形靈虛仰歠日根入宴七闕出轡雲輪攝三辰而俱升散景霞以飛軒也非不能採擇上室訪搜紫童求玉宮之良儔偶高靈而爲雙接玄引奇友于帝郎矣直是我推機任會應度厯數俯景塵沬參龍下邁招冥求之雄追得匹之黨耳自因宿命相與乃有墨會定名素契玉鄕齊理二慶㩦鴈而行匏爵分味醮衾結裳顧儔中饋內藏眞方也推此而往已定分冥簡青}
+  - {type: page-break, offset: 378, content: '', id: KR5d0036_YP-C_20ziji-01-0014a, image: JY237/20ziji-01-0014a.png}
+  - {type: variant, offset: 378, length: 1, content: 秘, ZTDZ: 玉清也常數自手扉九羅足躡玄房霄形靈虚仰歠日根入宴七闕出轡雲輪攝三辰而俱升散景霞以飛軒也非不能採擇上室訪搜紫童求王宫之良儔偶高靈而爲雙接玄引竒友于帝郎矣直是我推機任會應度歷數俯景塵沫參龍下邁招冥求之雄追得匹之黨耳自因宿命相與乃有墨會定名素契玉郷齊理二慶携鴈而行匏爵分味醮衾結裳顧儔中饋内藏眞方也推此而徃已定分冥簡青}
+  - {type: variant, offset: 378, length: 1, content: 秘, krp: 玉清也常數自手扉九羅足躡玄房霄形靈虚仰歠日根入宴七闕出轡雲輪攝三辰而俱升散景霞以飛軒也非不能採擇上室訪搜紫童求王宫之良儔偶高靈而爲雙接玄引竒友于帝郎矣直是我推機任會應度歷數俯景塵沫參龍下邁招冥求之雄追得匹之黨耳自因宿命相與乃有墨會定名素契玉郷齊理二慶携鴈而行匏爵分味醮衾結裳顧儔中饋内藏眞方也推此而徃已定分冥簡青}
+  - {type: substitution, offset: 378, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
+  - {type: variant, offset: 380, length: 1, content: 郎, CK-KZ: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔旨豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反淡凝情虛刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
+  - {type: variant, offset: 380, length: 1, content: 郎, CK-KZ-jye: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔旨豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反淡凝情虛刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
+  - {type: variant, offset: 380, length: 1, content: 郎, HFL: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔㫖豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反淡凝情虚刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
+  - {type: variant, offset: 380, length: 1, content: 郎, WYG: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔㫖豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反澹凝情虚刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
+  - {type: variant, offset: 380, length: 1, content: 郎, YP-C: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔旨豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反淡凝情虛刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
+  - {type: variant, offset: 380, length: 1, content: 郎, ZTDZ: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔㫖豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反淡凝情虚刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
+  - {type: variant, offset: 380, length: 1, content: 郎, krp: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔㫖豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反淡凝情虚刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
+  - {type: variant, offset: 382, length: 3, content: 似孫敘, CK-KZ: 淸鬱輿流霄使鳳歌雲路龍吟虎嘷天皇雙景遠升辰樓飛星擲光日月映軀口吐冥煙眼激電光上寢瓊房流行玉淸手掣景雲足陟金庭若自此之時在得道之頃爲當固盡內外理同金石情纏雙好齊心幃幙耳爲必抱衾均牢有輕中之接塵穢七神悲魂任魄乎蓋是妾求氏族於明君耳非有邪也今可謂得志懷眞情已如一方當相與結駟玉虛偶行此玄同掇絳實於玉圃併採丹華於閬園分飲於紫川之水齊濯於碧河之濱紫華毛帔日冕蓉冠逍遥上淸俱朝三元八景出落鳳扉雲關仰漱金髓咏歌玉玄浮空寢晏高會太晨四鈞朗唱香母奏煙齊首偶觀携帶交裙不亦樂乎不亦得志乎明君其順運隨會妾必無辭且亦自不得背實反冥苟任胷懷矣授畢復自取視而言曰今以此書相詣庶豁其滯疑耳言畢乃笑良久紫微夫人曰眞妃之辭盡矣論好之緣著矣爾亦不得復有所容也玄運冥分使之然耳南岳夫人見授書曰冥期數感玄運相適應分來聘新搆因緣此携眞之善事也蓋示有偶對之名定內外之職而已不必苟循世中之弊穢而行淫濁之下迹矣偶靈妃以接景聘貴眞之少女於爾親交亦大有進業之益得而無傷絕之慮耳千神於是可使試觀不得復陳矣眞旌必可尅往雲軒必可俱駕也吾往曾因紫微夫人爲汝構及此意今遂如願益使我欣欣愼復疑矧於心胷矣我昨見金臺李夫人於淸虛中言爾尙有疑正之心色氣小有眼眼謂應作悢悢字汝違此舉誤人不小眞妃有神虎內眞丹靑玉文非爾所有者輩良才求寫故當不爲隱耳今日相攜何但文章而已將必乘景王霄乎若有未悟者宜微訪可否眞妃見夫人書言乃笑而言攜手雙臺娛歎良會景軿同機於此齊乎}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_CK-KZ_02p013b, image: JY237/CK-KZ_JY237_02p013b.png}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_CK-KZ_02p014a, image: JY237/CK-KZ_JY237_02p014a.png}
+  - {type: variant, offset: 382, length: 3, content: 似孫敘, CK-KZ-jye: 淸鬱輿流霄使鳳歌雲路龍吟虎嘷天皇雙景遠升辰樓飛星擲光日月映軀口吐冥煙眼激電光上寢瓊房流行玉淸手掣景雲足陟金庭若自此之時在得道之頃爲當固盡內外理同金石情纏雙好齊心幃幙耳爲必抱衾均牢有輕中之接塵穢七神悲魂任魄乎蓋是妾求氏族於明君耳非有邪也今可謂得志懷眞情已如一方當相與結駟玉虛偶行此玄同掇絳實於玉圃併採丹華於閬園分飲於紫川之水齊濯於碧河之濱紫華毛帔日冕蓉冠逍遥上淸俱朝三元八景出落鳳扉雲關仰漱金髓咏歌玉玄浮空寢晏高會太晨四鈞朗唱香母奏煙齊首偶觀携帶交裙不亦樂乎不亦得志乎明君其順運隨會妾必無辭且亦自不得背實反冥苟任胷懷矣授畢復自取視而言曰今以此書相詣庶豁其滯疑耳言畢乃笑良久紫微夫人曰眞妃之辭盡矣論好之緣著矣爾亦不得復有所容也玄運冥分使之然耳南岳夫人見授書曰冥期數感玄運相適應分來聘新搆因緣此携眞之善事也蓋示有偶對之名定內外之職而已不必苟循世中之弊穢而行淫濁之下迹矣偶靈妃以接景聘貴眞之少女於爾親交亦大有進業之益得而無傷絕之慮耳千神於是可使試觀不得復陳矣眞旌必可尅往雲軒必可俱駕也吾往曾因紫微夫人爲汝構及此意今遂如願益使我欣欣愼復疑矧於心胷矣我昨見金臺李夫人於淸虛中言爾尙有疑正之心色氣小有眼眼謂應作悢悢字汝違此舉誤人不小眞妃有神虎內眞丹靑玉文非爾所有者輩良才求寫故當不爲隱耳今日相攜何但文章而已將必乘景王霄乎若有未悟者宜微訪可否眞妃見夫人書言乃笑而言攜手雙臺娛歎良會景軿同機於此齊乎}
+  - {type: variant, offset: 382, length: 3, content: 似孫敘, HFL: 清鬱輿流霄使鳳歌雲路龍吟虎嘷天皇雙景遠升辰樓飛星擲光日月映軀口吐㝠煙眼激電光上寢瓊房流行玉清手掣景雲足陟金庭若自此之時在得道之頃爲當固盡内外理同金石情纏雙好齊心幃幙耳爲必抱衾均牢有輕中之接塵穢七神悲魂任魄乎蓋是妾求氏族於明君耳非有邪也今可謂得志懷眞情已如一方當相與結駟玉虚偶行此玄同掇絳實於玉圃併採丹華於閬園分飲於紫川之水齊濯於碧河之濱紫華毛帔日冕蓉冠逍遥上清俱朝三元八景出落鳳扉雲關仰漱金髓咏歌玉玄浮空寢晏高會太晨四鈞朗唱香母奏煙齊首偶觀携帶交裙不亦樂乎不亦得志乎明君其順運隨會妾必無辭且亦自不得背實反冥苟任胷懷矣授畢復自取視而言曰今以此書相詣庶豁其滯疑耳言畢乃笑良久紫微夫人曰眞妃之辭盡矣論好之縁著矣爾亦不得復有所容也玄運冥分使之然耳南岳夫人見授書曰㝠期數感玄運相適應分來聘新搆因縁此携眞之善事也蓋示有偶對之名定内外之職而已不必苟循世中之弊穢而行淫濁之下迹矣偶靈妃以接景聘貴眞之少女於爾親交亦大有進業之益得而無傷絶之慮耳千神於是可使試觀不得復陳矣眞旌必可尅徃雲軿必可俱駕也吾徃曾因紫微夫人爲汝構及此意今遂如願益使我欣欣愼復疑矧於心胷矣我昨見金臺李夫人於清虚中言爾尚有疑正之心色氣小有謂應作悢悢字汝違此舉誤人不小眞妃有神虎内眞丹青玉文非爾所有者輩良才求寫故當不爲隱耳今日相携何但文章而已將必乘景王霄乎若有未悟者宜微訪可否眞妃見夫人書言乃笑而言携手雙臺娱歎良會景軿同機於此齊乎眞誥卷之一}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_HFL_001-017a, image: hfl/0637/0637-040.png}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_HFL_001-017b, image: hfl/0637/0637-041.png}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_HFL_001-018a, image: hfl/0637/0637-042.png}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_HFL_001-018b, image: hfl/0637/0637-043.png}
+  - {type: variant, offset: 382, length: 3, content: 似孫敘, WYG: 清鬱輿流霄使鳯歌雲路龍吟虎嘷天皇雙景逺升辰樓飛星擲光日月映軀口吐冥煙眼激電光上寢瓊房流行玉清手掣景雲足陟金庭若自此之時在得道之頃為當固盡内外理同金石情纒雙好齊心幃幙耳為必抱衾均牢有輕中之接塵穢七神悲魂任魄乎蓋是妾求氏族於明君耳非有邪也今可謂得志懷眞情已如一方當相與結駟玉虚偶行此𤣥同掇綘實於玉圃併採丹華於閬園分飲於紫川之水齊濯於碧河之濱紫華毛帔日冕蓉冠逍遙上清俱朝三元八景出落鳯扉雲關仰潄金髓咏歌玉𤣥浮空寢晏高㑹太晨四鈞朗唱香母奏煙齊首偶觀攜帶交裙不亦樂乎不亦得志乎明君其順運隨㑹妾必無辭且亦自不得背實反冥茍任胷懐矣授畢復自取視而言曰今以此書相詣庶豁其滯疑耳言畢乃笑良久紫㣲夫人曰眞妃之辭盡矣論好之緣著矣爾亦不得復有所容也𤣥運冥分使之然耳南嶽夫人見授書曰冥期數感𤣥運相適應分來聘新搆因緣此攜眞之善事也蓋示有偶對之名定内外之職而已不必茍循世中之弊穢而行淫濁之下迹矣偶靈妃以接景聘貴眞之少女於爾親交亦大有進業之益得而無傷絶之慮耳千神於是可使試觀不得復陳矣眞旌必可尅往雲軿必可俱駕也吾往曾因紫㣲夫人為汝構及此意今遂如願益使我欣欣愼勿復疑矧於心胷矣我昨見金臺李夫人於清虚中言爾尚有疑正之心色氣小有眼眼謂應作悢悢字汝違此舉誤人不小眞妃有神虎内眞丹青玉文非爾所有者輩良才求寫故當不為隱耳今日相攜何但文章而已將必乗景玉霄乎若有未悟者宜㣲訪可否眞妃見夫人書言乃笑而言攜手雙臺娯歎良㑹景軿同機於此齊乎眞誥巻一}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_WYG_001-18a, image: WYG1059/WYG1059-0323a.png}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_WYG_001-18b, image: WYG1059/WYG1059-0323b.png}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_WYG_001-19a, image: WYG1059/WYG1059-0323c.png}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_WYG_001-19b, image: WYG1059/WYG1059-0323d.png}
+  - {type: variant, offset: 382, length: 3, content: 似孫敘, YP-C: 清鬱輿流霄使鳳歌雲路龍吟虎嘷天皇雙景遠升辰樓飛星擲光日月映軀口吐冥煙眼激電光上寢瓊房流行玉清手掣景雲足陟金庭若自此之時在得道之頃爲當固盡內外理同金石情纏雙好齊心幃幙耳爲必抱衾均牢有輕中之接塵穢七神悲魂任魄乎蓋是妾求氏族於明君耳非有邪也今可謂得志懷眞情已如一方當相與結駟玉虛偶行此玄同掇絳實於玉圃併採丹華於閬園分飲於紫川之水齊濯於碧河之濱紫華毛帔日冕蓉冠逍遥上清俱朝三元八景出落鳳扉雲關仰漱金髓咏歌玉玄浮空寢晏高會太晨四鈞朗唱香母奏煙齊首偶觀携帶交裙不亦樂乎不亦得志乎明君其順運隨會妾必無辭且亦自不得背實反冥苟任胷懷矣授畢復自取視而言曰今以此書相詣庶豁其滯疑耳言畢乃笑良久紫微夫人曰眞妃之辭盡矣論好之緣著矣爾亦不得復有所容也玄運冥分使之然耳南岳夫人見授書曰冥期數感玄運相適應分來聘新搆因緣此携眞之善事也蓋示有偶對之名定內外之職而已不必苟循世中之弊穢而行淫濁之下迹矣偶靈妃以接景聘貴眞之少女於爾親交亦大有進業之益得而無傷絕之慮耳千神於是可使試觀不得復陳矣眞旌必可尅往雲軒必可俱駕也吾往曾因紫微夫人爲汝構及此意今遂如願益使我欣欣愼復疑矧於心胷矣我昨見金臺李夫人於清虛中言爾尚有疑正之心色氣小有眼眼謂應作悢悢字汝違此舉誤人不小眞妃有神虎內眞丹青玉文非爾所有者輩良才求寫故當不爲隱耳今日相攜何但文章而已將必乘景王霄乎若有未悟者宜微訪可否眞妃見夫人書言乃笑而言攜手雙臺娛歎良會景軿同機於此齊乎}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_YP-C_20ziji-01-0014b, image: JY237/20ziji-01-0014b.png}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_YP-C_20ziji-01-0015a, image: JY237/20ziji-01-0015a.png}
+  - {type: variant, offset: 382, length: 3, content: 似孫敘, ZTDZ: 清鬱輿流霄使鳳歌雲路龍吟虎嘷天皇雙景遠升辰樓飛星擲光日月映軀口吐㝠煙眼激電光上寢瓊房流行玉清手掣景雲足陟金庭若自此之時在得道之頃爲當固盡内外理同金石情纏雙好齊心幃幙耳爲必抱衾均牢有輕中之接塵穢七神悲魂任魄乎蓋是妾求氏族於明君耳非有邪也今可謂得志懷眞情已如一方當相與結駟玉虚偶行此玄同掇絳實於玉圃併採丹華於閬園分飲於紫川之水齊濯於碧河之濱紫華毛帔日冕蓉冠逍遥上清俱朝三元八景出落鳳扉雲關仰漱金髓咏歌玉玄浮空寢晏高會太晨四鈞朗唱香母奏煙齊首偶觀携帶交裙不亦樂乎不亦得志乎明君其順運隨會妾必無辭且亦自不得背實反冥苟任胷懷矣授畢復自取視而言曰今以此書相詣庶豁其滯疑耳言畢乃笑良久紫微夫人曰眞妃之辭盡矣論好之縁著矣爾亦不得復有所容也玄運冥分使之然耳南岳夫人見授書曰㝠期數感玄運相適應分來聘新搆因縁此携眞之善事也蓋示有偶對之名定内外之職而已不必苟循世中之弊穢而行淫濁之下迹矣偶靈妃以接景聘貴眞之少女於爾親交亦大有進業之益得而無傷絶之慮耳千神於是可使試觀不得復陳矣眞旌必可尅徃雲軿必可俱駕也吾徃曾因紫微夫人爲汝構及此意今遂如願益使我欣欣愼復疑矧於心胷矣我昨見金臺李夫人於清虚中言爾尚有疑正之心色氣小有謂應作悢悢字汝違此舉誤人不小眞妃有神虎内眞丹青玉文非爾所有者輩良才求寫故當不爲隱耳今日相携何但文章而已將必乘景王霄乎若有未悟者宜微訪可否眞妃見夫人書言乃笑而言携手雙臺娱歎良會景軿同機於此齊乎眞誥卷之一}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_SJB_001-200496b, image: sjb/20/200496b.png}
+  - {type: page-break, offset: 382, content: '', id: KR5d0036_SJB_001-200496c, image: sjb/20/200496c.png}
+  - {type: variant, offset: 382, length: 3, content: 似孫敘, krp: 清鬱輿流霄使鳳歌雲路龍吟虎嘷天皇雙景遠升辰樓飛星擲光日月映軀口吐㝠煙眼激電光上寢瓊房流行玉清手掣景雲足陟金庭若自此之時在得道之頃爲當固盡内外理同金石情纏雙好齊心幃幙耳爲必抱衾均牢有輕中之接塵穢七神悲魂任魄乎蓋是妾求氏族於明君耳非有邪也今可謂得志懷眞情已如一方當相與結駟玉虚偶行此玄同掇絳實於玉圃併採丹華於閬園分飲於紫川之水齊濯於碧河之濱紫華毛帔日冕蓉冠逍遥上清俱朝三元八景出落鳳扉雲關仰漱金髓咏歌玉玄浮空寢晏高會太晨四鈞朗唱香母奏煙齊首偶觀携帶交裙不亦樂乎不亦得志乎明君其順運隨會妾必無辭且亦自不得背實反冥苟任胷懷矣授畢復自取視而言曰今以此書相詣庶豁其滯疑耳言畢乃笑良久紫微夫人曰眞妃之辭盡矣論好之縁著矣爾亦不得復有所容也玄運冥分使之然耳南岳夫人見授書曰㝠期數感玄運相適應分來聘新搆因縁此携眞之善事也蓋示有偶對之名定内外之職而已不必苟循世中之弊穢而行淫濁之下迹矣偶靈妃以接景聘貴眞之少女於爾親交亦大有進業之益得而無傷絶之慮耳千神於是可使試觀不得復陳矣眞旌必可尅徃雲軿必可俱駕也吾徃曾因紫微夫人爲汝構及此意今遂如願益使我欣欣愼復疑矧於心胷矣我昨見金臺李夫人於清虚中言爾尚有疑正之心色氣小有謂應作悢悢字汝違此舉誤人不小眞妃有神虎内眞丹青玉文非爾所有者輩良才求寫故當不爲隱耳今日相携何但文章而已將必乘景王霄乎若有未悟者宜微訪可否眞妃見夫人書言乃笑而言携手雙臺娱歎良會景軿同機於此齊乎眞誥卷之一}
+  - {type: punctuation, offset: 385, content: 。, id: KR5d0036_tls_001-bkkpn113}
+  - {type: xml-element, offset: 385, content: '', id: KR5d0036_tls_001-3a_end}
+  back: []
+hash: sha256:1ef7bdce696ec87071ce1ffc5d5ba0d67037ba5fd70cb4a2fe263d9ba6997d51

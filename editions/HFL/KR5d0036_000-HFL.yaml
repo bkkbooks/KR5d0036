@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0036/HFL/v1/juan/0
+seq: 0
+front:
+  text: 眞誥敘安一誥者千也書有湯誥洛誥諸篇孔安國去誥以大義千乎天十者是也經有緯緯者想經緯也其事皆足以輔翼乎經故主緯也眞誥之作其緯於經者乎其目自運象至于翼眞檢者凡七蓋有象乎緯能通乎緯必知誥矣陶者凡七蓋有象乎緯能通乎緯必智誥矣千言玄之道也其餘𧷤玄之奥鉤玄之微能與易老實者各形乎言各見乎事雖然事與言非玄矣其書所載徃徃出乎緯之所以輔
+  hash: sha256:55190f947e0bee075cdfb92bce83bed266f5b04043073a47df10fb48f1a8c5f6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0036_HFL_000-001a, image: hfl/0637/0637-004.png}
+body:
+  text: 經者予少耽黃老說搜索道家者流歲千家殫精日月無能深鑿其鍵嘗接江西道士吳靜拯言玄事靜曰誤矣余驚拜曰願學道靜曰讀易乎讀易足矣後乃以易悟所得者易也陶君固甚知道凡有啓於後學者其或自此始歟太乙宮高士玉京外臣易如剛告予以茅山栞眞誥欲敘其略昔者沈約遗陶君書深言先生糠粃流俗超然獨覽名書絳簡至理精微唯欲下風問道未知厥路若有屬於誥者矣然陶君銘茅山曲林館過云祈生翊命各謂知道參差經術跌宕辭澡是數語者全爲誥設此翁一銘猶足爲山中無窮清風況書乎嘉定十六年十一月冬至日朝散大夫行秘書郎高似孫敘
+  hash: sha256:ecb4fd5875f42f11ca1d49cb10af53abc929189f16823a7560f7d88ad2a8e915
+metadata:
+  title: 真誥
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 01:00:05.642605'
+  source:
+    repository: kanripo
+    path: KR5d0036/KR5d0036_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:c5cf36d529221b1e30b7d8ab9b9270a6bf32167dfcf6877679043c1ddafeaa72

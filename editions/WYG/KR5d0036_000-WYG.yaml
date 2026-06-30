@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5d0036/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十四
+  hash: sha256:59b6c5006a29a1c169640e5600631b30d9a17b0b2b0283c6e596da3e89cb6da6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5d0036_WYG_000-1a, image: WYG1059/WYG1059-0313a.png}
+body:
+  text: 真誥道家𩔖提要臣等謹案真誥二十卷梁陶𢎞景撰𢎞景有刀劍録已著録是書凡運象篇甄命授協昌期稽神樞闡幽微握真輔翼真檢等七篇其運象篇書末𢎞景敘録又作運題象前後必有一訛然未詳孰是也文獻通考作十卷此本乃二十卷葢後人所分析也所言皆仙真授受真訣之事朱子語録云真誥甄命篇却是竊佛家二十四章經為之至如地獄託生妄誕之説皆是竊佛教中至鄙至陋者為之黄伯思東觀餘論則云真誥衆靈教戒條後方圓諸條皆與佛四十二章經同後人所附然二氏之書亦存此一家於天地間耳固不必一一别是非亦無庸一一辨真偽也伯思又云小宋太乙宫詩瑞木千尋聳仙圖幾弔開注云真誥謂一卷為一弔殊不知真誥所云㢧即卷字葢從省丈真誥音亦爾非弔字也然則此書諸卷皆原作㢧字陶宗儀説郛葢本於此今皆作巻幾亦非𢎞景之舊矣乾隆四十四年六月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:0982c783df6305123c320c288ead6e1b8a7b40255826d19af7ddf2149d459ab1
+metadata:
+  title: 真誥
+  edition:
+    short: WYG
+    label: 【四部全書・文淵閣】
+  date: '2015-08-29 01:00:05.642605'
+  source:
+    repository: kanripo
+    path: KR5d0036/KR5d0036_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:50c05e7703a52e1d1523d6fa5c7f4f1e9b199480d734d30f5b1676b846ce104c
