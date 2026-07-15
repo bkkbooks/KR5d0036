@@ -143,6 +143,8 @@ markers:
   - {type: xml-element, offset: 156, content: '', id: KR5d0036_tls_001-1a_end}
   - {type: xml-element, offset: 156, content: '', id: KR5d0036_tls_001-2a}
   - {type: 'tls:seg', offset: 156, content: '', id: KR5d0036_tls_001-2a.1}
+  - {type: substitution, offset: 156, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
+  - {type: substitution, offset: 161, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 162, content: ，, id: KR5d0036_tls_001-bkkpn48}
   - {type: 'tls:seg', offset: 162, content: '', id: KR5d0036_tls_001-2a.2}
   - {type: punctuation, offset: 171, content: ，, id: KR5d0036_tls_001-bkkpn49}
@@ -189,6 +191,7 @@ markers:
   - {type: 'tls:seg', offset: 223, content: '', id: KR5d0036_tls_001-2a.16}
   - {type: punctuation, offset: 229, content: ，, id: KR5d0036_tls_001-bkkpn77}
   - {type: 'tls:seg', offset: 229, content: '', id: KR5d0036_tls_001-2a.17}
+  - {type: substitution, offset: 231, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 236, content: ，, id: KR5d0036_tls_001-bkkpn78}
   - {type: 'tls:seg', offset: 236, content: '', id: KR5d0036_tls_001-2a.18}
   - {type: punctuation, offset: 242, content: ？, id: KR5d0036_tls_001-bkkpn79}
@@ -196,6 +199,7 @@ markers:
   - {type: variant, offset: 250, length: 102, content: 臣易如剛告予以茅山刊真誥欲敘其略昔者沈約遺陶君書深言先生糠比流俗超然獨覽名書絳簡至理精微唯欲下風問道未知厥路若有屬於誥者矣然陶君銘茅山曲林館迺云祈生翊命各謂知道參差經術跌宕辭藻是數語者全為誥設此翁一銘猶足, WYG: 俱}
   - {type: punctuation, offset: 254, content: ，, id: KR5d0036_tls_001-bkkpn80}
   - {type: 'tls:seg', offset: 254, content: '', id: KR5d0036_tls_001-2a.20}
+  - {type: substitution, offset: 255, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 260, content: 《, id: KR5d0036_tls_001-bkkpn81}
   - {type: punctuation, offset: 262, content: 》, id: KR5d0036_tls_001-bkkpn82}
   - {type: punctuation, offset: 262, content: ，, id: KR5d0036_tls_001-bkkpn83}
@@ -204,6 +208,7 @@ markers:
   - {type: 'tls:seg', offset: 266, content: '', id: KR5d0036_tls_001-2a.22}
   - {type: punctuation, offset: 274, content: ，, id: KR5d0036_tls_001-bkkpn85}
   - {type: 'tls:seg', offset: 274, content: '', id: KR5d0036_tls_001-2a.23}
+  - {type: substitution, offset: 278, original: 糠, replacement: 粳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17801}}
   - {type: punctuation, offset: 282, content: ，, id: KR5d0036_tls_001-bkkpn86}
   - {type: 'tls:seg', offset: 282, content: '', id: KR5d0036_tls_001-2a.24}
   - {type: punctuation, offset: 286, content: ，, id: KR5d0036_tls_001-bkkpn87}
@@ -221,6 +226,7 @@ markers:
   - {type: punctuation, offset: 311, content: ！, id: KR5d0036_tls_001-bkkpn94}
   - {type: 'tls:seg', offset: 311, content: '', id: KR5d0036_tls_001-2a.30}
   - {type: punctuation, offset: 315, content: 《, id: KR5d0036_tls_001-bkkpn95}
+  - {type: substitution, offset: 320, original: 迺, replacement: 乃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16166}}
   - {type: punctuation, offset: 322, content: ：, id: KR5d0036_tls_001-bkkpn96}
   - {type: 'tls:seg', offset: 322, content: '', id: KR5d0036_tls_001-2a.31}
   - {type: punctuation, offset: 322, content: 「, id: KR5d0036_tls_001-bkkpn97}
@@ -434,6 +440,7 @@ markers:
   - {type: page-break, offset: 378, content: '', id: KR5d0036_YP-C_20ziji-01-0014a, image: JY237/20ziji-01-0014a.png}
   - {type: variant, offset: 378, length: 1, content: 秘, ZTDZ: 玉清也常數自手扉九羅足躡玄房霄形靈虚仰歠日根入宴七闕出轡雲輪攝三辰而俱升散景霞以飛軒也非不能採擇上室訪搜紫童求王宫之良儔偶高靈而爲雙接玄引竒友于帝郎矣直是我推機任會應度歷數俯景塵沫參龍下邁招冥求之雄追得匹之黨耳自因宿命相與乃有墨會定名素契玉郷齊理二慶携鴈而行匏爵分味醮衾結裳顧儔中饋内藏眞方也推此而徃已定分冥簡青}
   - {type: variant, offset: 378, length: 1, content: 秘, krp: 玉清也常數自手扉九羅足躡玄房霄形靈虚仰歠日根入宴七闕出轡雲輪攝三辰而俱升散景霞以飛軒也非不能採擇上室訪搜紫童求王宫之良儔偶高靈而爲雙接玄引竒友于帝郎矣直是我推機任會應度歷數俯景塵沫參龍下邁招冥求之雄追得匹之黨耳自因宿命相與乃有墨會定名素契玉郷齊理二慶携鴈而行匏爵分味醮衾結裳顧儔中饋内藏眞方也推此而徃已定分冥簡青}
+  - {type: substitution, offset: 378, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20732}}
   - {type: variant, offset: 380, length: 1, content: 郎, CK-KZ: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔旨豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反淡凝情虛刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
   - {type: variant, offset: 380, length: 1, content: 郎, CK-KZ-jye: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔旨豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反淡凝情虛刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
   - {type: variant, offset: 380, length: 1, content: 郎, HFL: 上元是故善鄙之心亦已齊矣對景之好亦已域矣得願而遊歡兼昔㫖豈不冥乎自然此復是二象大宗内外之配職耳實非所以變無反淡凝情虚刃靈刀七累遺任太素保眞啓玉單景八空之謂也秀寂}
@@ -465,4 +472,4 @@ markers:
   - {type: punctuation, offset: 385, content: 。, id: KR5d0036_tls_001-bkkpn113}
   - {type: xml-element, offset: 385, content: '', id: KR5d0036_tls_001-3a_end}
   back: []
-hash: sha256:4199a4722e82ff92222075bc11e9c3ee665a4aaab45b4397d4f405bd635887ad
+hash: sha256:e328b336fdc7f3e0553473c67512f323a51ca2ad3238280712caaec8b936943d
