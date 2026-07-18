@@ -55,6 +55,7 @@ markers:
   - {type: variant, offset: 14, length: 4, content: 此有椽書, YP-C: 儳益標高運味玄咀眞呼引景曜凝靜六神煥領八明委順靈根寶鍊三度養液和魂假使衝風繁激將不能伐我之正性也絕飈勃藹焉能迴己之清淳耶爾乃空沖自吟虛心待神營攝百絕栖澄至眞當使憂累靡干於玄宅哀念莫擾於絳津也淡泊眇觀顧景共歡於是至樂自鎗零聞於}
   - {type: variant, offset: 14, length: 4, content: 此有椽書, ZTDZ: 儳益標高運味玄咀眞呼引景曜凝靜六神焕領八明委順靈根寳鍊三度養液和魂假使衝風繁激將不能伐我之正性也絶飈勃藹焉能迴己之清淳耶爾乃空沖自吟虚心待神營攝百絶栖澄至眞當使憂累靡干於玄宅哀念莫擾於絳津也淡泊眇觀顧景共歡於是至樂自鎗零聞於}
   - {type: variant, offset: 14, length: 4, content: 此有椽書, krp: 儳益標高運味玄咀眞呼引景曜凝靜六神焕領八明委順靈根寳鍊三度養液和魂假使衝風繁激將不能伐我之正性也絶飈勃藹焉能迴己之清淳耶爾乃空沖自吟虚心待神營攝百絶栖澄至眞當使憂累靡干於玄宅哀念莫擾於絳津也淡泊眇觀顧景共歡於是至樂自鎗零聞於}
+  - {type: voice, offset: 14, length: 54, name: note, id: n1}
   - {type: variant, offset: 15, length: 2, content: 有椽, WYG: 是授長史今説喻楊君勿疑九華之事也楊}
   - {type: variant, offset: 18, length: 6, content: 兩本雖曰朮敘, WYG: 故望洪濤之暨天則知}
   - {type: variant, offset: 19, length: 14, content: 本雖曰朮敘其實多原大略極論似, CK-KZ: 耳雲璈虛彈}
@@ -793,6 +794,7 @@ markers:
   - {type: punctuation, offset: 1618, content: 。, id: KR5d0036_tls_007-bkkpn308}
   - {type: 'tls:seg', offset: 1618, content: '', id: KR5d0036_tls_007-3a.276}
   - {type: punctuation, offset: 1618, content: (, id: KR5d0036_tls_007-bkkpn309}
+  - {type: voice, offset: 1618, length: 34, name: note, id: n2}
   - {type: variant, offset: 1620, length: 1, content: 後, WYG: 三字本朱書亦}
   - {type: variant, offset: 1622, length: 0, content: '', WYG: 是右英夫人言也為道者實}
   - {type: variant, offset: 1623, length: 5, content: 朮方相連而, WYG: 勤苦斯人也可謂必得之矣右}
@@ -936,6 +938,7 @@ markers:
   - {type: punctuation, offset: 1877, content: 。, id: KR5d0036_tls_007-bkkpn357}
   - {type: 'tls:seg', offset: 1877, content: '', id: KR5d0036_tls_007-6a.18}
   - {type: punctuation, offset: 1877, content: (, id: KR5d0036_tls_007-bkkpn358}
+  - {type: voice, offset: 1877, length: 32, name: note, id: n3}
   - {type: punctuation, offset: 1879, content: ：, id: KR5d0036_tls_007-bkkpn359}
   - {type: 'tls:seg', offset: 1879, content: '', id: KR5d0036_tls_007-6a.19}
   - {type: punctuation, offset: 1886, content: ，, id: KR5d0036_tls_007-bkkpn360}
@@ -992,6 +995,7 @@ markers:
   - {type: punctuation, offset: 2022, content: 。, id: KR5d0036_tls_007-bkkpn381}
   - {type: 'tls:seg', offset: 2022, content: '', id: KR5d0036_tls_007-7a.20}
   - {type: punctuation, offset: 2022, content: (, id: KR5d0036_tls_007-bkkpn382}
+  - {type: voice, offset: 2022, length: 19, name: note, id: n4}
   - {type: punctuation, offset: 2026, content: ，, id: KR5d0036_tls_007-bkkpn383}
   - {type: 'tls:seg', offset: 2026, content: '', id: KR5d0036_tls_007-7a.21}
   - {type: punctuation, offset: 2031, content: ，, id: KR5d0036_tls_007-bkkpn384}
@@ -1055,6 +1059,7 @@ markers:
   - {type: 'tls:seg', offset: 2127, content: '', id: KR5d0036_tls_007-8a.21}
   - {type: punctuation, offset: 2132, content: ○, id: KR5d0036_tls_007-bkkpn419}
   - {type: punctuation, offset: 2133, content: (, id: KR5d0036_tls_007-bkkpn420}
+  - {type: voice, offset: 2133, length: 10, name: note, id: n5}
   - {type: punctuation, offset: 2136, content: 「, id: KR5d0036_tls_007-bkkpn421}
   - {type: variant, offset: 2136, length: 1, content: 校, CK-KZ: 曷}
   - {type: variant, offset: 2136, length: 1, content: 校, CK-KZ-jye: 曷}
@@ -1119,6 +1124,7 @@ markers:
   - {type: punctuation, offset: 2212, content: 。, id: KR5d0036_tls_007-bkkpn441}
   - {type: 'tls:seg', offset: 2212, content: '', id: KR5d0036_tls_007-8a.39}
   - {type: punctuation, offset: 2212, content: (, id: KR5d0036_tls_007-bkkpn442}
+  - {type: voice, offset: 2212, length: 16, name: note, id: n6}
   - {type: punctuation, offset: 2219, content: ，, id: KR5d0036_tls_007-bkkpn443}
   - {type: 'tls:seg', offset: 2219, content: '', id: KR5d0036_tls_007-8a.40}
   - {type: punctuation, offset: 2228, content: ), id: KR5d0036_tls_007-bkkpn444}
@@ -1187,6 +1193,7 @@ markers:
   - {type: 'tls:seg', offset: 2330, content: '', id: KR5d0036_tls_007-10a.5}
   - {type: punctuation, offset: 2333, content: ○, id: KR5d0036_tls_007-bkkpn467}
   - {type: punctuation, offset: 2334, content: (, id: KR5d0036_tls_007-bkkpn468}
+  - {type: voice, offset: 2334, length: 7, name: note, id: n7}
   - {type: punctuation, offset: 2341, content: ), id: KR5d0036_tls_007-bkkpn469}
   - {type: punctuation, offset: 2341, content: 。, id: KR5d0036_tls_007-bkkpn470}
   - {type: 'tls:seg', offset: 2341, content: '', id: KR5d0036_tls_007-10a.6}
@@ -1217,6 +1224,7 @@ markers:
   - {type: punctuation, offset: 2397, content: 。, id: KR5d0036_tls_007-bkkpn482}
   - {type: 'tls:seg', offset: 2397, content: '', id: KR5d0036_tls_007-11a.8}
   - {type: punctuation, offset: 2397, content: (, id: KR5d0036_tls_007-bkkpn483}
+  - {type: voice, offset: 2397, length: 8, name: note, id: n8}
   - {type: punctuation, offset: 2405, content: ), id: KR5d0036_tls_007-bkkpn484}
   - {type: xml-element, offset: 2405, content: '', id: KR5d0036_tls_007-11a_end}
   - {type: xml-element, offset: 2405, content: '', id: KR5d0036_tls_007-12a}
@@ -1317,6 +1325,7 @@ markers:
   - {type: punctuation, offset: 2625, content: ，, id: KR5d0036_tls_007-bkkpn531}
   - {type: 'tls:seg', offset: 2625, content: '', id: KR5d0036_tls_007-15a.7}
   - {type: punctuation, offset: 2631, content: (, id: KR5d0036_tls_007-bkkpn532}
+  - {type: voice, offset: 2631, length: 16, name: note, id: n9}
   - {type: punctuation, offset: 2638, content: ，, id: KR5d0036_tls_007-bkkpn533}
   - {type: 'tls:seg', offset: 2638, content: '', id: KR5d0036_tls_007-15a.8}
   - {type: punctuation, offset: 2643, content: ，, id: KR5d0036_tls_007-bkkpn534}
@@ -1340,6 +1349,7 @@ markers:
   - {type: punctuation, offset: 2683, content: ，, id: KR5d0036_tls_007-bkkpn543}
   - {type: 'tls:seg', offset: 2683, content: '', id: KR5d0036_tls_007-15a.17}
   - {type: punctuation, offset: 2687, content: (, id: KR5d0036_tls_007-bkkpn544}
+  - {type: voice, offset: 2687, length: 19, name: note, id: n10}
   - {type: punctuation, offset: 2693, content: ，, id: KR5d0036_tls_007-bkkpn545}
   - {type: 'tls:seg', offset: 2693, content: '', id: KR5d0036_tls_007-15a.18}
   - {type: punctuation, offset: 2699, content: 。, id: KR5d0036_tls_007-bkkpn546}
@@ -1518,6 +1528,7 @@ markers:
   - {type: variant, offset: 3014, length: 55, content: 身中猶景謂應作影字響之隨形聲矣右眾靈教戒所言按此三男真二女真並高真之尊貴者降集甚希恐此是諸降者敘說其事猶如秋分, krp: 室乎正月十一}
   - {type: punctuation, offset: 3017, content: ○, id: KR5d0036_tls_007-bkkpn633}
   - {type: punctuation, offset: 3018, content: (, id: KR5d0036_tls_007-bkkpn634}
+  - {type: voice, offset: 3018, length: 5, name: note, id: n11}
   - {type: punctuation, offset: 3021, content: 「, id: KR5d0036_tls_007-bkkpn635}
   - {type: punctuation, offset: 3022, content: 」, id: KR5d0036_tls_007-bkkpn636}
   - {type: punctuation, offset: 3023, content: ), id: KR5d0036_tls_007-bkkpn637}
@@ -1569,6 +1580,7 @@ markers:
   - {type: punctuation, offset: 3125, content: 。, id: KR5d0036_tls_007-bkkpn654}
   - {type: 'tls:seg', offset: 3125, content: '', id: KR5d0036_tls_007-19a.11}
   - {type: punctuation, offset: 3125, content: (, id: KR5d0036_tls_007-bkkpn655}
+  - {type: voice, offset: 3125, length: 12, name: note, id: n12}
   - {type: variant, offset: 3128, length: 0, content: '', CK-KZ: 是寅年正月九華告}
   - {type: variant, offset: 3128, length: 0, content: '', CK-KZ-jye: 是寅年正月九華告}
   - {type: variant, offset: 3128, length: 0, content: '', HFL: 是寅年正月九華告}
@@ -1621,6 +1633,7 @@ markers:
   - {type: punctuation, offset: 3214, content: 。, id: KR5d0036_tls_007-bkkpn670}
   - {type: 'tls:seg', offset: 3214, content: '', id: KR5d0036_tls_007-20a.14}
   - {type: punctuation, offset: 3214, content: (, id: KR5d0036_tls_007-bkkpn671}
+  - {type: voice, offset: 3214, length: 70, name: note, id: n13}
   - {type: variant, offset: 3218, length: 3, content: 待歌詩, WYG: 氣色也六月二}
   - {type: variant, offset: 3222, length: 50, content: 篇接戒來至此凡八紙並更手界紙書後截半行書字即是楊書淨睹天地行此前當並有楊續書後人更寫別續之耳所以前脫, WYG: ''}
   - {type: punctuation, offset: 3228, content: ，, id: KR5d0036_tls_007-bkkpn672}
@@ -1786,6 +1799,7 @@ markers:
   - {type: punctuation, offset: 3581, content: 。, id: KR5d0036_tls_007-bkkpn733}
   - {type: 'tls:seg', offset: 3581, content: '', id: KR5d0036_tls_007-23a.14}
   - {type: punctuation, offset: 3581, content: (, id: KR5d0036_tls_007-bkkpn734}
+  - {type: voice, offset: 3581, length: 18, name: note, id: n14}
   - {type: punctuation, offset: 3586, content: ，, id: KR5d0036_tls_007-bkkpn735}
   - {type: 'tls:seg', offset: 3586, content: '', id: KR5d0036_tls_007-23a.15}
   - {type: punctuation, offset: 3594, content: ，, id: KR5d0036_tls_007-bkkpn736}
@@ -1865,6 +1879,7 @@ markers:
   - {type: punctuation, offset: 3773, content: 。, id: KR5d0036_tls_007-bkkpn767}
   - {type: 'tls:seg', offset: 3773, content: '', id: KR5d0036_tls_007-24a.31}
   - {type: punctuation, offset: 3773, content: (, id: KR5d0036_tls_007-bkkpn768}
+  - {type: voice, offset: 3773, length: 29, name: note, id: n15}
   - {type: punctuation, offset: 3777, content: ，, id: KR5d0036_tls_007-bkkpn769}
   - {type: 'tls:seg', offset: 3777, content: '', id: KR5d0036_tls_007-24a.32}
   - {type: punctuation, offset: 3785, content: ，, id: KR5d0036_tls_007-bkkpn770}
@@ -1951,6 +1966,7 @@ markers:
   - {type: 'tls:seg', offset: 3837, content: '', id: KR5d0036_tls_007-26a.6}
   - {type: punctuation, offset: 3843, content: ○, id: KR5d0036_tls_007-bkkpn778}
   - {type: punctuation, offset: 3844, content: (, id: KR5d0036_tls_007-bkkpn779}
+  - {type: voice, offset: 3844, length: 5, name: note, id: n16}
   - {type: punctuation, offset: 3847, content: 「, id: KR5d0036_tls_007-bkkpn780}
   - {type: punctuation, offset: 3848, content: 」, id: KR5d0036_tls_007-bkkpn781}
   - {type: punctuation, offset: 3849, content: ), id: KR5d0036_tls_007-bkkpn782}
@@ -2099,6 +2115,7 @@ markers:
   - {type: 'tls:seg', offset: 4001, content: '', id: KR5d0036_tls_007-28a.22}
   - {type: punctuation, offset: 4004, content: ○, id: KR5d0036_tls_007-bkkpn810}
   - {type: punctuation, offset: 4005, content: (, id: KR5d0036_tls_007-bkkpn811}
+  - {type: voice, offset: 4005, length: 5, name: note, id: n17}
   - {type: punctuation, offset: 4008, content: 「, id: KR5d0036_tls_007-bkkpn812}
   - {type: variant, offset: 4008, length: 1, content: 箴, CK-KZ: 阡}
   - {type: variant, offset: 4008, length: 1, content: 箴, CK-KZ-jye: 阡}
@@ -2319,6 +2336,7 @@ markers:
   - {type: variant, offset: 4099, length: 7, content: 散似是術散河上, YP-C: 不可忘也又爲寶密關達機密銀亦爲次寶也其今多情彌精耳後勿復數爾勞損其神右小茅君㖟所言許賤者戴石子之女也爲讎家薛世等所殺又世殺賤抱小兒阿甯賤今在}
   - {type: variant, offset: 4099, length: 7, content: 散似是術散河上, ZTDZ: 不可忘也又爲寳宻關達機宻銀亦爲次寳也其今多情彌精耳後勿復數爾勞損其神右小茅君㖟所言許賤者戴石子之女也爲讎家薛世等所殺又世殺賤抱小兒阿寧賤今在}
   - {type: variant, offset: 4099, length: 7, content: 散似是術散河上, krp: 不可忘也又爲寳宻關達機宻銀亦爲次寳也其今多情彌精耳後勿復數爾勞損其神右小茅君㖟所言許賤者戴石子之女也爲讎家薛世等所殺又世殺賤抱小兒阿寧賤今在}
+  - {type: voice, offset: 4099, length: 10, name: note, id: n18}
   - {type: punctuation, offset: 4104, content: 。, id: KR5d0036_tls_007-bkkpn832}
   - {type: 'tls:seg', offset: 4104, content: '', id: KR5d0036_tls_007-31a.4}
   - {type: punctuation, offset: 4106, content: ，, id: KR5d0036_tls_007-bkkpn833}
@@ -2488,6 +2506,7 @@ markers:
   - {type: variant, offset: 4146, length: 25, content: 七世之德本鍾於學者若不學則非復所賴故以為戒徒攝上道, YP-C: 夫須人陶}
   - {type: variant, offset: 4146, length: 25, content: 七世之德本鍾於學者若不學則非復所賴故以為戒徒攝上道, ZTDZ: 夫須人陶}
   - {type: variant, offset: 4146, length: 25, content: 七世之德本鍾於學者若不學則非復所賴故以為戒徒攝上道, krp: 夫須人陶}
+  - {type: voice, offset: 4146, length: 21, name: note, id: n19}
   - {type: punctuation, offset: 4150, content: ，, id: KR5d0036_tls_007-bkkpn840}
   - {type: 'tls:seg', offset: 4150, content: '', id: KR5d0036_tls_007-32a.6}
   - {type: punctuation, offset: 4155, content: 。, id: KR5d0036_tls_007-bkkpn841}
@@ -2516,6 +2535,7 @@ markers:
   - {type: variant, offset: 4177, length: 214, content: 鬼耳下鬼謂下解主者鬼帥耳不必是酆宮之鬼也經中亦云如此在官無事夷真內煉紛錯不穢其聰明爭兢不交於胸心者此道士之在官也秀玄棲摽者雖山河崩潰而不眄志道存真者雖寒熱飢渴猶不護此一往之至也精散八虛魂遊萬途或因風以投間或挾魍以結屙將一切撥之而勿耳矣昔之道非今道也靈覺苟殊百隙其如予何章聞之亦足以檢撲矣右九條並楊書夫真者都無情慾之感男女之想也若丹白存於胸中則真感不應靈女上尊不降矣縱有得者不過在於主者耳陰氣之接永不可以修至道也吾昔常恨此賴改之速, ZTDZ: 通}
   - {type: variant, offset: 4177, length: 214, content: 鬼耳下鬼謂下解主者鬼帥耳不必是酆宮之鬼也經中亦云如此在官無事夷真內煉紛錯不穢其聰明爭兢不交於胸心者此道士之在官也秀玄棲摽者雖山河崩潰而不眄志道存真者雖寒熱飢渴猶不護此一往之至也精散八虛魂遊萬途或因風以投間或挾魍以結屙將一切撥之而勿耳矣昔之道非今道也靈覺苟殊百隙其如予何章聞之亦足以檢撲矣右九條並楊書夫真者都無情慾之感男女之想也若丹白存於胸中則真感不應靈女上尊不降矣縱有得者不過在於主者耳陰氣之接永不可以修至道也吾昔常恨此賴改之速, krp: 通}
   - {type: punctuation, offset: 4179, content: (, id: KR5d0036_tls_007-bkkpn847}
+  - {type: voice, offset: 4179, length: 24, name: note, id: n20}
   - {type: punctuation, offset: 4189, content: 。, id: KR5d0036_tls_007-bkkpn848}
   - {type: 'tls:seg', offset: 4189, content: '', id: KR5d0036_tls_007-32a.12}
   - {type: punctuation, offset: 4197, content: 。, id: KR5d0036_tls_007-bkkpn849}
@@ -2873,6 +2893,7 @@ markers:
   - {type: punctuation, offset: 4652, content: 。, id: KR5d0036_tls_007-bkkpn930}
   - {type: 'tls:seg', offset: 4652, content: '', id: KR5d0036_tls_007-40a.11}
   - {type: punctuation, offset: 4652, content: (, id: KR5d0036_tls_007-bkkpn931}
+  - {type: voice, offset: 4652, length: 31, name: note, id: n21}
   - {type: punctuation, offset: 4659, content: 。, id: KR5d0036_tls_007-bkkpn932}
   - {type: 'tls:seg', offset: 4659, content: '', id: KR5d0036_tls_007-40a.12}
   - {type: punctuation, offset: 4664, content: ，, id: KR5d0036_tls_007-bkkpn933}
@@ -2913,4 +2934,4 @@ markers:
   - {type: page-break, offset: 4689, content: '', id: KR5d0036_SJB_007-200532a, image: sjb/20/200532a.png}
   - {type: variant, offset: 4689, length: 0, content: '', krp: 以示人家有疾病死喪衰厄光怪夢悟錢財滅耗可以禳厭唯應分解冢訟墓注爲急不能解釋禍方未已右保命答許長史眞誥卷之七}
   back: []
-hash: sha256:9e3459a9e3b85b60c8af3e1ce57270a9d3c04b65efea0e16386e58a089122b24
+hash: sha256:870117d5a6133d92adcb6d925966fd6b51774445b55e560909c3bdf130d227cd
